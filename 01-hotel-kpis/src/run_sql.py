@@ -26,10 +26,14 @@ def split_queries(sql_text):
     pairs = []
     for chunk in sql_text.split(";"):
         lines = [line for line in chunk.strip().splitlines() if line.strip()]
-        comments = [l.strip().lstrip("-").strip() for l in lines if l.strip().startswith("--")]
+        # title = the last comment line ABOVE the query (comments inside the query are ignored)
+        title = "Query"
+        for line in lines:
+            if not line.strip().startswith("--"):
+                break
+            title = line.strip().lstrip("-").strip()
         code = "\n".join(l for l in lines if not l.strip().startswith("--"))
         if code.strip():
-            title = comments[-1] if comments else "Query"
             pairs.append((title, code))
     return pairs
 
