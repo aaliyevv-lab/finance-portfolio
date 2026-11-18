@@ -19,7 +19,7 @@ re-runs the base case as an independent check of the Excel formulas.
 | Market price (mid-Nov 2026) | HUF 13,600 → **6% downside** |
 | Enterprise value | HUF 2,024bn |
 | WACC / terminal growth | 10.5% / 3.0% |
-| Sensitivity range (WACC ±1pp, g ±1pp) | HUF 11,970 – 15,610 |
+| Sensitivity range (WACC ±1pp, g ±1pp) | HUF 11,064 – 15,613 |
 
 - **The patent cliff explains the low multiple.** Royalties are ~27% of revenue but most of the
   profit. As they fall away, group EBIT margin drops from ~32% to ~20% by 2030.
