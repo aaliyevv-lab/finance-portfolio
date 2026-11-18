@@ -26,4 +26,4 @@ pip install -r requirements.txt
 ```
 Each project folder has its own README with run instructions.
 
-*All datasets are synthetic (generated with a fixed random seed) or public market data. No real company or client data is used.*
+*All datasets are synthetic (generated with a fixed random seed), public market data, or published company reports (Richter DCF). No confidential company or client data is used.*
