@@ -4,7 +4,7 @@
 | # | Project | Status |
 |---|---------|--------|
 | 0 | Setup (repo, tools, git basics) | Done |
-| 1 | hotel-kpis | In progress: Task 5/8 done |
+| 1 | hotel-kpis | In progress: Task 7/8 done (README in review) |
 | 2 | ledger-reconciliation | Not started |
 | 3 | audit-analytics | Not started |
 | 4 | portfolio-risk | Not started |
@@ -63,6 +63,23 @@
   Insight: the lead-time result is confounded by channel (omitted variable bias).
 - **Struggled with:** (fill in)
 - **To review:** explain why "lost revenue" from cancellations is an upper bound, and the confounding in query 4.
+
+### 2026-11-18: hotel-kpis Task 6: revenue by channel
+- **Done:** `sql/05_channel_revenue.sql`: gross/commission/net by channel, monthly pivot by channel,
+  commission by month. Booking.com €6.40M gross but €1.15M commission; total commission ≈ €1.95M (9.5%).
+- **Learned:** net ADR as the real value of a channel; pivot in SQL with `SUM(CASE WHEN ...)`
+  (= `pivot_wider`); multiply inside SUM when each row has its own rate.
+  Git: push rejected → `git pull` (rebase) → `git push`.
+- **Struggled with:** (fill in)
+- **To review:** the "move 10% of Booking.com nights to direct = ~€115k saving" calculation.
+
+### 2026-11-18: hotel-kpis Task 7: charts in Python
+- **Done:** `src/make_charts.py` (written by Claude, read and run by me): runs the saved SQL with
+  `pd.read_sql`, saves 4 PNGs in `output/` (monthly KPIs, channel revenue, cancellations, weekday/weekend).
+- **Learned:** DataFrame = R data frame; matplotlib `fig, ax` vs ggplot layers; `plt.subplots(3, 1)` ≈ facets;
+  Python functions, loops, indentation, 0-based indexing, f-strings. Why no dual-axis charts.
+- **Struggled with:** (fill in)
+- **To review:** explain what `query("03_adr_revpar.sql", 1)` does step by step.
 
 ## Review list (things to revisit before interviews)
 - (empty for now)
