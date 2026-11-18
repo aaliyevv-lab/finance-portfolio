@@ -4,8 +4,8 @@
 | # | Project | Status |
 |---|---------|--------|
 | 0 | Setup (repo, tools, git basics) | Done |
-| 1 | hotel-kpis | In progress: Task 7/8 done (README in review) |
-| 2 | ledger-reconciliation | Not started |
+| 1 | hotel-kpis | Done (interview answers to practise) |
+| 2 | ledger-reconciliation | Next |
 | 3 | audit-analytics | Not started |
 | 4 | portfolio-risk | Not started |
 
@@ -81,8 +81,25 @@
 - **Struggled with:** (fill in)
 - **To review:** explain what `query("03_adr_revpar.sql", 1)` does step by step.
 
+### 2026-11-18: hotel-kpis Task 8: README + portfolio front page
+- **Done:** project README for recruiters, portfolio front page (name, skills, status table, key result, chart).
+- **Learned:** `cd ..`, `pwd`; save before committing (● = unsaved); `git add` works relative to the current folder.
+
 ## Review list (things to revisit before interviews)
-- (empty for now)
+- Hotel KPI formulas: occupancy, ADR, RevPAR = occupancy × ADR, cancellation rate, net ADR.
+- Calendar range join (`date >= check_in AND date < check_out`) and why check-out is not a night.
+- WHERE vs HAVING; `AVG(CASE WHEN ...)` for rates; pivot with `SUM(CASE WHEN ...)`.
+- Git loop: pull → work → add → commit → push; rejected push → pull, then push.
 
 ## Interview Q&A practice
-- (filled in after each project)
+### Project 1: hotel-kpis (model answers given by Claude on request; practise saying them in my own words)
+1. **Occupancy up 80% → 85% but RevPAR fell?** RevPAR = occupancy × ADR, so ADR must have fallen more than
+   occupancy rose (e.g. 80% × €600 = €480 vs 85% × €550 = €467.50). Check ADR by segment/channel, discounting,
+   channel mix shift toward OTAs/corporate, room-type mix (more Deluxe, fewer suites), and length-of-stay/promo deals.
+2. **Monthly occupancy in SQL?** Room-nights sold ÷ room-nights available. Tricky part: stays crossing month ends.
+   Joined bookings to a calendar table on `date >= check_in AND date < check_out` (one row per night), counted
+   stayed nights per month, divided by 130 × days. Sanity checks found a weekend-flag bug (Sunday counted).
+3. **Reduce dependence on Booking.com?** 31% of gross (€6.4M) but €1.15M commission; net ADR €467 vs €570 direct;
+   30% cancellation rate. Shift some demand to direct (10% shift ≈ €115k/yr) via best-rate guarantee, loyalty
+   perks, non-refundable rates — but don't drop it: reach to foreign guests, fills Jan–Feb, billboard effect.
+- **Still to do:** answer all three out loud without notes; time each answer (≤ 60 seconds).
