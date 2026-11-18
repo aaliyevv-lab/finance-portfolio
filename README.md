@@ -21,3 +21,7 @@ in SQL, ledger reconciliation, audit analytics, and portfolio risk.
 Requires Python 3.12+.
 ```bash
 pip install -r requirements.txt
+```
+Each project folder has its own README with run instructions.
+
+*All datasets are synthetic (generated with a fixed random seed) or public market data. No real company or client data is used.*
