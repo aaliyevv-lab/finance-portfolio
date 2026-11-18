@@ -4,7 +4,7 @@
 | # | Project | Status |
 |---|---------|--------|
 | 0 | Setup (repo, tools, git basics) | Done |
-| 1 | hotel-kpis | In progress: Task 3/8 done |
+| 1 | hotel-kpis | In progress: Task 4/8 done |
 | 2 | ledger-reconciliation | Not started |
 | 3 | audit-analytics | Not started |
 | 4 | portfolio-risk | Not started |
@@ -44,6 +44,15 @@
   because GitHub had newer commits → `git pull` then `git push`.
 - **Struggled with:** (fill in)
 - **To review:** explain out loud why counting nights by check-in month gives the wrong monthly occupancy.
+
+### 2026-11-18: hotel-kpis Task 4: ADR and RevPAR
+- **Done:** `sql/03_adr_revpar.sql`: monthly occupancy/ADR/RevPAR, KPIs by room type, full-year totals.
+  Full year: €20.64M room revenue, 78.7% occupancy, €553 ADR, €435 RevPAR. December has the highest RevPAR
+  (€563, ADR €656) despite lower occupancy than summer; Jan–Feb RevPAR ~€233.
+- **Learned:** ADR vs RevPAR (RevPAR = occupancy × ADR), chaining several CTEs, a query with no GROUP BY
+  returns one summary row. Set git identity (user.name / user.email) so commits link to GitHub profile.
+- **Struggled with:** (fill in)
+- **To review:** explain why a hotel can raise occupancy and still lose RevPAR.
 
 ## Review list (things to revisit before interviews)
 - (empty for now)
