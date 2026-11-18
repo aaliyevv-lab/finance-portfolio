@@ -8,6 +8,7 @@
 | 2 | ledger-reconciliation | Not started |
 | 3 | audit-analytics | Not started |
 | 4 | portfolio-risk | Not started |
+| 5 | richter-dcf | Done (extra project, built outside the task-by-task format) |
 
 ## Log
 
@@ -80,6 +81,18 @@
   Python functions, loops, indentation, 0-based indexing, f-strings. Why no dual-axis charts.
 - **Struggled with:** (fill in)
 - **To review:** explain what `query("03_adr_revpar.sql", 1)` does step by step.
+
+### 2026-11-18: richter-dcf: DCF valuation of Gedeon Richter
+- **Done:** Excel DCF built by Claude from Richter's 2025 annual report (`src/build_model.py` writes
+  every forecast cell as a formula), Python check in `src/make_chart.py` (same HUF 12,753 per share),
+  chart and README. Base case: HUF 12,753 vs HUF 13,600 price (-6%); EV HUF 2,024bn; WACC 10.5%, g 3%.
+- **Learned:** FCFF = EBIT × (1 − t) + D&A − capex − ΔNWC; CAPM WACC; Gordon-growth terminal value;
+  EV-to-equity bridge (add cash and investments, subtract debt, leases, NCI). Key insight: a first
+  version without the Vraylar patent cliff gave HUF 20,300, so modelling the business correctly
+  matters more than the formulas.
+- **Struggled with:** (fill in)
+- **To review:** walk through the DCF tab top to bottom out loud; explain why the terminal value
+  excludes royalties; change the core EBIT margin to 18% and explain how the value moves.
 
 ## Review list (things to revisit before interviews)
 - (empty for now)
