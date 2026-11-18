@@ -4,7 +4,7 @@
 | # | Project | Status |
 |---|---------|--------|
 | 0 | Setup (repo, tools, git basics) | Done |
-| 1 | hotel-kpis | In progress: Task 4/8 done |
+| 1 | hotel-kpis | In progress: Task 5/8 done |
 | 2 | ledger-reconciliation | Not started |
 | 3 | audit-analytics | Not started |
 | 4 | portfolio-risk | Not started |
@@ -53,6 +53,16 @@
   returns one summary row. Set git identity (user.name / user.email) so commits link to GitHub profile.
 - **Struggled with:** (fill in)
 - **To review:** explain why a hotel can raise occupancy and still lose RevPAR.
+
+### 2026-11-18: hotel-kpis Task 5: cancellations and lead time
+- **Done:** `sql/04_cancellations.sql`: cancellation rate + revenue at risk by channel, by arrival month,
+  lead time by channel, cancellation rate by lead-time bucket. Booking.com 30% vs travel agents 10%;
+  Booking.com = €2.9M of €5.6M cancelled booking value.
+- **Learned:** `AVG(CASE WHEN ... THEN 1 ELSE 0 END)` = `mean(x == "a")`; `julianday()` date differences;
+  `CASE` without ELSE gives NULL and AVG skips NULLs (like `na.rm = TRUE`); bucket labels prefixed for sorting.
+  Insight: the lead-time result is confounded by channel (omitted variable bias).
+- **Struggled with:** (fill in)
+- **To review:** explain why "lost revenue" from cancellations is an upper bound, and the confounding in query 4.
 
 ## Review list (things to revisit before interviews)
 - (empty for now)
