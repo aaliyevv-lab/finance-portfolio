@@ -4,7 +4,7 @@
 | # | Project | Status |
 |---|---------|--------|
 | 0 | Setup (repo, tools, git basics) | Done |
-| 1 | hotel-kpis | In progress: Task 1/8 done |
+| 1 | hotel-kpis | In progress: Task 2/8 done |
 | 2 | ledger-reconciliation | Not started |
 | 3 | audit-analytics | Not started |
 | 4 | portfolio-risk | Not started |
@@ -20,11 +20,21 @@
 
 ### 2026-11-18: hotel-kpis Task 1: generate database
 - **Done:** `src/generate_data.py` builds `data/hotel.db` (rooms 130, rates 48, channels 5,
-  calendar 365, bookings 18,920). Sanity check: occupancy 58% (Jan) to 89% (Jun–Sep), no double bookings.
+  calendar 365, bookings 18,775 after the weekend fix). Occupancy 57% (Jan) to 88% (Jun–Sep), no double bookings.
 - **Learned:** database schema (PRIMARY KEY, REFERENCES/foreign key, NOT NULL, CHECK), why
   a fixed random seed matters, calendar table for splitting stays across months.
 - **Struggled with:** (fill in)
 - **To review:** read the CREATE TABLE block and explain each table out loud.
+- **Bug found later (Task 3):** weekend flag used `dayofweek >= 4`, which also counted Sunday
+  (pandas: Monday = 0). Fixed to Fri+Sat only. Lesson: sanity-check counts (a year has ~104 weekend nights, not 157).
+
+### 2026-11-18: hotel-kpis Task 2: SQL basics
+- **Done:** set up VS Code + git on Mac (clone, pull, commit, push). `sql/01_explore.sql` with 7 queries:
+  SELECT/LIMIT, GROUP BY + COUNT/AVG, WHERE with AND, subquery for % share, JOIN with aliases, HAVING.
+- **Learned:** SQL execution order (FROM → JOIN → WHERE → GROUP BY → HAVING → SELECT → ORDER BY → LIMIT);
+  WHERE filters rows before grouping, HAVING filters groups after; 100.0 to avoid integer division.
+- **Struggled with:** writing query 7 (channel length of stay) from scratch; asked for the solution.
+- **To review:** rewrite query 7 from memory without looking; translate it into dplyr and back.
 
 ## Review list (things to revisit before interviews)
 - (empty for now)

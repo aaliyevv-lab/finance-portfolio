@@ -96,7 +96,7 @@ calendar = pd.DataFrame({
     "year": dates.year,
     "month": dates.strftime("%Y-%m"),
     "day_of_week": dates.day_name(),
-    "is_weekend": (dates.dayofweek >= 4).astype(int),  # Fri & Sat nights
+    "is_weekend": dates.dayofweek.isin([4, 5]).astype(int),  # Fri & Sat nights (Mon = 0)
 })
 
 
@@ -106,7 +106,7 @@ calendar = pd.DataFrame({
 def night_profile(date):
     """Return (price multiplier, target occupancy) for a given night."""
     mult, occ = SEASON[date.strftime("%Y-%m")]
-    if date.dayofweek >= 4:  # Fri/Sat nights are busier and pricier in a city hotel
+    if date.dayofweek in (4, 5):  # Fri/Sat nights are busier and pricier in a city hotel
         occ = min(occ + 0.07, 0.97)
         mult *= 1.08
     for start, end, ev_mult, ev_occ in EVENTS:
