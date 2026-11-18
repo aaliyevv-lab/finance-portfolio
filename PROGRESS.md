@@ -4,7 +4,7 @@
 | # | Project | Status |
 |---|---------|--------|
 | 0 | Setup (repo, tools, git basics) | Done |
-| 1 | hotel-kpis | In progress: Task 2/8 done |
+| 1 | hotel-kpis | In progress: Task 3/8 done |
 | 2 | ledger-reconciliation | Not started |
 | 3 | audit-analytics | Not started |
 | 4 | portfolio-risk | Not started |
@@ -35,6 +35,15 @@
   WHERE filters rows before grouping, HAVING filters groups after; 100.0 to avoid integer division.
 - **Struggled with:** writing query 7 (channel length of stay) from scratch; asked for the solution.
 - **To review:** rewrite query 7 from memory without looking; translate it into dplyr and back.
+
+### 2026-11-18: hotel-kpis Task 3: occupancy by month
+- **Done:** `sql/02_occupancy.sql`: booking split into nights, monthly occupancy, weekday vs weekend.
+  Results: 57.3% (Jan) to 88.4% (Sep); weekends 82.4% vs weekdays 77.2%.
+- **Learned:** range join to the calendar (one booking row → one row per night, like `tidyr::uncount`),
+  check-out date is not a night, CTEs (`WITH`), LEFT JOIN, CASE WHEN. First time a push was rejected
+  because GitHub had newer commits → `git pull` then `git push`.
+- **Struggled with:** (fill in)
+- **To review:** explain out loud why counting nights by check-in month gives the wrong monthly occupancy.
 
 ## Review list (things to revisit before interviews)
 - (empty for now)
