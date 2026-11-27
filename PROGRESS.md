@@ -7,7 +7,7 @@
 | 1 | hotel-kpis | Done (interview answers to practise) |
 | 2 | ledger-reconciliation | Done (code given by Claude step by step, run and committed by me; interview questions to practise) |
 | 3 | audit-analytics | Done (code by Claude, run, checked and committed by me task by task; interview questions to practise) |
-| 4 | portfolio-risk | Not started |
+| 4 | portfolio-risk | In progress: Task 1 (branch `portfolio-risk`) |
 | 5 | richter-dcf | Done (extra project, built outside the task-by-task format) |
 
 ## Log
