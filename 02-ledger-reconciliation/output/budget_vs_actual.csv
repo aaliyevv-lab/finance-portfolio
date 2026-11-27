@@ -1,0 +1,11 @@
+category,budget_eur,actual_eur,variance_eur,variance_pct,result,explain
+Card takings,640000,662995.32,22995.32,0.0359,Favourable,False
+Guest and corporate receipts,360000,396501.06,36501.06,0.1014,Favourable,True
+Food and beverage suppliers,-150000,-172120.13,-22120.13,-0.1475,Unfavourable,True
+Housekeeping and laundry,-105000,-108836.95,-3836.95,-0.0365,Unfavourable,False
+Utilities,-48000,-54774.79,-6774.79,-0.1411,Unfavourable,True
+IT and other suppliers,-60000,-91817.21,-31817.21,-0.5303,Unfavourable,True
+Payroll and taxes,-455000,-453686.65,1313.35,0.0029,Favourable,False
+Bank charges,-1500,-1927.36,-427.36,-0.2849,Unfavourable,False
+Interest income,300,412.18,112.18,0.3739,Favourable,False
+NET CASH FLOW,180800,176745.47,-4054.53,-0.0224,Unfavourable,False

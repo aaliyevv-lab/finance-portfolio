@@ -1,0 +1,194 @@
+gl_id,posting_date,account,source,description,reference,amount,category
+GL0001,2026-10-01,1100,POS,Card takings AMEX 01/10,CARD-AMEX-1001,6434.68,Card takings
+GL0002,2026-10-01,1100,POS,Card takings VISA/MC 01/10,CARD-VISA-1001,19626.62,Card takings
+GL0003,2026-10-01,1100,AR,Receipt Audi Hungaria INV-261015,INV-261015,12113.48,Guest and corporate receipts
+GL0004,2026-10-01,1100,AP,Payment IT Systems Zrt,PAY-5007,-7772.32,IT and other suppliers
+GL0005,2026-10-01,1100,AP,Payment Laundry Pro Kft,PAY-5055,-8414.68,Housekeeping and laundry
+GL0006,2026-10-02,1100,POS,Card takings AMEX 02/10,CARD-AMEX-1002,2738.64,Card takings
+GL0007,2026-10-02,1100,POS,Card takings VISA/MC 02/10,CARD-VISA-1002,22186.66,Card takings
+GL0008,2026-10-02,1100,AR,Receipt Audi Hungaria INV-261010,INV-261010,4919.21,Guest and corporate receipts
+GL0009,2026-10-02,1100,AP,Payment IT Systems Zrt,PAY-5058,-7870.92,IT and other suppliers
+GL0010,2026-10-02,1100,AP,Payment IT Systems Zrt,PAY-5065,-6176.28,IT and other suppliers
+GL0011,2026-10-03,1100,POS,Card takings AMEX 03/10,CARD-AMEX-1003,6304.54,Card takings
+GL0012,2026-10-03,1100,POS,Card takings VISA/MC 03/10,CARD-VISA-1003,14102.83,Card takings
+GL0013,2026-10-03,1100,AP,Payment Metro Kft,PAY-5017,-3053.83,Food and beverage suppliers
+GL0014,2026-10-03,1100,AP,Payment IT Systems Zrt,PAY-5068,-3843.43,IT and other suppliers
+GL0015,2026-10-04,1100,POS,Card takings AMEX 04/10,CARD-AMEX-1004,6016.76,Card takings
+GL0016,2026-10-04,1100,POS,Card takings VISA/MC 04/10,CARD-VISA-1004,9089.51,Card takings
+GL0017,2026-10-04,1100,AP,Payment Hungarian Linen Services,PAY-5016,-6488.12,Housekeeping and laundry
+GL0018,2026-10-04,1100,AP,Payment IT Systems Zrt,PAY-5026,-3083.3,IT and other suppliers
+GL0019,2026-10-04,1100,AP,Payment Hungarian Linen Services,PAY-5036,-399.67,Housekeeping and laundry
+GL0020,2026-10-04,1100,AP,Payment Florist Bp,PAY-5066,-9469.81,IT and other suppliers
+GL0021,2026-10-05,1100,POS,Card takings AMEX 05/10,CARD-AMEX-1005,4073.64,Card takings
+GL0022,2026-10-05,1100,POS,Card takings VISA/MC 05/10,CARD-VISA-1005,22550.18,Card takings
+GL0023,2026-10-05,1100,AR,Receipt Deloitte Budapest INV-261001,INV-261001,7722.97,Guest and corporate receipts
+GL0024,2026-10-05,1100,AR,Receipt Richter Gedeon INV-261030,INV-261030,16220.5,Guest and corporate receipts
+GL0025,2026-10-05,1100,AP,Payment Wine Cellar Tokaj,PAY-5002,-6314.22,Food and beverage suppliers
+GL0026,2026-10-05,1100,AP,Payment Metro Kft,PAY-5012,-339.02,Food and beverage suppliers
+GL0027,2026-10-05,1100,AP,Payment Hungarian Linen Services,PAY-5025,-6008.82,Housekeeping and laundry
+GL0028,2026-10-05,1100,AP,Payment Coffee Bean Ltd,PAY-5038,-8983.92,Food and beverage suppliers
+GL0029,2026-10-05,1100,AP,Payment Metro Kft,PAY-5049,-7285.74,Food and beverage suppliers
+GL0030,2026-10-05,1100,AP,Payment Elektro Energia,PAY-5072,-4074.86,Utilities
+GL0031,2026-10-06,1100,POS,Card takings AMEX 06/10,CARD-AMEX-1006,3031.34,Card takings
+GL0032,2026-10-06,1100,POS,Card takings VISA/MC 06/10,CARD-VISA-1006,14151.55,Card takings
+GL0033,2026-10-06,1100,AR,Receipt Wizz Air INV-261009,INV-261009,10598.74,Guest and corporate receipts
+GL0034,2026-10-06,1100,AR,Receipt Deloitte Budapest INV-261027,INV-261027,10661.32,Guest and corporate receipts
+GL0035,2026-10-06,1100,AP,Payment Budapest Fresh Produce,PAY-5046,-4426.93,Food and beverage suppliers
+GL0036,2026-10-06,1100,AP,Payment Florist Bp,PAY-5063,-8533.09,IT and other suppliers
+GL0037,2026-10-07,1100,POS,Card takings AMEX 07/10,CARD-AMEX-1007,3947.92,Card takings
+GL0038,2026-10-07,1100,POS,Card takings VISA/MC 07/10,CARD-VISA-1007,13332.78,Card takings
+GL0039,2026-10-07,1100,AR,Receipt Audi Hungaria INV-261039,INV-261039,16545.99,Guest and corporate receipts
+GL0040,2026-10-07,1100,AP,Payment Metro Kft,PAY-5015,-5670.13,Food and beverage suppliers
+GL0041,2026-10-07,1100,AP,Payment Wine Cellar Tokaj,PAY-5020,-1938.21,Food and beverage suppliers
+GL0042,2026-10-07,1100,AP,Payment IT Systems Zrt,PAY-5022,-9126.66,IT and other suppliers
+GL0043,2026-10-08,1100,POS,Card takings AMEX 08/10,CARD-AMEX-1008,4544.24,Card takings
+GL0044,2026-10-08,1100,POS,Card takings VISA/MC 08/10,CARD-VISA-1008,17577.32,Card takings
+GL0045,2026-10-08,1100,AR,Receipt Richter Gedeon INV-261008,INV-261008,16005.78,Guest and corporate receipts
+GL0046,2026-10-08,1100,AR,Receipt Audi Hungaria INV-261034,INV-261034,17156.14,Guest and corporate receipts
+GL0047,2026-10-08,1100,AP,Payment Budapest Fresh Produce,PAY-5013,-2474.13,Food and beverage suppliers
+GL0048,2026-10-08,1100,AP,Payment Wine Cellar Tokaj,PAY-5031,-1049.9,Food and beverage suppliers
+GL0049,2026-10-08,1100,AP,Payment Budapest Fresh Produce,PAY-5062,-5162.72,Food and beverage suppliers
+GL0050,2026-10-08,1100,AP,Payment Fish Market Hungary,PAY-5077,-3772.49,Food and beverage suppliers
+GL0051,2026-10-09,1100,POS,Card takings AMEX 09/10,CARD-AMEX-1009,5859.64,Card takings
+GL0052,2026-10-09,1100,POS,Card takings VISA/MC 09/10,CARD-VISA-1009,25923.5,Card takings
+GL0053,2026-10-09,1100,AR,Receipt OTP Bank INV-261018,INV-261018,9728.49,Guest and corporate receipts
+GL0054,2026-10-09,1100,AR,Receipt MOL Group INV-261029,INV-261029,17662.79,Guest and corporate receipts
+GL0055,2026-10-09,1100,AP,Payment Hungarian Linen Services,PAY-5028,-7320.13,Housekeeping and laundry
+GL0056,2026-10-09,1100,AP,Payment Cleaning Supplies Kft,PAY-5035,-8499.06,Housekeeping and laundry
+GL0057,2026-10-09,1100,AP,Payment Elektro Energia,PAY-5044,-5194.53,Utilities
+GL0058,2026-10-09,1100,AP,Payment Zwack Unicum,PAY-5045,-2463.28,Food and beverage suppliers
+GL0059,2026-10-09,1100,AP,Payment Wine Cellar Tokaj,PAY-5069,-1874.57,Food and beverage suppliers
+GL0060,2026-10-09,1100,Payroll,Net salaries October,PAYROLL-2610,-312480.55,Payroll and taxes
+GL0061,2026-10-10,1100,POS,Card takings AMEX 10/10,CARD-AMEX-1010,6939.28,Card takings
+GL0062,2026-10-10,1100,POS,Card takings VISA/MC 10/10,CARD-VISA-1010,19577.05,Card takings
+GL0063,2026-10-10,1100,AP,Payment Florist Bp,PAY-5071,-4308.87,IT and other suppliers
+GL0064,2026-10-11,1100,POS,Card takings AMEX 11/10,CARD-AMEX-1011,2381.17,Card takings
+GL0065,2026-10-11,1100,POS,Card takings VISA/MC 11/10,CARD-VISA-1011,12660.25,Card takings
+GL0066,2026-10-11,1100,AP,Payment Budapest Fresh Produce,PAY-5003,-9138.63,Food and beverage suppliers
+GL0067,2026-10-11,1100,AP,Payment Budapest Fresh Produce,PAY-5034,-6901.14,Food and beverage suppliers
+GL0068,2026-10-12,1100,POS,Card takings AMEX 12/10,CARD-AMEX-1012,1741.68,Card takings
+GL0069,2026-10-12,1100,POS,Card takings VISA/MC 12/10,CARD-VISA-1012,19413.17,Card takings
+GL0070,2026-10-12,1100,AR,Receipt Richter Gedeon INV-261019,INV-261019,16437.88,Guest and corporate receipts
+GL0072,2026-10-12,1100,Payroll,Payroll taxes and contributions,NAV-2610,-141206.1,Payroll and taxes
+GL0073,2026-10-12,1100,AP,Payment Wine Cellar Tokaj,PAY-5005,-1869.37,Food and beverage suppliers
+GL0074,2026-10-13,1100,POS,Card takings AMEX 13/10,CARD-AMEX-1013,4331.89,Card takings
+GL0075,2026-10-13,1100,POS,Card takings VISA/MC 13/10,CARD-VISA-1013,9606.56,Card takings
+GL0076,2026-10-13,1100,AR,Receipt OTP Bank INV-261011,INV-261011,15870.96,Guest and corporate receipts
+GL0077,2026-10-13,1100,AR,Receipt Wizz Air INV-261023,INV-261023,11609.55,Guest and corporate receipts
+GL0078,2026-10-13,1100,AP,Payment Wine Cellar Tokaj,PAY-5032,-6058.78,Food and beverage suppliers
+GL0079,2026-10-13,1100,AP,Payment Hungarian Linen Services,PAY-5057,-6950.49,Housekeeping and laundry
+GL0080,2026-10-13,1100,AP,Payment Coffee Bean Ltd,PAY-5074,-3773.3,Food and beverage suppliers
+GL0081,2026-10-14,1100,POS,Card takings AMEX 14/10,CARD-AMEX-1014,6544.42,Card takings
+GL0082,2026-10-14,1100,POS,Card takings VISA/MC 14/10,CARD-VISA-1014,16925.5,Card takings
+GL0083,2026-10-14,1100,AP,Payment Wine Cellar Tokaj,PAY-5037,-2157.22,Food and beverage suppliers
+GL0084,2026-10-14,1100,AP,Payment Wine Cellar Tokaj,PAY-5054,-1899.79,Food and beverage suppliers
+GL0085,2026-10-14,1100,AP,Payment Metro Kft,PAY-5073,-8044.39,Food and beverage suppliers
+GL0086,2026-10-15,1100,POS,Card takings AMEX 15/10,CARD-AMEX-1015,4327.65,Card takings
+GL0087,2026-10-15,1100,POS,Card takings VISA/MC 15/10,CARD-VISA-1015,19696.85,Card takings
+GL0088,2026-10-15,1100,AP,Electricity October,DD-ELEC-10,-18940.0,Utilities
+GL0089,2026-10-16,1100,POS,Card takings AMEX 16/10,CARD-AMEX-1016,2861.33,Card takings
+GL0090,2026-10-16,1100,POS,Card takings VISA/MC 16/10,CARD-VISA-1016,17446.85,Card takings
+GL0091,2026-10-16,1100,AR,Receipt MOL Group INV-261025,INV-216025,4214.56,Guest and corporate receipts
+GL0092,2026-10-16,1100,AR,Receipt Telekom HU INV-261004,INV-261004,3063.79,Guest and corporate receipts
+GL0093,2026-10-16,1100,AR,Receipt Telekom HU INV-261024,INV-261024,13284.61,Guest and corporate receipts
+GL0094,2026-10-16,1100,AP,Payment Fish Market Hungary,PAY-5018,-5184.01,Food and beverage suppliers
+GL0095,2026-10-16,1100,AP,Payment Hungarian Linen Services,PAY-5064,-1872.93,Housekeeping and laundry
+GL0096,2026-10-17,1100,POS,Card takings AMEX 17/10,CARD-AMEX-1017,2558.21,Card takings
+GL0097,2026-10-17,1100,POS,Card takings VISA/MC 17/10,CARD-VISA-1017,9200.5,Card takings
+GL0098,2026-10-17,1100,AR,Receipt OTP Bank INV-261000,INV-261000,8373.39,Guest and corporate receipts
+GL0099,2026-10-17,1100,AR,Receipt Audi Hungaria INV-261013,INV-261013,1233.39,Guest and corporate receipts
+GL0100,2026-10-17,1100,AR,Receipt OTP Bank INV-261017,INV-261017,10953.0,Guest and corporate receipts
+GL0101,2026-10-17,1100,AR,Receipt Telekom HU INV-261031,INV-261031,10787.23,Guest and corporate receipts
+GL0102,2026-10-17,1100,AR,Receipt OTP Bank INV-261035,INV-261035,14663.87,Guest and corporate receipts
+GL0103,2026-10-17,1100,AP,Payment Elektro Energia,PAY-5024,-3123.33,Utilities
+GL0104,2026-10-17,1100,AP,Payment Coffee Bean Ltd,PAY-5030,-6122.31,Food and beverage suppliers
+GL0105,2026-10-17,1100,AP,Payment Hungarian Linen Services,PAY-5041,-3708.47,Housekeeping and laundry
+GL0106,2026-10-17,1100,AP,Payment Metro Kft,PAY-5047,-7188.05,Food and beverage suppliers
+GL0107,2026-10-18,1100,POS,Card takings AMEX 18/10,CARD-AMEX-1018,2603.34,Card takings
+GL0108,2026-10-18,1100,POS,Card takings VISA/MC 18/10,CARD-VISA-1018,20764.55,Card takings
+GL0109,2026-10-18,1100,AR,Receipt Richter Gedeon INV-261007,INV-261007,4380.0,Guest and corporate receipts
+GL0110,2026-10-18,1100,AR,Receipt Audi Hungaria INV-261012,INV-261012,6341.21,Guest and corporate receipts
+GL0111,2026-10-18,1100,AP,Payment Fish Market Hungary,PAY-5067,-8032.28,Food and beverage suppliers
+GL0112,2026-10-19,1100,POS,Card takings AMEX 19/10,CARD-AMEX-1019,1520.54,Card takings
+GL0113,2026-10-19,1100,POS,Card takings VISA/MC 19/10,CARD-VISA-1019,15282.12,Card takings
+GL0114,2026-10-19,1100,AR,Receipt Wizz Air INV-261006,INV-261006,3301.91,Guest and corporate receipts
+GL0115,2026-10-19,1100,AP,Payment IT Systems Zrt,PAY-5019,-6302.54,IT and other suppliers
+GL0116,2026-10-19,1100,AP,Payment Cleaning Supplies Kft,PAY-5027,-7603.14,Housekeeping and laundry
+GL0117,2026-10-20,1100,POS,Card takings AMEX 20/10,CARD-AMEX-1020,2349.54,Card takings
+GL0118,2026-10-20,1100,POS,Card takings VISA/MC 20/10,CARD-VISA-1020,23110.81,Card takings
+GL0119,2026-10-20,1100,AP,Water and gas October,DD-WATER-10,-6215.4,Utilities
+GL0120,2026-10-20,1100,AR,Receipt MOL Group INV-261022,INV-261022,14822.41,Guest and corporate receipts
+GL0121,2026-10-20,1100,AR,Receipt Audi Hungaria INV-261038,INV-261038,1672.11,Guest and corporate receipts
+GL0122,2026-10-20,1100,AP,Payment IT Systems Zrt,PAY-5043,-3673.58,IT and other suppliers
+GL0123,2026-10-21,1100,POS,Card takings AMEX 21/10,CARD-AMEX-1021,6341.83,Card takings
+GL0124,2026-10-21,1100,POS,Card takings VISA/MC 21/10,CARD-VISA-1021,13549.19,Card takings
+GL0125,2026-10-21,1100,AR,Receipt Telekom HU INV-261005,INV-261005,17053.11,Guest and corporate receipts
+GL0126,2026-10-21,1100,AP,Payment Wine Cellar Tokaj,PAY-5001,-4630.49,Food and beverage suppliers
+GL0127,2026-10-21,1100,AP,Payment Metro Kft,PAY-5006,-3997.68,Food and beverage suppliers
+GL0128,2026-10-21,1100,AP,Payment Cleaning Supplies Kft,PAY-5010,-5042.89,Housekeeping and laundry
+GL0129,2026-10-21,1100,AP,Payment Cleaning Supplies Kft,PAY-5052,-2667.43,Housekeeping and laundry
+GL0130,2026-10-21,1100,AP,Payment Metro Kft,PAY-5060,-5000.56,Food and beverage suppliers
+GL0131,2026-10-22,1100,POS,Card takings AMEX 22/10,CARD-AMEX-1022,6159.33,Card takings
+GL0132,2026-10-22,1100,POS,Card takings VISA/MC 22/10,CARD-VISA-1022,17666.44,Card takings
+GL0133,2026-10-22,1100,AR,Receipt OTP Bank INV-261036,INV-261036,11629.5,Guest and corporate receipts
+GL0134,2026-10-22,1100,AP,Payment Laundry Pro Kft,PAY-5004,-6022.74,Housekeeping and laundry
+GL0135,2026-10-22,1100,AP,Payment Coffee Bean Ltd,PAY-5021,-521.07,Food and beverage suppliers
+GL0136,2026-10-22,1100,AP,Payment Cleaning Supplies Kft,PAY-5029,-1994.59,Housekeeping and laundry
+GL0137,2026-10-22,1100,AP,Payment Coffee Bean Ltd,PAY-5048,-2952.14,Food and beverage suppliers
+GL0138,2026-10-22,1100,AP,Payment Elektro Energia,PAY-5076,-7916.49,Utilities
+GL0139,2026-10-23,1100,POS,Card takings AMEX 23/10,CARD-AMEX-1023,5579.74,Card takings
+GL0140,2026-10-23,1100,POS,Card takings VISA/MC 23/10,CARD-VISA-1023,19875.19,Card takings
+GL0141,2026-10-23,1100,AR,Receipt Deloitte Budapest INV-261014,INV-261014,2913.74,Guest and corporate receipts
+GL0142,2026-10-23,1100,AR,Receipt Audi Hungaria INV-261016,INV-261016,15812.32,Guest and corporate receipts
+GL0143,2026-10-23,1100,AR,Receipt Wizz Air INV-261037,INV-261037,6522.12,Guest and corporate receipts
+GL0144,2026-10-23,1100,AP,Payment Cleaning Supplies Kft,PAY-5000,-1200.99,Housekeeping and laundry
+GL0145,2026-10-23,1100,AP,Payment Cleaning Supplies Kft,PAY-5011,-1250.0,Housekeeping and laundry
+GL0146,2026-10-23,1100,AP,Payment Hungarian Linen Services,PAY-5078,-7259.49,Housekeeping and laundry
+GL0147,2026-10-24,1100,POS,Card takings AMEX 24/10,CARD-AMEX-1024,4476.29,Card takings
+GL0148,2026-10-24,1100,POS,Card takings VISA/MC 24/10,CARD-VISA-1024,10555.43,Card takings
+GL0149,2026-10-24,1100,AP,Payment Hungarian Linen Services,PAY-5042,-6343.87,Housekeeping and laundry
+GL0150,2026-10-24,1100,AP,Payment Hungarian Linen Services,PAY-5051,-909.8,Housekeeping and laundry
+GL0151,2026-10-24,1100,AP,Payment Budapest Fresh Produce,PAY-5053,-7936.63,Food and beverage suppliers
+GL0152,2026-10-24,1100,AP,Payment Florist Bp,PAY-5059,-3616.35,IT and other suppliers
+GL0153,2026-10-25,1100,POS,Card takings AMEX 25/10,CARD-AMEX-1025,6292.37,Card takings
+GL0154,2026-10-25,1100,POS,Card takings VISA/MC 25/10,CARD-VISA-1025,17632.13,Card takings
+GL0155,2026-10-25,1100,AP,Payment Elektro Energia,PAY-5056,-6796.74,Utilities
+GL0156,2026-10-25,1100,AP,Payment IT Systems Zrt,PAY-5070,-7234.41,IT and other suppliers
+GL0157,2026-10-25,1100,AP,Payment Laundry Pro Kft,PAY-5400,-6295.23,Housekeeping and laundry
+GL0158,2026-10-26,1100,POS,Card takings AMEX 26/10,CARD-AMEX-1026,4790.01,Card takings
+GL0159,2026-10-26,1100,POS,Card takings VISA/MC 26/10,CARD-VISA-1026,15141.49,Card takings
+GL0160,2026-10-26,1100,AR,Receipt Siemens Hungary INV-261002,INV-261002,4498.07,Guest and corporate receipts
+GL0161,2026-10-26,1100,AR,Receipt Audi Hungaria INV-261032,INV-261032,7880.31,Guest and corporate receipts
+GL0162,2026-10-26,1100,AP,Payment Florist Bp,PAY-5008,-1208.47,IT and other suppliers
+GL0163,2026-10-26,1100,AP,Payment Cleaning Supplies Kft,PAY-5009,-7649.04,Housekeeping and laundry
+GL0164,2026-10-26,1100,AP,Payment Cleaning Supplies Kft,PAY-5023,-624.14,Housekeeping and laundry
+GL0166,2026-10-26,1100,AP,Payment IT Systems Zrt,PAY-5033,-7662.84,IT and other suppliers
+GL0167,2026-10-26,1100,AP,Payment Elektro Energia,PAY-5039,-2513.44,Utilities
+GL0168,2026-10-26,1100,AP,Payment Hungarian Linen Services,PAY-5050,-1395.48,Housekeeping and laundry
+GL0169,2026-10-26,1100,AP,Payment Fish Market Hungary,PAY-5079,-1533.69,Food and beverage suppliers
+GL0170,2026-10-27,1100,POS,Card takings AMEX 27/10,CARD-AMEX-1027,3631.97,Card takings
+GL0171,2026-10-27,1100,POS,Card takings VISA/MC 27/10,CARD-VISA-1027,10007.28,Card takings
+GL0172,2026-10-27,1100,AP,Payment Zwack Unicum,PAY-5014,-5451.97,Food and beverage suppliers
+GL0173,2026-10-27,1100,AP,Payment IT Systems Zrt,PAY-5061,-1934.34,IT and other suppliers
+GL0174,2026-10-28,1100,POS,Card takings AMEX 28/10,CARD-AMEX-1028,2326.1,Card takings
+GL0175,2026-10-28,1100,POS,Card takings VISA/MC 28/10,CARD-VISA-1028,14491.62,Card takings
+GL0176,2026-10-28,1100,AR,Receipt OTP Bank INV-261033,INV-261033,1981.9,Guest and corporate receipts
+GL0177,2026-10-28,1100,AP,Payment Coffee Bean Ltd,PAY-5075,-6897.34,Food and beverage suppliers
+GL0178,2026-10-29,1100,POS,Card takings AMEX 29/10,CARD-AMEX-1029,3586.95,Card takings
+GL0179,2026-10-29,1100,POS,Card takings VISA/MC 29/10,CARD-VISA-1029,22877.75,Card takings
+GL0180,2026-10-29,1100,AR,Receipt Richter Gedeon INV-261021,INV-261021,14741.06,Guest and corporate receipts
+GL0181,2026-10-29,1100,AR,Receipt Deloitte Budapest INV-261026,INV-261026,6752.26,Guest and corporate receipts
+GL0182,2026-10-29,1100,AP,Payment Metro Kft,PAY-5900,-4380.0,Food and beverage suppliers
+GL0183,2026-10-30,1100,POS,Card takings AMEX 30/10,CARD-AMEX-1030,4744.95,Card takings
+GL0184,2026-10-30,1100,POS,Card takings VISA/MC 30/10,CARD-VISA-1030,25638.71,Card takings
+GL0185,2026-10-30,1100,AP,Payment Hungarian Linen Services,PAY-5901,-2915.75,Housekeeping and laundry
+GL0186,2026-10-31,1100,POS,Card takings AMEX 31/10,CARD-AMEX-1031,5008.98,Card takings
+GL0187,2026-10-31,1100,POS,Card takings VISA/MC 31/10,CARD-VISA-1031,19285.96,Card takings
+GL0188,2026-10-31,1100,AR,Receipt Siemens Hungary INV-261003,INV-261003,5967.23,Guest and corporate receipts
+GL0189,2026-10-31,1100,AR,Receipt MOL Group INV-261020,INV-261020,889.08,Guest and corporate receipts
+GL0190,2026-10-31,1100,AR,Receipt Deloitte Budapest INV-261028,INV-261028,17175.08,Guest and corporate receipts
+GL0191,2026-10-31,1100,AP,Payment Zwack Unicum,PAY-5902,-7640.2,Food and beverage suppliers
+NEW-BK0180,2026-10-31,1100,Bank,MONTHLY ACCOUNT FEE,FEE-2610,-185.0,Bank charges
+NEW-BK0181,2026-10-31,1100,Bank,CARD TERMINAL FEES OCT,FEE-POS-2610,-1742.36,Bank charges
+NEW-BK0182,2026-10-31,1100,Bank,INTEREST CREDIT,INT-2610,412.18,Interest income
+NEW-BK0125,2026-10-22,1100,Bank,TRANSFER IN MR J SMITH,BOOKING 48211,2340.0,Guest and corporate receipts
