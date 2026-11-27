@@ -5,7 +5,7 @@
 |---|---------|--------|
 | 0 | Setup (repo, tools, git basics) | Done |
 | 1 | hotel-kpis | Done (interview answers to practise) |
-| 2 | ledger-reconciliation | Next |
+| 2 | ledger-reconciliation | In progress: Task 1/6 done (data generated) |
 | 3 | audit-analytics | Not started |
 | 4 | portfolio-risk | Not started |
 | 5 | richter-dcf | Done (extra project, built outside the task-by-task format) |
@@ -97,6 +97,17 @@
 - **Struggled with:** (fill in)
 - **To review:** walk through the DCF tab top to bottom out loud; explain why the terminal value
   excludes royalties; change the core EBIT margin to 18% and explain how the value moves.
+
+### 2026-11-27: ledger-reconciliation Task 1: generate bank and GL data
+- **Done:** `src/generate_data.py` builds October 2026 for the hotel's operating account: GL 191 rows,
+  bank 186 rows, both opening at EUR 850,000. Closing GL EUR 1,041,914.39 vs bank EUR 987,002.82 →
+  EUR 54,911.57 to explain. 17 planted problems in `data/answer_key.csv` (don't open yet).
+  The script checks itself: the planted problems must explain the whole difference.
+- **Learned:** what a bank reconciliation is and why month-end needs it; timing differences
+  (deposits in transit, outstanding payments) vs real errors (duplicates, wrong amounts, wrong references);
+  card settlements arrive the next business day.
+- **Struggled with:** (fill in)
+- **To review:** explain out loud why a card sale on Friday 30 Oct is in the GL but not on the October bank statement.
 
 ## Review list (things to revisit before interviews)
 - Hotel KPI formulas: occupancy, ADR, RevPAR = occupancy × ADR, cancellation rate, net ADR.

@@ -1,0 +1,18 @@
+issue,reference,amount_gl,amount_bank,note
+timing_deposit,CARD-VISA-1030,25638.71,,in GL only (clears in November)
+timing_deposit,CARD-AMEX-1030,4744.95,,in GL only (clears in November)
+timing_deposit,CARD-VISA-1031,19285.96,,in GL only (clears in November)
+timing_deposit,CARD-AMEX-1031,5008.98,,in GL only (clears in November)
+outstanding_payment,PAY-5900,-4380.0,,in GL only (clears in November)
+outstanding_payment,PAY-5901,-2915.75,,in GL only (clears in November)
+outstanding_payment,PAY-5902,-7640.2,,in GL only (clears in November)
+bank_fee,FEE-2610,,-185.0,on bank statement only
+bank_fee,FEE-POS-2610,,-1742.36,on bank statement only
+interest,INT-2610,,412.18,on bank statement only
+unidentified_receipt,BOOKING 48211,,2340.0,on bank statement only
+amount_mismatch,PAY-5011,-1520.0,-1250.0,digits swapped in the GL
+amount_mismatch,INV-261007,4830.0,4380.0,digits swapped in the GL
+duplicate_gl,PAY-5023,-624.14,,posted twice in the GL
+duplicate_gl,INV-261019,16437.88,,posted twice in the GL
+reference_typo,PAY-5400 (GL) / PAY-5040 (bank),-6295.23,-6295.23,"same amount and date, reference typed wrongly"
+reference_typo,INV-216025 (GL) / INV-261025 (bank),4214.56,4214.56,"same amount and date, reference typed wrongly"
