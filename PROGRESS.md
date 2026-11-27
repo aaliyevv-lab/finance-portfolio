@@ -6,7 +6,7 @@
 | 0 | Setup (repo, tools, git basics) | Done |
 | 1 | hotel-kpis | Done (interview answers to practise) |
 | 2 | ledger-reconciliation | Done (code given by Claude step by step, run and committed by me; interview questions to practise) |
-| 3 | audit-analytics | In progress: Task 1 (branch `audit-analytics`) |
+| 3 | audit-analytics | Done (code by Claude, run, checked and committed by me task by task; interview questions to practise) |
 | 4 | portfolio-risk | Not started |
 | 5 | richter-dcf | Done (extra project, built outside the task-by-task format) |
 
@@ -131,11 +131,28 @@
   comparison relabelled "book basis" (card takings include EUR 54,679 deposits in transit).
 - **To review:** write the 8 journal entries by hand from the exception list, then compare.
 
+### 2026-11-27: audit-analytics Tasks 1–8
+- **Done:** data generator (1,705 payments, 1,716 journal entries, 21 vendors, 53 planted problems);
+  Benford test (digit 9: 7.2% vs 4.6%, z = 5.0, MAD 0.0069 → Pannon Advisory); duplicates (10 pairs,
+  EUR 17,453); payment controls (18 self-approved payments to a new vendor just under EUR 10k, EUR 174k);
+  journal-entry tests (27 flagged; JE01716 fails 5 of 6); risk register (58 items, 26 High, all one user);
+  Excel audit report; answer key: 53/53 found, 5 false positives (all Low). README, merged into main.
+- **Learned:** Benford's Law (expected log10(1+1/d), z per digit, MAD); why an overall fit can hide one
+  bad digit; self-join for near duplicates; rolling date windows; rates per 100 instead of raw counts;
+  test manual entries only; clearing false positives (recurring rent); weighted risk scoring + link rule.
+  Git: paths are relative to the folder in the prompt; rejected push → pull, then push.
+- **Struggled with:** running git commands from the wrong folder (`03-audit-analytics/03-audit-analytics`).
+- **To review:** explain the Pannon case in 60 seconds using five tests; explain why weights are a judgment.
+
 ## Review list (things to revisit before interviews)
 - Hotel KPI formulas: occupancy, ADR, RevPAR = occupancy × ADR, cancellation rate, net ADR.
 - Calendar range join (`date >= check_in AND date < check_out`) and why check-out is not a night.
 - WHERE vs HAVING; `AVG(CASE WHEN ...)` for rates; pivot with `SUM(CASE WHEN ...)`.
 - Git loop: pull → work → add → commit → push; rejected push → pull, then push.
+- Benford: expected share log10(1 + 1/d); 1 ≈ 30%, 9 ≈ 4.6%; z-test per digit + MAD; drill down by vendor.
+- Audit tests: duplicates (exact + near), approval limit, just below limit, self-approval, new vendors,
+  split payments; JE tests on MANUAL entries (weekend, after hours, round, below limit, self-approved).
+- Reconciliation: timing items adjust the bank side, errors adjust the GL side; Dr bank = money in.
 
 ## Interview Q&A practice
 ### Project 1: hotel-kpis (model answers given by Claude on request; practise saying them in my own words)
@@ -166,3 +183,9 @@
    overspend? 11 payments to one supplier in a month → check for duplicate invoices/split payments.
    Check contracts and POs, then tell the GM: amount, cause, one-off or recurring, action.
 - **Still to do:** answer all three out loud without notes; time each answer (≤ 60 seconds).
+
+### Project 3: audit-analytics (questions only; answer them myself first, then ask Claude for feedback)
+1. **What is Benford's Law and how did you use it? What did it find?**
+2. **Your tests flagged 58 items. How do you decide which to look at first, and what do you do about false positives?**
+3. **You suspect an employee is paying a fake supplier. Which controls failed, and what would you recommend?**
+- **Still to do:** answer all three out loud; time each answer (≤ 60 seconds).
