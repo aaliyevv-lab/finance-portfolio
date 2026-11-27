@@ -1,0 +1,22 @@
+payment_id,vendor_name,amount,n_tests,tests
+P01504,Pannon Advisory Kft,9957.54,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P01671,Pannon Advisory Kft,9957.06,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P00781,Pannon Advisory Kft,9903.48,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P00767,Pannon Advisory Kft,9864.19,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P01530,Pannon Advisory Kft,9860.1,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P01095,Pannon Advisory Kft,9790.94,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P01694,Pannon Advisory Kft,9785.53,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P01323,Pannon Advisory Kft,9737.58,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P00667,Pannon Advisory Kft,9705.22,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P01252,Pannon Advisory Kft,9687.53,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P01105,Pannon Advisory Kft,9658.66,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P00915,Pannon Advisory Kft,9633.01,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P01030,Pannon Advisory Kft,9614.29,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P00766,Pannon Advisory Kft,9516.6,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P01085,Pannon Advisory Kft,9458.34,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P00856,Pannon Advisory Kft,9454.16,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P01340,Pannon Advisory Kft,9440.11,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P00827,Pannon Advisory Kft,9408.9,3,2: just below approval limit; 3: self-approved; 4: new vendor created by a payment clerk
+P00014,Elektro Energia,9566.95,1,2: just below approval limit
+P00731,Elektro Energia,9559.48,1,2: just below approval limit
+P00706,Elektro Energia,9001.62,1,2: just below approval limit
