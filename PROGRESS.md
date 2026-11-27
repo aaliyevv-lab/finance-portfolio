@@ -5,7 +5,7 @@
 |---|---------|--------|
 | 0 | Setup (repo, tools, git basics) | Done |
 | 1 | hotel-kpis | Done (interview answers to practise) |
-| 2 | ledger-reconciliation | In progress: Task 1/6 done (data generated) |
+| 2 | ledger-reconciliation | Done (code given by Claude step by step, run and committed by me; interview questions to practise) |
 | 3 | audit-analytics | Not started |
 | 4 | portfolio-risk | Not started |
 | 5 | richter-dcf | Done (extra project, built outside the task-by-task format) |
@@ -109,6 +109,19 @@
 - **Struggled with:** (fill in)
 - **To review:** explain out loud why a card sale on Friday 30 Oct is in the GL but not on the October bank statement.
 
+### 2026-11-27: ledger-reconciliation Tasks 2–6: matching, exceptions, reconciliation, budget
+- **Done:** `match_exact.py` (178 matches on reference + amount), `match_date_amount.py` (2 more on
+  date + amount: wrong references), `classify_exceptions.py` (17 exceptions, 0 left to investigate),
+  `reconciliation_report.py` (adjusted bank = adjusted GL = EUR 1,026,745.47; Excel report with
+  8 correcting entries), `budget_vs_actual.py` (4 material variances; corrected net cash flow ties
+  back to the reconciliation).
+- **Learned:** inner join = exact match, anti-join = what is left; amounts in cents to avoid float
+  errors; `cumcount()` so duplicates don't double-match; timing items vs errors; reconciliation
+  statement layout; materiality (% AND EUR) for variance reporting; writing a multi-sheet Excel file.
+- **Struggled with:** creating files in the right folder in VS Code (file first landed outside `src`;
+  budget CSV was missing). (fill in anything else)
+- **To review:** the three interview questions below, out loud, in under 60 seconds each.
+
 ## Review list (things to revisit before interviews)
 - Hotel KPI formulas: occupancy, ADR, RevPAR = occupancy × ADR, cancellation rate, net ADR.
 - Calendar range join (`date >= check_in AND date < check_out`) and why check-out is not a night.
@@ -127,3 +140,9 @@
    30% cancellation rate. Shift some demand to direct (10% shift ≈ €115k/yr) via best-rate guarantee, loyalty
    perks, non-refundable rates — but don't drop it: reach to foreign guests, fills Jan–Feb, billboard effect.
 - **Still to do:** answer all three out loud without notes; time each answer (≤ 60 seconds).
+
+### Project 2: ledger-reconciliation (questions only; answer them myself first, then ask Claude for feedback)
+1. **Your GL and bank differ by EUR 54,912 at month-end. Walk me through how you find out why.**
+2. **What is the difference between a timing difference and an error? Give one example of each from your project.**
+3. **IT suppliers are EUR 31,817 over budget. How do you investigate it before telling the GM?**
+- **Still to do:** answer all three out loud; time each answer (≤ 60 seconds).
