@@ -21,6 +21,7 @@ Run from the project folder:
 from pathlib import Path
 
 import matplotlib.pyplot as plt
+from matplotlib.patches import Patch
 import pandas as pd
 
 PROJECT = Path(__file__).resolve().parent.parent
@@ -30,6 +31,13 @@ OUT = PROJECT / "output"
 # A variance is worth explaining only if it is big in % AND in EUR (materiality)
 FLAG_PCT = 0.05     # 5%
 FLAG_EUR = 5_000    # EUR 5,000
+
+# The comparison is on a BOOK basis: card takings of 30-31 Oct are booked in October although
+# the bank receives them in November (deposits in transit), so this is not pure cash.
+TOTAL_LABEL = "NET MOVEMENT (BOOK BASIS)"
+
+# Chart colours: same palette as the hotel KPI project
+BLUE, ORANGE, INK, INK_2 = "#2a78d6", "#eb6834", "#0b0b0b", "#52514e"
 
 # Step 1. Load the ledger, the exceptions from Task 4 and the budget
 gl = pd.read_csv(DATA / "general_ledger.csv")
@@ -52,7 +60,7 @@ extra = pd.DataFrame({"gl_id": "NEW-" + bank_only["id"], "posting_date": bank_on
                       "account": 1100, "source": "Bank", "description": bank_only["description"],
                       "reference": bank_only["reference"], "amount": bank_only["amount"]})
 gl = pd.concat([gl, extra], ignore_index=True)
-print(f"Corrected ledger: {len(gl)} entries, net cash flow EUR {gl['amount'].sum():,.2f}")
+print(f"Corrected ledger: {len(gl)} entries, net movement EUR {gl['amount'].sum():,.2f} (book basis)")
 
 # Step 3. Put every ledger line into a budget category
 SUPPLIER_CATEGORY = {
@@ -96,7 +104,7 @@ bva["variance_pct"] = bva["variance_eur"] / bva["budget_eur"].abs()
 bva["result"] = bva["variance_eur"].apply(lambda v: "Favourable" if v >= 0 else "Unfavourable")
 bva["explain"] = (bva["variance_pct"].abs() >= FLAG_PCT) & (bva["variance_eur"].abs() >= FLAG_EUR)
 
-total = pd.DataFrame([{"category": "NET CASH FLOW", "budget_eur": bva["budget_eur"].sum(),
+total = pd.DataFrame([{"category": TOTAL_LABEL, "budget_eur": bva["budget_eur"].sum(),
                        "actual_eur": bva["actual_eur"].sum()}])
 total["variance_eur"] = total["actual_eur"] - total["budget_eur"]
 total["variance_pct"] = total["variance_eur"] / total["budget_eur"].abs()
@@ -116,18 +124,25 @@ print(f"\nTo explain to management (>= {FLAG_PCT:.0%} and >= EUR {FLAG_EUR:,}): 
 bva.round(4).to_csv(OUT / "budget_vs_actual.csv", index=False)
 gl.to_csv(OUT / "general_ledger_corrected.csv", index=False)
 
-# Step 6. Chart: variance by category, green = favourable, red = unfavourable
-lines = bva[bva["category"] != "NET CASH FLOW"].sort_values("variance_eur")
-colors = ["#2e7d32" if v >= 0 else "#c62828" for v in lines["variance_eur"]]
+# Step 6. Chart: variance by category, blue = favourable, orange = unfavourable
+#         (blue/orange instead of green/red so colour-blind readers can tell them apart)
+lines = bva[bva["category"] != TOTAL_LABEL].sort_values("variance_eur")
+colors = [BLUE if v >= 0 else ORANGE for v in lines["variance_eur"]]
 fig, ax = plt.subplots(figsize=(9, 5))
-ax.barh(lines["category"], lines["variance_eur"] / 1000, color=colors)
-ax.axvline(0, color="#333333", linewidth=0.8)
-ax.set_title("October 2026: budget vs actual (cash), variance by category")
-ax.set_xlabel("Variance vs budget (EUR thousand, + = favourable)")
+ax.barh(lines["category"], lines["variance_eur"] / 1000, color=colors, height=0.6)
+ax.axvline(0, color=INK_2, linewidth=0.8)
+ax.set_title("October 2026: budget vs actual by category (book basis)", loc="left",
+             fontweight="bold", color=INK)
+ax.set_xlabel("Variance vs budget (EUR thousand)", color=INK_2)
 for y, v in enumerate(lines["variance_eur"] / 1000):
     ax.text(v + (0.6 if v >= 0 else -0.6), y, f"{v:+,.1f}k", va="center",
-            ha="left" if v >= 0 else "right", fontsize=9)
+            ha="left" if v >= 0 else "right", fontsize=9, color=INK)
 ax.spines[["top", "right"]].set_visible(False)
+ax.tick_params(colors=INK_2)
+ax.grid(axis="x", color="#e4e3df", linewidth=0.8)
+ax.set_axisbelow(True)
+ax.legend(handles=[Patch(color=BLUE, label="Favourable"), Patch(color=ORANGE, label="Unfavourable")],
+          loc="lower right", frameon=False)
 ax.set_xlim(min(lines["variance_eur"].min() / 1000 * 1.35, -5), max(lines["variance_eur"].max() / 1000 * 1.35, 5))
 fig.tight_layout()
 fig.savefig(OUT / "budget_variance.png", dpi=150)

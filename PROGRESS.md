@@ -122,6 +122,15 @@
   budget CSV was missing). (fill in anything else)
 - **To review:** the three interview questions below, out loud, in under 60 seconds each.
 
+### 2026-11-27: ledger-reconciliation review fixes (Claude, after checking the branch)
+- **Checked:** all scripts rerun from scratch; every checkpoint matches (178 + 2 matches, 17 exceptions,
+  adjusted bank = adjusted GL = EUR 1,026,745.47, all 17 planted problems found).
+- **Improved:** proper double-entry journal entries (Dr/Cr with account numbers, asserted to equal the
+  GL adjustment of EUR −15,168.92); formatted Excel report (readable headers, € format, highlighted
+  totals); variance chart in blue/orange (colour-blind safe, same palette as Project 1); budget
+  comparison relabelled "book basis" (card takings include EUR 54,679 deposits in transit).
+- **To review:** write the 8 journal entries by hand from the exception list, then compare.
+
 ## Review list (things to revisit before interviews)
 - Hotel KPI formulas: occupancy, ADR, RevPAR = occupancy × ADR, cancellation rate, net ADR.
 - Calendar range join (`date >= check_in AND date < check_out`) and why check-out is not a night.
