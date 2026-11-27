@@ -6,7 +6,7 @@
 | 0 | Setup (repo, tools, git basics) | Done |
 | 1 | hotel-kpis | Done (interview answers to practise) |
 | 2 | ledger-reconciliation | Done (code given by Claude step by step, run and committed by me; interview questions to practise) |
-| 3 | audit-analytics | Not started |
+| 3 | audit-analytics | In progress: Task 1 (branch `audit-analytics`) |
 | 4 | portfolio-risk | Not started |
 | 5 | richter-dcf | Done (extra project, built outside the task-by-task format) |
 
