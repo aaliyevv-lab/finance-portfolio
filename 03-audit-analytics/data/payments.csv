@@ -1,0 +1,1706 @@
+payment_id,vendor_id,vendor_name,invoice_no,invoice_date,payment_date,amount,entered_by,approved_by
+P00001,V008,Laundry Pro Kft,INV-41119,2025-10-27,2025-11-03,3819.04,kszabo,bkovacs
+P00002,V006,Coffee Bean Ltd,INV-40912,2025-10-13,2025-11-04,1065.66,kszabo,bkovacs
+P00003,V009,Cleaning Supplies Kft,INV-41200,2025-10-20,2025-11-04,443.6,kszabo,bkovacs
+P00004,V010,Florist Bp,INV-41363,2025-10-19,2025-11-04,332.63,kszabo,bkovacs
+P00005,V018,Uniform Factory,INV-41561,2025-10-16,2025-11-04,387.04,bkovacs,kszabo
+P00006,V001,Metro Kft,INV-40091,2025-10-10,2025-11-05,2111.67,bkovacs,kszabo
+P00007,V001,Metro Kft,INV-40116,2025-10-23,2025-11-05,2632.63,kszabo,bkovacs
+P00008,V001,Metro Kft,INV-40189,2025-10-31,2025-11-05,724.0,kszabo,bkovacs
+P00009,V002,Budapest Fresh Produce,INV-40339,2025-10-11,2025-11-05,663.48,bkovacs,kszabo
+P00010,V003,Fish Market Hungary,INV-40605,2025-10-19,2025-11-05,3650.41,bkovacs,kszabo
+P00011,V007,Hungarian Linen Services,INV-41025,2025-10-07,2025-11-05,1901.16,kszabo,bkovacs
+P00012,V009,Cleaning Supplies Kft,INV-41249,2025-10-09,2025-11-05,1244.5,kszabo,bkovacs
+P00013,V009,Cleaning Supplies Kft,INV-41251,2025-10-13,2025-11-05,1136.1,bkovacs,kszabo
+P00014,V011,Elektro Energia,INV-41413,2025-10-30,2025-11-05,9566.95,bkovacs,kszabo
+P00015,V015,Schindler Lifts,INV-41495,2025-10-07,2025-11-05,2208.5,kszabo,bkovacs
+P00016,V002,Budapest Fresh Produce,INV-40383,2025-10-10,2025-11-06,116.62,kszabo,bkovacs
+P00017,V002,Budapest Fresh Produce,INV-40472,2025-10-25,2025-11-06,182.33,bkovacs,kszabo
+P00018,V002,Budapest Fresh Produce,INV-40521,2025-10-22,2025-11-06,1443.3,bkovacs,kszabo
+P00019,V002,Budapest Fresh Produce,INV-40551,2025-10-29,2025-11-06,787.86,kszabo,bkovacs
+P00020,V007,Hungarian Linen Services,INV-41047,2025-10-29,2025-11-06,4560.23,kszabo,bkovacs
+P00021,V009,Cleaning Supplies Kft,INV-41234,2025-10-31,2025-11-06,230.37,bkovacs,kszabo
+P00022,V009,Cleaning Supplies Kft,INV-41263,2025-10-25,2025-11-06,1010.89,bkovacs,kszabo
+P00023,V010,Florist Bp,INV-41358,2025-10-26,2025-11-06,2471.01,bkovacs,kszabo
+P00024,V014,Opera Hospitality Software,INV-41479,2025-10-18,2025-11-06,7762.24,bkovacs,kszabo
+P00025,V014,Opera Hospitality Software,INV-41485,2025-10-15,2025-11-06,10628.03,kszabo,mtoth
+P00026,V018,Uniform Factory,INV-41563,2025-10-11,2025-11-06,6079.49,kszabo,bkovacs
+P00027,V001,Metro Kft,INV-40102,2025-10-20,2025-11-07,2514.01,kszabo,bkovacs
+P00028,V001,Metro Kft,INV-40255,2025-10-30,2025-11-07,1787.61,bkovacs,kszabo
+P00029,V005,Zwack Unicum,INV-40796,2025-10-13,2025-11-07,1086.05,bkovacs,kszabo
+P00030,V007,Hungarian Linen Services,INV-41056,2025-10-20,2025-11-07,4771.62,kszabo,bkovacs
+P00031,V008,Laundry Pro Kft,INV-41161,2025-10-09,2025-11-07,2837.58,bkovacs,kszabo
+P00032,V009,Cleaning Supplies Kft,INV-41211,2025-10-14,2025-11-07,79.61,kszabo,bkovacs
+P00033,V010,Florist Bp,INV-41352,2025-11-01,2025-11-07,1321.67,bkovacs,kszabo
+P00034,V013,IT Systems Zrt,INV-41473,2025-10-12,2025-11-07,1296.91,kszabo,bkovacs
+P00035,V019,Pest Plumbing Services,INV-41632,2025-10-12,2025-11-07,1029.07,bkovacs,kszabo
+P00036,V002,Budapest Fresh Produce,INV-40265,2025-10-19,2025-11-10,333.49,kszabo,bkovacs
+P00037,V002,Budapest Fresh Produce,INV-40471,2025-10-13,2025-11-10,1659.07,bkovacs,kszabo
+P00038,V003,Fish Market Hungary,INV-40586,2025-11-05,2025-11-10,4410.04,bkovacs,kszabo
+P00039,V003,Fish Market Hungary,INV-40699,2025-10-16,2025-11-10,519.16,kszabo,bkovacs
+P00040,V008,Laundry Pro Kft,INV-41129,2025-10-15,2025-11-10,3122.94,kszabo,bkovacs
+P00041,V010,Florist Bp,INV-41392,2025-10-20,2025-11-10,1254.92,kszabo,bkovacs
+P00042,V003,Fish Market Hungary,INV-40604,2025-10-28,2025-11-11,3911.91,bkovacs,kszabo
+P00043,V003,Fish Market Hungary,INV-40694,2025-11-02,2025-11-11,1694.39,bkovacs,kszabo
+P00044,V008,Laundry Pro Kft,INV-41128,2025-10-29,2025-11-11,2205.06,kszabo,bkovacs
+P00045,V010,Florist Bp,INV-41369,2025-10-21,2025-11-11,337.79,kszabo,bkovacs
+P00046,V013,IT Systems Zrt,INV-41451,2025-10-29,2025-11-11,4480.97,bkovacs,kszabo
+P00047,V020,Spa Products Europe,INV-41668,2025-11-06,2025-11-11,8575.1,kszabo,bkovacs
+P00048,V001,Metro Kft,INV-40064,2025-10-27,2025-11-12,34555.57,bkovacs,mtoth
+P00049,V001,Metro Kft,INV-40087,2025-10-18,2025-11-12,2650.0,kszabo,bkovacs
+P00050,V001,Metro Kft,INV-40095,2025-10-30,2025-11-12,836.05,kszabo,bkovacs
+P00051,V001,Metro Kft,INV-40226,2025-10-28,2025-11-12,2652.33,kszabo,bkovacs
+P00052,V003,Fish Market Hungary,INV-40621,2025-10-21,2025-11-12,4372.3,kszabo,bkovacs
+P00053,V004,Wine Cellar Tokaj,INV-40774,2025-10-21,2025-11-12,4732.34,kszabo,bkovacs
+P00054,V005,Zwack Unicum,INV-40807,2025-10-24,2025-11-12,3648.78,kszabo,bkovacs
+P00055,V009,Cleaning Supplies Kft,INV-41257,2025-10-15,2025-11-12,359.58,kszabo,bkovacs
+P00056,V009,Cleaning Supplies Kft,INV-41301,2025-10-29,2025-11-12,747.46,kszabo,bkovacs
+P00057,V010,Florist Bp,INV-41330,2025-10-24,2025-11-12,991.23,kszabo,bkovacs
+P00058,V010,Florist Bp,INV-41354,2025-10-20,2025-11-12,1445.84,kszabo,bkovacs
+P00059,V001,Metro Kft,INV-40156,2025-10-23,2025-11-13,1458.41,kszabo,bkovacs
+P00060,V004,Wine Cellar Tokaj,INV-40724,2025-10-19,2025-11-13,786.56,kszabo,bkovacs
+P00061,V006,Coffee Bean Ltd,INV-40956,2025-11-02,2025-11-13,4335.26,kszabo,bkovacs
+P00062,V007,Hungarian Linen Services,INV-41016,2025-10-29,2025-11-13,3641.67,kszabo,bkovacs
+P00063,V001,Metro Kft,INV-40017,2025-11-01,2025-11-14,25023.18,kszabo,mtoth
+P00064,V001,Metro Kft,INV-40173,2025-11-01,2025-11-14,4772.26,bkovacs,kszabo
+P00065,V001,Metro Kft,INV-40213,2025-11-09,2025-11-14,13102.01,bkovacs,mtoth
+P00066,V003,Fish Market Hungary,INV-40667,2025-10-18,2025-11-14,1148.66,kszabo,bkovacs
+P00067,V007,Hungarian Linen Services,INV-41005,2025-10-29,2025-11-14,1619.54,bkovacs,kszabo
+P00068,V007,Hungarian Linen Services,INV-41017,2025-11-03,2025-11-14,10079.98,kszabo,mtoth
+P00069,V007,Hungarian Linen Services,INV-41060,2025-10-22,2025-11-14,1209.02,bkovacs,kszabo
+P00070,V008,Laundry Pro Kft,INV-41143,2025-11-08,2025-11-14,2971.16,kszabo,bkovacs
+P00071,V010,Florist Bp,INV-41401,2025-11-09,2025-11-14,2709.78,bkovacs,kszabo
+P00072,V012,Fovarosi Vizmuvek,INV-41430,2025-11-07,2025-11-14,1654.72,bkovacs,kszabo
+P00073,V001,Metro Kft,INV-40097,2025-11-11,2025-11-17,24541.82,kszabo,mtoth
+P00074,V002,Budapest Fresh Produce,INV-40545,2025-11-11,2025-11-17,920.9,kszabo,bkovacs
+P00075,V008,Laundry Pro Kft,INV-41137,2025-11-12,2025-11-17,5854.95,bkovacs,kszabo
+P00076,V009,Cleaning Supplies Kft,INV-41247,2025-10-31,2025-11-17,791.75,bkovacs,kszabo
+P00077,V013,IT Systems Zrt,INV-41456,2025-11-02,2025-11-17,684.66,bkovacs,kszabo
+P00078,V019,Pest Plumbing Services,INV-41618,2025-10-24,2025-11-17,1603.71,kszabo,bkovacs
+P00079,V001,Metro Kft,INV-40055,2025-10-28,2025-11-18,1024.17,kszabo,bkovacs
+P00080,V006,Coffee Bean Ltd,INV-40883,2025-10-29,2025-11-18,4425.34,bkovacs,kszabo
+P00081,V007,Hungarian Linen Services,INV-41064,2025-11-11,2025-11-18,2729.33,bkovacs,kszabo
+P00082,V009,Cleaning Supplies Kft,INV-41276,2025-11-12,2025-11-18,755.14,kszabo,bkovacs
+P00083,V009,Cleaning Supplies Kft,INV-41200A,2025-10-20,2025-11-18,443.6,kszabo,bkovacs
+P00084,V020,Spa Products Europe,INV-41664,2025-10-24,2025-11-18,2298.86,kszabo,bkovacs
+P00085,V001,Metro Kft,INV-40148,2025-11-07,2025-11-19,1457.44,kszabo,bkovacs
+P00086,V002,Budapest Fresh Produce,INV-40351,2025-11-12,2025-11-19,5481.96,kszabo,bkovacs
+P00087,V003,Fish Market Hungary,INV-40625,2025-10-29,2025-11-19,8099.46,bkovacs,kszabo
+P00088,V004,Wine Cellar Tokaj,INV-40742,2025-10-28,2025-11-19,5055.5,bkovacs,kszabo
+P00089,V005,Zwack Unicum,INV-40831,2025-10-24,2025-11-19,4398.31,bkovacs,kszabo
+P00090,V009,Cleaning Supplies Kft,INV-41265,2025-10-27,2025-11-19,881.17,bkovacs,kszabo
+P00091,V015,Schindler Lifts,INV-41508,2025-10-31,2025-11-19,7475.94,bkovacs,kszabo
+P00092,V001,Metro Kft,INV-40167,2025-11-15,2025-11-20,1826.38,kszabo,bkovacs
+P00093,V002,Budapest Fresh Produce,INV-40359,2025-11-12,2025-11-20,851.37,bkovacs,kszabo
+P00094,V006,Coffee Bean Ltd,INV-40909,2025-11-01,2025-11-20,1203.06,bkovacs,kszabo
+P00095,V006,Coffee Bean Ltd,INV-40916,2025-10-27,2025-11-20,1335.83,kszabo,bkovacs
+P00096,V007,Hungarian Linen Services,INV-40987,2025-11-13,2025-11-20,3296.1,bkovacs,kszabo
+P00097,V009,Cleaning Supplies Kft,INV-41227,2025-10-23,2025-11-20,2015.78,kszabo,bkovacs
+P00098,V009,Cleaning Supplies Kft,INV-41307,2025-11-05,2025-11-20,652.32,bkovacs,kszabo
+P00099,V002,Budapest Fresh Produce,INV-40438,2025-11-11,2025-11-21,1034.9,bkovacs,kszabo
+P00100,V002,Budapest Fresh Produce,INV-40519,2025-11-16,2025-11-21,2897.27,bkovacs,kszabo
+P00101,V003,Fish Market Hungary,INV-40570,2025-11-07,2025-11-21,3814.54,bkovacs,kszabo
+P00102,V005,Zwack Unicum,INV-40825,2025-10-25,2025-11-21,4733.1,kszabo,bkovacs
+P00103,V006,Coffee Bean Ltd,INV-40914,2025-11-02,2025-11-21,483.58,kszabo,bkovacs
+P00104,V009,Cleaning Supplies Kft,INV-41303,2025-10-23,2025-11-21,260.38,kszabo,bkovacs
+P00105,V019,Pest Plumbing Services,INV-41609,2025-11-10,2025-11-21,876.11,kszabo,bkovacs
+P00106,V001,Metro Kft,INV-40103,2025-11-07,2025-11-24,877.63,bkovacs,kszabo
+P00107,V002,Budapest Fresh Produce,INV-40306,2025-11-08,2025-11-24,4224.32,kszabo,bkovacs
+P00108,V002,Budapest Fresh Produce,INV-40324,2025-11-19,2025-11-24,2902.72,kszabo,bkovacs
+P00109,V003,Fish Market Hungary,INV-40701,2025-11-04,2025-11-24,1651.74,bkovacs,kszabo
+P00110,V004,Wine Cellar Tokaj,INV-40782,2025-11-18,2025-11-24,5967.37,bkovacs,kszabo
+P00111,V006,Coffee Bean Ltd,INV-40877,2025-11-04,2025-11-24,126.47,kszabo,bkovacs
+P00112,V007,Hungarian Linen Services,INV-41009,2025-11-01,2025-11-24,2408.28,kszabo,bkovacs
+P00113,V007,Hungarian Linen Services,INV-41011,2025-11-15,2025-11-24,2712.28,bkovacs,kszabo
+P00114,V009,Cleaning Supplies Kft,INV-41212,2025-10-28,2025-11-24,496.45,bkovacs,kszabo
+P00115,V009,Cleaning Supplies Kft,INV-41283,2025-11-18,2025-11-24,1431.57,kszabo,bkovacs
+P00116,V020,Spa Products Europe,INV-41643,2025-11-14,2025-11-24,646.19,bkovacs,kszabo
+P00117,V020,Spa Products Europe,INV-41659,2025-11-18,2025-11-24,5421.22,bkovacs,kszabo
+P00118,V001,Metro Kft,INV-40113,2025-11-14,2025-11-25,6981.23,kszabo,bkovacs
+P00119,V002,Budapest Fresh Produce,INV-40505,2025-11-08,2025-11-25,4143.9,kszabo,bkovacs
+P00120,V006,Coffee Bean Ltd,INV-40873,2025-11-15,2025-11-25,3149.39,bkovacs,kszabo
+P00121,V010,Florist Bp,INV-41325,2025-11-03,2025-11-25,3640.66,kszabo,bkovacs
+P00122,V020,Spa Products Europe,INV-41657,2025-11-16,2025-11-25,2079.48,kszabo,bkovacs
+P00123,V003,Fish Market Hungary,INV-40572,2025-11-19,2025-11-26,1197.83,bkovacs,kszabo
+P00124,V003,Fish Market Hungary,INV-40580,2025-11-21,2025-11-26,1214.86,bkovacs,kszabo
+P00125,V003,Fish Market Hungary,INV-40592,2025-10-29,2025-11-26,2722.12,bkovacs,kszabo
+P00126,V006,Coffee Bean Ltd,INV-40866,2025-11-11,2025-11-26,576.35,bkovacs,kszabo
+P00127,V006,Coffee Bean Ltd,INV-40943,2025-11-04,2025-11-26,574.21,bkovacs,kszabo
+P00128,V008,Laundry Pro Kft,INV-41085,2025-11-11,2025-11-26,3729.25,bkovacs,kszabo
+P00129,V008,Laundry Pro Kft,INV-41142,2025-11-19,2025-11-26,3372.89,kszabo,bkovacs
+P00130,V014,Opera Hospitality Software,INV-41477,2025-11-01,2025-11-26,5258.09,kszabo,bkovacs
+P00131,V001,Metro Kft,INV-40035,2025-11-03,2025-11-27,1159.47,bkovacs,kszabo
+P00132,V004,Wine Cellar Tokaj,INV-40732,2025-11-02,2025-11-27,964.32,bkovacs,kszabo
+P00133,V008,Laundry Pro Kft,INV-41077,2025-11-14,2025-11-27,4092.74,kszabo,bkovacs
+P00134,V010,Florist Bp,INV-41321,2025-11-14,2025-11-27,2934.67,bkovacs,kszabo
+P00135,V010,Florist Bp,INV-41324,2025-11-01,2025-11-27,360.7,bkovacs,kszabo
+P00136,V010,Florist Bp,INV-41326,2025-10-30,2025-11-27,1754.2,bkovacs,kszabo
+P00137,V010,Florist Bp,INV-41327,2025-11-01,2025-11-27,631.21,kszabo,bkovacs
+P00138,V015,Schindler Lifts,INV-41492,2025-11-13,2025-11-27,2940.69,bkovacs,kszabo
+P00139,V016,Securitas Hungary,INV-41512,2025-11-18,2025-11-27,10812.95,bkovacs,mtoth
+P00140,V020,Spa Products Europe,INV-41641,2025-10-29,2025-11-27,960.82,bkovacs,kszabo
+P00141,V001,Metro Kft,INV-40094,2025-11-18,2025-11-28,9453.67,kszabo,bkovacs
+P00142,V001,Metro Kft,INV-40158,2025-11-18,2025-11-28,355.81,bkovacs,kszabo
+P00143,V001,Metro Kft,INV-40243,2025-11-04,2025-11-28,2236.59,bkovacs,kszabo
+P00144,V002,Budapest Fresh Produce,INV-40498,2025-11-13,2025-11-28,1000.43,kszabo,bkovacs
+P00145,V005,Zwack Unicum,INV-40797,2025-11-05,2025-11-28,668.17,kszabo,bkovacs
+P00146,V007,Hungarian Linen Services,INV-41054,2025-11-01,2025-11-28,999.92,bkovacs,kszabo
+P00147,V001,Metro Kft,INV-40072,2025-11-18,2025-12-01,4418.18,kszabo,bkovacs
+P00148,V001,Metro Kft,INV-40078,2025-11-04,2025-12-01,672.27,bkovacs,kszabo
+P00149,V001,Metro Kft,INV-40245,2025-11-25,2025-12-01,2476.66,bkovacs,kszabo
+P00150,V002,Budapest Fresh Produce,INV-40274,2025-11-26,2025-12-01,7524.78,kszabo,bkovacs
+P00151,V002,Budapest Fresh Produce,INV-40391,2025-11-24,2025-12-01,472.51,kszabo,bkovacs
+P00152,V005,Zwack Unicum,INV-40836,2025-11-02,2025-12-01,2660.76,bkovacs,kszabo
+P00153,V006,Coffee Bean Ltd,INV-40947,2025-11-16,2025-12-01,919.93,bkovacs,kszabo
+P00154,V019,Pest Plumbing Services,INV-41592,2025-11-09,2025-12-01,1118.36,bkovacs,kszabo
+P00155,V001,Metro Kft,INV-40162,2025-11-27,2025-12-02,920.15,kszabo,bkovacs
+P00156,V001,Metro Kft,INV-40257,2025-11-23,2025-12-02,2055.27,kszabo,bkovacs
+P00157,V002,Budapest Fresh Produce,INV-40550,2025-11-26,2025-12-02,648.62,bkovacs,kszabo
+P00158,V003,Fish Market Hungary,INV-40683,2025-11-19,2025-12-02,5017.25,bkovacs,kszabo
+P00159,V007,Hungarian Linen Services,INV-41006,2025-11-04,2025-12-02,3400.53,kszabo,bkovacs
+P00160,V011,Elektro Energia,INV-41421,2025-11-05,2025-12-02,32540.71,kszabo,mtoth
+P00161,V019,Pest Plumbing Services,INV-41588,2025-11-03,2025-12-02,823.59,bkovacs,kszabo
+P00162,V002,Budapest Fresh Produce,INV-40292,2025-11-07,2025-12-03,630.3,kszabo,bkovacs
+P00163,V002,Budapest Fresh Produce,INV-40526,2025-11-17,2025-12-03,1281.0,bkovacs,kszabo
+P00164,V009,Cleaning Supplies Kft,INV-41269,2025-11-12,2025-12-03,217.22,kszabo,bkovacs
+P00165,V010,Florist Bp,INV-41347,2025-11-16,2025-12-03,4023.8,kszabo,bkovacs
+P00166,V019,Pest Plumbing Services,INV-41597,2025-11-28,2025-12-03,1230.13,bkovacs,kszabo
+P00167,V001,Metro Kft,INV-40005,2025-11-23,2025-12-04,1627.0,kszabo,bkovacs
+P00168,V001,Metro Kft,INV-40221,2025-11-20,2025-12-04,6022.24,bkovacs,kszabo
+P00169,V002,Budapest Fresh Produce,INV-40372,2025-11-05,2025-12-04,183.41,bkovacs,kszabo
+P00170,V010,Florist Bp,INV-41336,2025-11-28,2025-12-04,935.62,kszabo,bkovacs
+P00171,V002,Budapest Fresh Produce,INV-40476,2025-11-08,2025-12-05,1647.09,bkovacs,kszabo
+P00172,V006,Coffee Bean Ltd,INV-40969,2025-11-19,2025-12-05,577.24,bkovacs,kszabo
+P00173,V007,Hungarian Linen Services,INV-41067,2025-11-19,2025-12-05,1853.47,kszabo,bkovacs
+P00174,V001,Metro Kft,INV-40122,2025-11-12,2025-12-08,981.22,kszabo,bkovacs
+P00175,V002,Budapest Fresh Produce,INV-40390,2025-11-19,2025-12-08,2399.39,kszabo,bkovacs
+P00176,V003,Fish Market Hungary,INV-40628,2025-11-10,2025-12-08,1180.17,bkovacs,kszabo
+P00177,V003,Fish Market Hungary,INV-40638,2025-11-09,2025-12-08,3586.66,kszabo,bkovacs
+P00178,V006,Coffee Bean Ltd,INV-40880,2025-11-10,2025-12-08,1310.93,bkovacs,kszabo
+P00179,V006,Coffee Bean Ltd,INV-40881,2025-11-18,2025-12-08,423.15,kszabo,bkovacs
+P00180,V006,Coffee Bean Ltd,INV-40933,2025-11-27,2025-12-08,873.6,kszabo,bkovacs
+P00181,V008,Laundry Pro Kft,INV-41180,2025-11-26,2025-12-08,918.5,bkovacs,kszabo
+P00182,V019,Pest Plumbing Services,INV-41574,2025-11-25,2025-12-08,3254.9,bkovacs,kszabo
+P00183,V020,Spa Products Europe,INV-41614,2025-10-29,2025-12-08,960.82,bkovacs,kszabo
+P00184,V001,Metro Kft,INV-40029,2025-12-03,2025-12-09,3765.34,bkovacs,kszabo
+P00185,V001,Metro Kft,INV-40054,2025-11-10,2025-12-09,5357.02,kszabo,bkovacs
+P00186,V001,Metro Kft,INV-40214,2025-11-13,2025-12-09,5539.88,bkovacs,kszabo
+P00187,V002,Budapest Fresh Produce,INV-40327,2025-12-01,2025-12-09,2278.21,bkovacs,kszabo
+P00188,V002,Budapest Fresh Produce,INV-40361,2025-11-14,2025-12-09,1989.2,kszabo,bkovacs
+P00189,V004,Wine Cellar Tokaj,INV-40747,2025-11-18,2025-12-09,2679.6,bkovacs,kszabo
+P00190,V006,Coffee Bean Ltd,INV-40960,2025-11-30,2025-12-09,670.98,kszabo,bkovacs
+P00191,V009,Cleaning Supplies Kft,INV-41261,2025-11-12,2025-12-09,3097.73,bkovacs,kszabo
+P00192,V019,Pest Plumbing Services,INV-41610,2025-11-15,2025-12-09,5165.63,kszabo,bkovacs
+P00193,V003,Fish Market Hungary,INV-40661,2025-11-29,2025-12-10,1065.16,bkovacs,kszabo
+P00194,V006,Coffee Bean Ltd,INV-40894,2025-11-21,2025-12-10,3990.87,kszabo,bkovacs
+P00195,V019,Pest Plumbing Services,INV-41584,2025-11-19,2025-12-10,780.2,bkovacs,kszabo
+P00196,V001,Metro Kft,INV-40096,2025-11-21,2025-12-11,3837.75,kszabo,bkovacs
+P00197,V001,Metro Kft,INV-40106,2025-11-26,2025-12-11,481.91,bkovacs,kszabo
+P00198,V001,Metro Kft,INV-40207,2025-11-30,2025-12-11,2574.19,kszabo,bkovacs
+P00199,V007,Hungarian Linen Services,INV-40988,2025-11-17,2025-12-11,11159.95,bkovacs,mtoth
+P00200,V016,Securitas Hungary,INV-41519,2025-11-27,2025-12-11,5808.0,bkovacs,kszabo
+P00201,V002,Budapest Fresh Produce,INV-40535,2025-12-06,2025-12-12,1172.67,bkovacs,kszabo
+P00202,V013,IT Systems Zrt,INV-41436,2025-12-06,2025-12-12,2959.88,bkovacs,kszabo
+P00203,V017,Marketing Partners Kft,INV-41542,2025-12-05,2025-12-12,4712.82,kszabo,bkovacs
+P00204,V020,Spa Products Europe,INV-41648,2025-12-03,2025-12-12,4472.91,kszabo,bkovacs
+P00205,V001,Metro Kft,INV-40093,2025-12-03,2025-12-15,2061.93,kszabo,bkovacs
+P00206,V001,Metro Kft,INV-40108,2025-11-18,2025-12-15,797.92,kszabo,bkovacs
+P00207,V003,Fish Market Hungary,INV-40650,2025-12-03,2025-12-15,751.21,bkovacs,kszabo
+P00208,V005,Zwack Unicum,INV-40806,2025-11-23,2025-12-15,526.21,kszabo,bkovacs
+P00209,V007,Hungarian Linen Services,INV-40992,2025-12-06,2025-12-15,4867.94,kszabo,bkovacs
+P00210,V009,Cleaning Supplies Kft,INV-41182,2025-12-02,2025-12-15,373.06,bkovacs,kszabo
+P00211,V009,Cleaning Supplies Kft,INV-41205,2025-11-17,2025-12-15,904.76,kszabo,bkovacs
+P00212,V009,Cleaning Supplies Kft,INV-41208,2025-12-05,2025-12-15,208.59,bkovacs,kszabo
+P00213,V017,Marketing Partners Kft,INV-41530,2025-11-29,2025-12-15,2825.57,kszabo,bkovacs
+P00214,V019,Pest Plumbing Services,INV-41613,2025-12-05,2025-12-15,2041.64,kszabo,bkovacs
+P00215,V020,Spa Products Europe,INV-41633,2025-11-20,2025-12-15,1918.25,bkovacs,kszabo
+P00216,V003,Fish Market Hungary,INV-40597,2025-11-23,2025-12-16,3460.14,bkovacs,kszabo
+P00217,V004,Wine Cellar Tokaj,INV-40719,2025-11-29,2025-12-16,2186.27,kszabo,bkovacs
+P00218,V009,Cleaning Supplies Kft,INV-41271,2025-11-23,2025-12-16,141.3,kszabo,bkovacs
+P00219,V009,Cleaning Supplies Kft,INV-41305,2025-11-19,2025-12-16,1847.8,bkovacs,kszabo
+P00220,V013,IT Systems Zrt,INV-41448,2025-11-18,2025-12-16,5040.0,kszabo,bkovacs
+P00221,V015,Schindler Lifts,INV-41503,2025-12-11,2025-12-16,4719.01,kszabo,bkovacs
+P00222,V001,Metro Kft,INV-40114,2025-11-25,2025-12-17,3144.7,bkovacs,kszabo
+P00223,V001,Metro Kft,INV-40159,2025-12-03,2025-12-17,9318.84,bkovacs,kszabo
+P00224,V003,Fish Market Hungary,INV-40663,2025-12-02,2025-12-17,693.93,kszabo,bkovacs
+P00225,V004,Wine Cellar Tokaj,INV-40748,2025-11-25,2025-12-17,1067.38,kszabo,bkovacs
+P00226,V005,Zwack Unicum,INV-40829,2025-12-02,2025-12-17,911.4,bkovacs,kszabo
+P00227,V010,Florist Bp,INV-41372,2025-11-18,2025-12-17,2543.59,bkovacs,kszabo
+P00228,V016,Securitas Hungary,INV-41514,2025-12-10,2025-12-17,5348.95,bkovacs,kszabo
+P00229,V001,Metro Kft,INV-40176,2025-11-25,2025-12-18,2808.47,bkovacs,kszabo
+P00230,V001,Metro Kft,INV-40252,2025-11-20,2025-12-18,718.53,kszabo,bkovacs
+P00231,V002,Budapest Fresh Produce,INV-40336,2025-12-10,2025-12-18,1729.71,bkovacs,kszabo
+P00232,V002,Budapest Fresh Produce,INV-40404,2025-11-27,2025-12-18,1716.05,kszabo,bkovacs
+P00233,V009,Cleaning Supplies Kft,INV-41280,2025-12-09,2025-12-18,55.74,bkovacs,kszabo
+P00234,V013,IT Systems Zrt,INV-41469,2025-11-30,2025-12-18,1342.35,bkovacs,kszabo
+P00235,V001,Metro Kft,INV-40180,2025-11-27,2025-12-19,1409.8,kszabo,bkovacs
+P00236,V002,Budapest Fresh Produce,INV-40354,2025-11-25,2025-12-19,3603.96,bkovacs,kszabo
+P00237,V004,Wine Cellar Tokaj,INV-40779,2025-11-27,2025-12-19,778.92,kszabo,bkovacs
+P00238,V008,Laundry Pro Kft,INV-41125,2025-12-06,2025-12-19,942.38,kszabo,bkovacs
+P00239,V002,Budapest Fresh Produce,INV-40501,2025-12-17,2025-12-22,1452.59,bkovacs,kszabo
+P00240,V004,Wine Cellar Tokaj,INV-40725,2025-12-11,2025-12-22,5351.17,kszabo,bkovacs
+P00241,V005,Zwack Unicum,INV-40850,2025-11-26,2025-12-22,1380.62,bkovacs,kszabo
+P00242,V007,Hungarian Linen Services,INV-41070,2025-12-16,2025-12-22,14557.9,bkovacs,mtoth
+P00243,V013,IT Systems Zrt,INV-41464,2025-11-26,2025-12-22,9152.18,bkovacs,kszabo
+P00244,V015,Schindler Lifts,INV-41496,2025-11-29,2025-12-22,8673.88,bkovacs,kszabo
+P00245,V001,Metro Kft,INV-40105,2025-12-03,2025-12-23,679.03,kszabo,bkovacs
+P00246,V002,Budapest Fresh Produce,INV-40481,2025-11-30,2025-12-23,6337.11,bkovacs,kszabo
+P00247,V006,Coffee Bean Ltd,INV-40870,2025-12-15,2025-12-23,182.83,kszabo,bkovacs
+P00248,V006,Coffee Bean Ltd,INV-40915,2025-12-04,2025-12-23,411.61,bkovacs,kszabo
+P00249,V001,Metro Kft,INV-40239,2025-12-01,2025-12-24,6817.76,kszabo,bkovacs
+P00250,V002,Budapest Fresh Produce,INV-40316,2025-11-29,2025-12-24,1576.03,bkovacs,kszabo
+P00251,V002,Budapest Fresh Produce,INV-40381,2025-12-01,2025-12-24,723.35,bkovacs,kszabo
+P00252,V003,Fish Market Hungary,INV-40562,2025-12-07,2025-12-24,2049.09,kszabo,bkovacs
+P00253,V003,Fish Market Hungary,INV-40637,2025-12-06,2025-12-24,2325.65,bkovacs,kszabo
+P00254,V003,Fish Market Hungary,INV-40708,2025-11-26,2025-12-24,2630.09,bkovacs,kszabo
+P00255,V007,Hungarian Linen Services,INV-40989,2025-12-08,2025-12-24,2680.75,kszabo,bkovacs
+P00256,V008,Laundry Pro Kft,INV-41172,2025-12-14,2025-12-24,3970.65,bkovacs,kszabo
+P00257,V001,Metro Kft,INV-40135,2025-12-04,2025-12-25,913.99,kszabo,bkovacs
+P00258,V006,Coffee Bean Ltd,INV-40858,2025-12-06,2025-12-25,1643.98,bkovacs,kszabo
+P00259,V009,Cleaning Supplies Kft,INV-41259,2025-12-13,2025-12-25,485.31,kszabo,bkovacs
+P00260,V020,Spa Products Europe,INV-41649,2025-12-15,2025-12-25,7439.09,kszabo,bkovacs
+P00261,V002,Budapest Fresh Produce,INV-40436,2025-12-09,2025-12-26,882.77,kszabo,bkovacs
+P00262,V002,Budapest Fresh Produce,INV-40520,2025-12-07,2025-12-26,2719.11,bkovacs,kszabo
+P00263,V003,Fish Market Hungary,INV-40644,2025-12-20,2025-12-26,1747.37,kszabo,bkovacs
+P00264,V005,Zwack Unicum,INV-40795,2025-12-05,2025-12-26,1009.19,bkovacs,kszabo
+P00265,V005,Zwack Unicum,INV-40808,2025-12-21,2025-12-26,1470.96,bkovacs,kszabo
+P00266,V006,Coffee Bean Ltd,INV-40957,2025-11-30,2025-12-26,535.08,kszabo,bkovacs
+P00267,V019,Pest Plumbing Services,INV-41627,2025-12-16,2025-12-26,63.63,kszabo,bkovacs
+P00268,V001,Metro Kft,INV-40181,2025-12-02,2025-12-29,2627.84,kszabo,bkovacs
+P00269,V001,Metro Kft,INV-40211,2025-12-21,2025-12-29,3033.15,bkovacs,kszabo
+P00270,V002,Budapest Fresh Produce,INV-40279,2025-12-06,2025-12-29,158.52,bkovacs,kszabo
+P00271,V006,Coffee Bean Ltd,INV-40963,2025-12-01,2025-12-29,1287.66,kszabo,bkovacs
+P00272,V008,Laundry Pro Kft,INV-41079,2025-12-07,2025-12-29,9966.13,kszabo,bkovacs
+P00273,V019,Pest Plumbing Services,INV-41585,2025-12-19,2025-12-29,220.45,bkovacs,kszabo
+P00274,V001,Metro Kft,INV-40134,2025-12-22,2025-12-30,3772.32,bkovacs,kszabo
+P00275,V003,Fish Market Hungary,INV-40567,2025-12-20,2025-12-30,768.82,bkovacs,kszabo
+P00276,V008,Laundry Pro Kft,INV-41115,2025-12-01,2025-12-30,2748.1,kszabo,bkovacs
+P00277,V015,Schindler Lifts,INV-41499,2025-12-04,2025-12-30,4586.46,bkovacs,kszabo
+P00278,V001,Metro Kft,INV-40007,2025-12-15,2025-12-31,12915.65,kszabo,mtoth
+P00279,V002,Budapest Fresh Produce,INV-40467,2025-12-08,2025-12-31,1350.38,bkovacs,kszabo
+P00280,V003,Fish Market Hungary,INV-40564,2025-12-24,2025-12-31,562.98,kszabo,bkovacs
+P00281,V003,Fish Market Hungary,INV-40639,2025-12-15,2025-12-31,1215.91,kszabo,bkovacs
+P00282,V005,Zwack Unicum,INV-40805,2025-12-22,2025-12-31,7246.76,bkovacs,kszabo
+P00283,V008,Laundry Pro Kft,INV-41074,2025-12-25,2025-12-31,5001.67,kszabo,bkovacs
+P00284,V008,Laundry Pro Kft,INV-41123,2025-12-20,2025-12-31,1549.42,kszabo,bkovacs
+P00285,V020,Spa Products Europe,INV-41652,2025-12-10,2025-12-31,2438.77,bkovacs,kszabo
+P00286,V001,Metro Kft,INV-40068,2025-12-20,2026-01-01,4179.33,bkovacs,kszabo
+P00287,V001,Metro Kft,INV-40233,2025-12-15,2026-01-01,1942.31,bkovacs,kszabo
+P00288,V004,Wine Cellar Tokaj,INV-40771,2025-12-03,2026-01-01,1059.93,kszabo,bkovacs
+P00289,V006,Coffee Bean Ltd,INV-40869,2025-12-09,2026-01-01,1255.43,bkovacs,kszabo
+P00290,V008,Laundry Pro Kft,INV-41076,2025-12-19,2026-01-01,766.39,kszabo,bkovacs
+P00291,V008,Laundry Pro Kft,INV-41132,2025-12-23,2026-01-01,6440.7,kszabo,bkovacs
+P00292,V009,Cleaning Supplies Kft,INV-41229,2025-12-18,2026-01-01,1274.39,bkovacs,kszabo
+P00293,V001,Metro Kft,INV-40033,2025-12-22,2026-01-02,3800.91,kszabo,bkovacs
+P00294,V002,Budapest Fresh Produce,INV-40516,2025-12-11,2026-01-02,1181.41,bkovacs,kszabo
+P00295,V008,Laundry Pro Kft,INV-41127,2025-12-23,2026-01-02,3173.28,bkovacs,kszabo
+P00296,V010,Florist Bp,INV-41364,2025-12-12,2026-01-02,1077.09,kszabo,bkovacs
+P00297,V017,Marketing Partners Kft,INV-41524,2025-12-18,2026-01-02,14731.3,kszabo,mtoth
+P00298,V001,Metro Kft,INV-40065,2025-12-20,2026-01-05,1070.9,kszabo,bkovacs
+P00299,V003,Fish Market Hungary,INV-40696,2025-12-28,2026-01-05,5799.39,bkovacs,kszabo
+P00300,V006,Coffee Bean Ltd,INV-40884,2025-12-16,2026-01-05,1035.74,bkovacs,kszabo
+P00301,V009,Cleaning Supplies Kft,INV-41198,2025-12-31,2026-01-05,243.22,bkovacs,kszabo
+P00302,V009,Cleaning Supplies Kft,INV-41252,2025-12-24,2026-01-05,179.2,bkovacs,kszabo
+P00303,V001,Metro Kft,INV-40069,2025-12-27,2026-01-06,8074.09,bkovacs,kszabo
+P00304,V002,Budapest Fresh Produce,INV-40454,2026-01-01,2026-01-06,737.71,kszabo,bkovacs
+P00305,V002,Budapest Fresh Produce,INV-40529,2026-01-01,2026-01-06,336.64,kszabo,bkovacs
+P00306,V004,Wine Cellar Tokaj,INV-40735,2025-12-16,2026-01-06,3259.79,kszabo,bkovacs
+P00307,V005,Zwack Unicum,INV-40814,2025-12-31,2026-01-06,1324.7,kszabo,bkovacs
+P00308,V006,Coffee Bean Ltd,INV-40889,2025-12-15,2026-01-06,11388.93,bkovacs,mtoth
+P00309,V007,Hungarian Linen Services,INV-40996,2025-12-16,2026-01-06,2986.56,kszabo,bkovacs
+P00310,V007,Hungarian Linen Services,INV-41001,2025-12-22,2026-01-06,2715.62,bkovacs,kszabo
+P00311,V008,Laundry Pro Kft,INV-41141,2025-12-19,2026-01-06,10127.32,bkovacs,mtoth
+P00312,V009,Cleaning Supplies Kft,INV-41266,2025-12-26,2026-01-06,1591.28,bkovacs,kszabo
+P00313,V012,Fovarosi Vizmuvek,INV-41434,2025-12-17,2026-01-06,4111.54,kszabo,bkovacs
+P00314,V016,Securitas Hungary,INV-41513,2025-12-22,2026-01-06,9784.05,kszabo,bkovacs
+P00315,V002,Budapest Fresh Produce,INV-40536,2025-12-11,2026-01-07,5835.39,kszabo,bkovacs
+P00316,V004,Wine Cellar Tokaj,INV-40743,2025-12-17,2026-01-07,3676.5,bkovacs,kszabo
+P00317,V008,Laundry Pro Kft,INV-41140,2025-12-09,2026-01-07,3646.7,kszabo,bkovacs
+P00318,V008,Laundry Pro Kft,INV-41174,2025-12-26,2026-01-07,2280.64,kszabo,bkovacs
+P00319,V009,Cleaning Supplies Kft,INV-41193,2025-12-21,2026-01-07,223.94,bkovacs,kszabo
+P00320,V002,Budapest Fresh Produce,INV-40490,2025-12-18,2026-01-08,265.18,kszabo,bkovacs
+P00321,V002,Budapest Fresh Produce,INV-40513,2026-01-02,2026-01-08,550.65,bkovacs,kszabo
+P00322,V004,Wine Cellar Tokaj,INV-40720,2025-12-22,2026-01-08,3057.76,kszabo,bkovacs
+P00323,V009,Cleaning Supplies Kft,INV-41292,2025-12-14,2026-01-08,310.37,kszabo,bkovacs
+P00324,V010,Florist Bp,INV-41328,2025-12-31,2026-01-08,943.12,bkovacs,kszabo
+P00325,V010,Florist Bp,INV-41366,2025-12-29,2026-01-08,1862.23,kszabo,bkovacs
+P00326,V010,Florist Bp,INV-41373,2025-12-12,2026-01-08,72.59,kszabo,bkovacs
+P00327,V013,IT Systems Zrt,INV-41474,2025-12-25,2026-01-08,1182.79,kszabo,bkovacs
+P00328,V001,Metro Kft,INV-40016,2025-12-22,2026-01-09,17839.77,bkovacs,mtoth
+P00329,V001,Metro Kft,INV-40212,2025-12-23,2026-01-09,740.39,bkovacs,kszabo
+P00330,V002,Budapest Fresh Produce,INV-40379,2025-12-20,2026-01-09,1081.63,bkovacs,kszabo
+P00331,V005,Zwack Unicum,INV-40847,2025-12-11,2026-01-09,4542.85,bkovacs,kszabo
+P00332,V008,Laundry Pro Kft,INV-41117,2025-12-15,2026-01-09,11941.06,bkovacs,mtoth
+P00333,V001,Metro Kft,INV-40172,2026-01-02,2026-01-12,2722.91,bkovacs,kszabo
+P00334,V008,Laundry Pro Kft,INV-41081,2025-12-27,2026-01-12,3751.59,bkovacs,kszabo
+P00335,V008,Laundry Pro Kft,INV-41095,2025-12-28,2026-01-12,26737.21,kszabo,mtoth
+P00336,V009,Cleaning Supplies Kft,INV-41293,2025-12-29,2026-01-12,1237.45,bkovacs,kszabo
+P00337,V015,Schindler Lifts,INV-41489,2026-01-02,2026-01-12,5226.14,kszabo,bkovacs
+P00338,V015,Schindler Lifts,INV-41509,2025-12-20,2026-01-12,11815.39,bkovacs,mtoth
+P00339,V002,Budapest Fresh Produce,INV-40299,2025-12-28,2026-01-13,3793.54,kszabo,bkovacs
+P00340,V005,Zwack Unicum,INV-40815,2025-12-21,2026-01-13,1349.89,bkovacs,kszabo
+P00341,V006,Coffee Bean Ltd,INV-40961,2025-12-24,2026-01-13,236.33,bkovacs,kszabo
+P00342,V007,Hungarian Linen Services,INV-41038,2025-12-16,2026-01-13,20550.76,bkovacs,mtoth
+P00343,V009,Cleaning Supplies Kft,INV-41317,2025-12-24,2026-01-13,302.71,bkovacs,kszabo
+P00344,V010,Florist Bp,INV-41404,2025-12-25,2026-01-13,5483.94,bkovacs,kszabo
+P00345,V002,Budapest Fresh Produce,INV-40356,2025-12-19,2026-01-14,977.59,kszabo,bkovacs
+P00346,V003,Fish Market Hungary,INV-40693,2025-12-27,2026-01-14,6930.26,bkovacs,kszabo
+P00347,V004,Wine Cellar Tokaj,INV-40770,2025-12-16,2026-01-14,3782.23,kszabo,bkovacs
+P00348,V004,Wine Cellar Tokaj,INV-40787,2025-12-18,2026-01-14,6421.66,bkovacs,kszabo
+P00349,V009,Cleaning Supplies Kft,INV-41239,2025-12-19,2026-01-14,511.17,bkovacs,kszabo
+P00350,V010,Florist Bp,INV-41329,2026-01-06,2026-01-14,862.85,kszabo,bkovacs
+P00351,V010,Florist Bp,INV-41333,2026-01-03,2026-01-14,490.52,bkovacs,kszabo
+P00352,V010,Florist Bp,INV-41340,2026-01-03,2026-01-14,1444.79,bkovacs,kszabo
+P00353,V010,Florist Bp,INV-41362,2025-12-28,2026-01-14,2138.48,bkovacs,kszabo
+P00354,V019,Pest Plumbing Services,INV-41590,2025-12-25,2026-01-14,2721.34,kszabo,bkovacs
+P00355,V003,Fish Market Hungary,INV-40593,2026-01-08,2026-01-15,822.61,kszabo,bkovacs
+P00356,V004,Wine Cellar Tokaj,INV-40761,2026-01-01,2026-01-15,1787.9,kszabo,bkovacs
+P00357,V006,Coffee Bean Ltd,INV-40950,2025-12-25,2026-01-15,771.18,bkovacs,kszabo
+P00358,V007,Hungarian Linen Services,INV-41039,2025-12-17,2026-01-15,2572.98,bkovacs,kszabo
+P00359,V008,Laundry Pro Kft,INV-41135,2025-12-22,2026-01-15,5593.56,bkovacs,kszabo
+P00360,V009,Cleaning Supplies Kft,INV-41273,2025-12-27,2026-01-15,369.0,bkovacs,kszabo
+P00361,V019,Pest Plumbing Services,INV-41614,2026-01-01,2026-01-15,3791.1,bkovacs,kszabo
+P00362,V001,Metro Kft,INV-40217,2025-12-28,2026-01-16,2345.5,bkovacs,kszabo
+P00363,V002,Budapest Fresh Produce,INV-40297,2026-01-08,2026-01-16,2395.5,bkovacs,kszabo
+P00364,V002,Budapest Fresh Produce,INV-40425,2026-01-04,2026-01-16,1391.34,bkovacs,kszabo
+P00365,V003,Fish Market Hungary,INV-40594,2026-01-04,2026-01-16,898.93,kszabo,bkovacs
+P00366,V004,Wine Cellar Tokaj,INV-40756,2025-12-30,2026-01-16,11742.81,bkovacs,mtoth
+P00367,V006,Coffee Bean Ltd,INV-40853,2026-01-04,2026-01-16,925.93,kszabo,bkovacs
+P00368,V006,Coffee Bean Ltd,INV-40911,2025-12-28,2026-01-16,909.49,bkovacs,kszabo
+P00369,V007,Hungarian Linen Services,INV-40979,2025-12-29,2026-01-16,5516.78,kszabo,bkovacs
+P00370,V009,Cleaning Supplies Kft,INV-41319,2025-12-30,2026-01-16,1560.9,bkovacs,kszabo
+P00371,V010,Florist Bp,INV-41331,2025-12-24,2026-01-16,3340.41,kszabo,bkovacs
+P00372,V015,Schindler Lifts,INV-41491,2025-12-24,2026-01-16,7869.81,kszabo,bkovacs
+P00373,V017,Marketing Partners Kft,INV-41527,2026-01-02,2026-01-16,2675.66,kszabo,bkovacs
+P00374,V020,Spa Products Europe,INV-41645,2026-01-04,2026-01-16,410.91,bkovacs,kszabo
+P00375,V002,Budapest Fresh Produce,INV-40368,2026-01-11,2026-01-19,253.09,bkovacs,kszabo
+P00376,V008,Laundry Pro Kft,INV-41151,2025-12-21,2026-01-19,1083.17,kszabo,bkovacs
+P00377,V009,Cleaning Supplies Kft,INV-41313,2026-01-03,2026-01-19,1163.8,bkovacs,kszabo
+P00378,V019,Pest Plumbing Services,INV-41608,2025-12-23,2026-01-19,423.96,bkovacs,kszabo
+P00379,V019,Pest Plumbing Services,INV-41617,2025-12-25,2026-01-19,423.7,bkovacs,kszabo
+P00380,V001,Metro Kft,INV-40145,2025-12-26,2026-01-20,3100.15,kszabo,bkovacs
+P00381,V003,Fish Market Hungary,INV-40695,2026-01-07,2026-01-20,2433.25,kszabo,bkovacs
+P00382,V010,Florist Bp,INV-41402,2026-01-12,2026-01-20,995.6,bkovacs,kszabo
+P00383,V001,Metro Kft,INV-40250,2025-12-24,2026-01-21,4441.35,kszabo,bkovacs
+P00384,V002,Budapest Fresh Produce,INV-40452,2026-01-16,2026-01-21,2277.68,bkovacs,kszabo
+P00385,V002,Budapest Fresh Produce,INV-40500,2026-01-15,2026-01-21,2087.32,bkovacs,kszabo
+P00386,V006,Coffee Bean Ltd,INV-40875,2026-01-02,2026-01-21,411.95,kszabo,bkovacs
+P00387,V009,Cleaning Supplies Kft,INV-41299,2025-12-28,2026-01-21,396.41,kszabo,bkovacs
+P00388,V001,Metro Kft,INV-40169,2026-01-07,2026-01-22,4038.8,kszabo,bkovacs
+P00389,V001,Metro Kft,INV-40231,2026-01-01,2026-01-22,2117.86,bkovacs,kszabo
+P00390,V003,Fish Market Hungary,INV-40606,2025-12-28,2026-01-22,3309.43,kszabo,bkovacs
+P00391,V008,Laundry Pro Kft,INV-41089,2026-01-14,2026-01-22,5868.95,bkovacs,kszabo
+P00392,V001,Metro Kft,INV-40186,2026-01-14,2026-01-23,3582.68,kszabo,bkovacs
+P00393,V002,Budapest Fresh Produce,INV-40344,2026-01-09,2026-01-23,490.12,bkovacs,kszabo
+P00394,V002,Budapest Fresh Produce,INV-40508,2026-01-02,2026-01-23,1725.97,bkovacs,kszabo
+P00395,V003,Fish Market Hungary,INV-40608,2026-01-10,2026-01-23,1457.32,bkovacs,kszabo
+P00396,V003,Fish Market Hungary,INV-40609,2026-01-09,2026-01-23,1440.11,bkovacs,kszabo
+P00397,V007,Hungarian Linen Services,INV-40978,2026-01-16,2026-01-23,732.92,bkovacs,kszabo
+P00398,V010,Florist Bp,INV-41350,2026-01-10,2026-01-23,909.23,bkovacs,kszabo
+P00399,V013,IT Systems Zrt,INV-41459,2026-01-13,2026-01-23,13121.45,bkovacs,mtoth
+P00400,V002,Budapest Fresh Produce,INV-40489,2026-01-09,2026-01-26,2932.29,bkovacs,kszabo
+P00401,V013,IT Systems Zrt,INV-41463,2026-01-19,2026-01-26,14394.25,bkovacs,mtoth
+P00402,V018,Uniform Factory,INV-41559,2025-12-31,2026-01-26,3158.73,bkovacs,kszabo
+P00403,V001,Metro Kft,INV-40146,2026-01-22,2026-01-27,1482.41,kszabo,bkovacs
+P00404,V002,Budapest Fresh Produce,INV-40318,2026-01-18,2026-01-27,589.36,bkovacs,kszabo
+P00405,V002,Budapest Fresh Produce,INV-40405,2026-01-22,2026-01-27,1744.41,bkovacs,kszabo
+P00406,V008,Laundry Pro Kft,INV-41149,2026-01-22,2026-01-27,6155.62,kszabo,bkovacs
+P00407,V011,Elektro Energia,INV-41420,2026-01-08,2026-01-27,10065.63,bkovacs,mtoth
+P00408,V001,Metro Kft,INV-40059,2026-01-17,2026-01-28,2434.52,bkovacs,kszabo
+P00409,V001,Metro Kft,INV-40062,2026-01-14,2026-01-28,1662.32,kszabo,bkovacs
+P00410,V001,Metro Kft,INV-40236,2026-01-08,2026-01-28,1241.89,kszabo,bkovacs
+P00411,V003,Fish Market Hungary,INV-40623,2026-01-12,2026-01-28,4407.5,bkovacs,kszabo
+P00412,V007,Hungarian Linen Services,INV-41019,2026-01-08,2026-01-28,1500.57,kszabo,bkovacs
+P00413,V007,Hungarian Linen Services,INV-41027,2026-01-20,2026-01-28,1540.56,kszabo,bkovacs
+P00414,V009,Cleaning Supplies Kft,INV-41187,2026-01-15,2026-01-28,54.35,bkovacs,kszabo
+P00415,V009,Cleaning Supplies Kft,INV-41248,2026-01-07,2026-01-28,852.3,bkovacs,kszabo
+P00416,V010,Florist Bp,INV-41403,2026-01-02,2026-01-28,713.47,kszabo,bkovacs
+P00417,V020,Spa Products Europe,INV-41669,2026-01-02,2026-01-28,8257.99,kszabo,bkovacs
+P00418,V002,Budapest Fresh Produce,INV-40329,2026-01-06,2026-01-29,211.0,kszabo,bkovacs
+P00419,V002,Budapest Fresh Produce,INV-40399,2026-01-17,2026-01-29,8386.57,kszabo,bkovacs
+P00420,V003,Fish Market Hungary,INV-40653,2026-01-09,2026-01-29,3385.18,bkovacs,kszabo
+P00421,V004,Wine Cellar Tokaj,INV-40714,2026-01-07,2026-01-29,2165.41,kszabo,bkovacs
+P00422,V006,Coffee Bean Ltd,INV-40902,2026-01-15,2026-01-29,297.81,bkovacs,kszabo
+P00423,V008,Laundry Pro Kft,INV-41088,2026-01-16,2026-01-29,3851.32,bkovacs,kszabo
+P00424,V002,Budapest Fresh Produce,INV-40311,2026-01-07,2026-01-30,961.65,kszabo,bkovacs
+P00425,V002,Budapest Fresh Produce,INV-40385,2026-01-13,2026-01-30,2165.02,bkovacs,kszabo
+P00426,V003,Fish Market Hungary,INV-40640,2026-01-20,2026-01-30,2395.71,kszabo,bkovacs
+P00427,V005,Zwack Unicum,INV-40813,2026-01-02,2026-01-30,454.75,kszabo,bkovacs
+P00428,V006,Coffee Bean Ltd,INV-40871,2026-01-22,2026-01-30,557.27,bkovacs,kszabo
+P00429,V006,Coffee Bean Ltd,INV-40903,2026-01-20,2026-01-30,3231.61,bkovacs,kszabo
+P00430,V010,Florist Bp,INV-41394,2026-01-25,2026-01-30,430.59,kszabo,bkovacs
+P00431,V001,Metro Kft,INV-40186,2026-01-14,2026-01-31,3582.68,kszabo,bkovacs
+P00432,V002,Budapest Fresh Produce,INV-40272,2026-01-14,2026-02-02,919.73,bkovacs,kszabo
+P00433,V002,Budapest Fresh Produce,INV-40544,2026-01-26,2026-02-02,1166.8,bkovacs,kszabo
+P00434,V004,Wine Cellar Tokaj,INV-40772,2026-01-14,2026-02-02,1991.62,bkovacs,kszabo
+P00435,V006,Coffee Bean Ltd,INV-40888,2026-01-25,2026-02-02,1417.22,bkovacs,kszabo
+P00436,V010,Florist Bp,INV-41339,2026-01-09,2026-02-02,1319.08,bkovacs,kszabo
+P00437,V001,Metro Kft,INV-40149,2026-01-16,2026-02-03,692.97,bkovacs,kszabo
+P00438,V002,Budapest Fresh Produce,INV-40281,2026-01-11,2026-02-03,3377.76,bkovacs,kszabo
+P00439,V002,Budapest Fresh Produce,INV-40530,2026-01-24,2026-02-03,902.7,kszabo,bkovacs
+P00440,V006,Coffee Bean Ltd,INV-40852,2026-01-27,2026-02-03,651.73,bkovacs,kszabo
+P00441,V008,Laundry Pro Kft,INV-41136,2026-01-16,2026-02-03,7536.2,kszabo,bkovacs
+P00442,V018,Uniform Factory,INV-41555,2026-01-21,2026-02-03,6215.42,bkovacs,kszabo
+P00443,V018,Uniform Factory,INV-41557,2026-01-11,2026-02-03,1636.84,kszabo,bkovacs
+P00444,V019,Pest Plumbing Services,INV-41605,2026-01-13,2026-02-03,1055.47,kszabo,bkovacs
+P00445,V019,Pest Plumbing Services,INV-41611,2026-01-25,2026-02-03,102.95,bkovacs,kszabo
+P00446,V020,Spa Products Europe,INV-41672,2026-01-09,2026-02-03,6022.14,bkovacs,kszabo
+P00447,V001,Metro Kft,INV-40203,2026-01-07,2026-02-04,903.16,kszabo,bkovacs
+P00448,V007,Hungarian Linen Services,INV-40983,2026-01-10,2026-02-04,6086.6,bkovacs,kszabo
+P00449,V009,Cleaning Supplies Kft,INV-41256,2026-01-11,2026-02-04,1385.65,kszabo,bkovacs
+P00450,V009,Cleaning Supplies Kft,INV-41277,2026-01-07,2026-02-04,310.29,kszabo,bkovacs
+P00451,V009,Cleaning Supplies Kft,INV-41310,2026-01-29,2026-02-04,343.74,bkovacs,kszabo
+P00452,V018,Uniform Factory,INV-41564,2026-01-15,2026-02-04,573.89,bkovacs,kszabo
+P00453,V001,Metro Kft,INV-40014,2026-01-26,2026-02-05,1420.63,kszabo,bkovacs
+P00454,V002,Budapest Fresh Produce,INV-40341,2026-01-28,2026-02-05,3682.23,kszabo,bkovacs
+P00455,V003,Fish Market Hungary,INV-40658,2026-01-27,2026-02-05,2202.59,kszabo,bkovacs
+P00456,V004,Wine Cellar Tokaj,INV-40739,2026-01-27,2026-02-05,3264.38,bkovacs,kszabo
+P00457,V008,Laundry Pro Kft,INV-41147,2026-01-10,2026-02-05,7712.28,bkovacs,kszabo
+P00458,V009,Cleaning Supplies Kft,INV-41219,2026-01-10,2026-02-05,245.43,kszabo,bkovacs
+P00459,V002,Budapest Fresh Produce,INV-40335,2026-01-23,2026-02-06,469.3,bkovacs,kszabo
+P00460,V003,Fish Market Hungary,INV-40634,2026-01-10,2026-02-06,1771.56,kszabo,bkovacs
+P00461,V003,Fish Market Hungary,INV-40651,2026-01-17,2026-02-06,390.49,bkovacs,kszabo
+P00462,V005,Zwack Unicum,INV-40812,2026-01-16,2026-02-06,3531.0,bkovacs,kszabo
+P00463,V008,Laundry Pro Kft,INV-41162,2026-01-29,2026-02-06,811.58,kszabo,bkovacs
+P00464,V009,Cleaning Supplies Kft,INV-41186,2026-01-16,2026-02-06,4180.91,bkovacs,kszabo
+P00465,V009,Cleaning Supplies Kft,INV-41215,2026-01-12,2026-02-06,509.43,bkovacs,kszabo
+P00466,V009,Cleaning Supplies Kft,INV-41246,2026-01-28,2026-02-06,211.98,kszabo,bkovacs
+P00467,V001,Metro Kft,INV-40225,2026-01-23,2026-02-09,1396.22,bkovacs,kszabo
+P00468,V003,Fish Market Hungary,INV-40680,2026-01-17,2026-02-09,2509.57,bkovacs,kszabo
+P00469,V007,Hungarian Linen Services,INV-40972,2026-01-29,2026-02-09,4569.39,bkovacs,kszabo
+P00470,V013,IT Systems Zrt,INV-41442,2026-01-20,2026-02-09,4229.08,bkovacs,kszabo
+P00471,V019,Pest Plumbing Services,INV-41629,2026-01-13,2026-02-09,1259.85,bkovacs,kszabo
+P00472,V002,Budapest Fresh Produce,INV-40261,2026-01-25,2026-02-10,1376.13,kszabo,bkovacs
+P00473,V002,Budapest Fresh Produce,INV-40491,2026-01-15,2026-02-10,1259.24,bkovacs,kszabo
+P00474,V003,Fish Market Hungary,INV-40576,2026-01-27,2026-02-10,1415.99,kszabo,bkovacs
+P00475,V009,Cleaning Supplies Kft,INV-41203,2026-01-24,2026-02-10,2063.2,bkovacs,kszabo
+P00476,V001,Metro Kft,INV-40061,2026-02-03,2026-02-11,1161.0,kszabo,bkovacs
+P00477,V001,Metro Kft,INV-40151,2026-01-15,2026-02-11,13145.48,bkovacs,mtoth
+P00478,V001,Metro Kft,INV-40260,2026-01-23,2026-02-11,1577.57,kszabo,bkovacs
+P00479,V002,Budapest Fresh Produce,INV-40283,2026-01-20,2026-02-11,1186.15,kszabo,bkovacs
+P00480,V006,Coffee Bean Ltd,INV-40942,2026-02-03,2026-02-11,2094.31,bkovacs,kszabo
+P00481,V009,Cleaning Supplies Kft,INV-41304,2026-01-27,2026-02-11,153.34,bkovacs,kszabo
+P00482,V009,Cleaning Supplies Kft,INV-41314,2026-01-23,2026-02-11,4163.6,kszabo,bkovacs
+P00483,V010,Florist Bp,INV-41346,2026-01-25,2026-02-11,348.29,kszabo,bkovacs
+P00484,V001,Metro Kft,INV-40039,2026-01-24,2026-02-12,960.3,bkovacs,kszabo
+P00485,V002,Budapest Fresh Produce,INV-40506,2026-02-02,2026-02-12,791.38,kszabo,bkovacs
+P00486,V002,Budapest Fresh Produce,INV-40517,2026-01-23,2026-02-12,597.98,kszabo,bkovacs
+P00487,V002,Budapest Fresh Produce,INV-40546,2026-01-21,2026-02-12,1358.83,bkovacs,kszabo
+P00488,V003,Fish Market Hungary,INV-40700,2026-02-02,2026-02-12,411.07,kszabo,bkovacs
+P00489,V004,Wine Cellar Tokaj,INV-40740,2026-01-21,2026-02-12,3270.82,bkovacs,kszabo
+P00490,V006,Coffee Bean Ltd,INV-40908,2026-01-20,2026-02-12,1371.2,kszabo,bkovacs
+P00491,V008,Laundry Pro Kft,INV-41110,2026-01-20,2026-02-12,11112.54,bkovacs,mtoth
+P00492,V013,IT Systems Zrt,INV-41455,2026-01-20,2026-02-12,4430.94,bkovacs,kszabo
+P00493,V001,Metro Kft,INV-40138,2026-01-23,2026-02-13,3311.9,bkovacs,kszabo
+P00494,V005,Zwack Unicum,INV-40834,2026-01-28,2026-02-13,520.31,bkovacs,kszabo
+P00495,V006,Coffee Bean Ltd,INV-40860,2026-01-24,2026-02-13,122.33,kszabo,bkovacs
+P00496,V006,Coffee Bean Ltd,INV-40897,2026-02-03,2026-02-13,572.09,bkovacs,kszabo
+P00497,V008,Laundry Pro Kft,INV-41153,2026-02-02,2026-02-13,1189.67,kszabo,bkovacs
+P00498,V013,IT Systems Zrt,INV-41460,2026-01-16,2026-02-13,2011.19,kszabo,bkovacs
+P00499,V017,Marketing Partners Kft,INV-41540,2026-01-16,2026-02-13,3872.93,bkovacs,kszabo
+P00500,V018,Uniform Factory,INV-41554,2026-02-07,2026-02-13,385.35,kszabo,bkovacs
+P00501,V020,Spa Products Europe,INV-41650,2026-02-05,2026-02-13,2584.92,bkovacs,kszabo
+P00502,V001,Metro Kft,INV-40196,2026-02-09,2026-02-16,2233.13,kszabo,bkovacs
+P00503,V007,Hungarian Linen Services,INV-41014,2026-02-08,2026-02-16,7576.72,bkovacs,kszabo
+P00504,V008,Laundry Pro Kft,INV-41091,2026-02-03,2026-02-16,2006.64,bkovacs,kszabo
+P00505,V008,Laundry Pro Kft,INV-41122,2026-01-27,2026-02-16,1931.88,bkovacs,kszabo
+P00506,V017,Marketing Partners Kft,INV-41544,2026-01-23,2026-02-16,27897.42,kszabo,mtoth
+P00507,V018,Uniform Factory,INV-41571,2026-01-25,2026-02-16,1180.49,kszabo,bkovacs
+P00508,V002,Budapest Fresh Produce,INV-40459,2026-02-05,2026-02-17,2001.26,kszabo,bkovacs
+P00509,V002,Budapest Fresh Produce,INV-40557,2026-02-10,2026-02-17,562.05,bkovacs,kszabo
+P00510,V005,Zwack Unicum,INV-40817,2026-01-27,2026-02-17,3799.92,kszabo,bkovacs
+P00511,V009,Cleaning Supplies Kft,INV-41302,2026-02-05,2026-02-17,142.92,kszabo,bkovacs
+P00512,V018,Uniform Factory,INV-41567,2026-01-29,2026-02-17,804.95,bkovacs,kszabo
+P00513,V001,Metro Kft,INV-40027,2026-02-11,2026-02-18,521.83,kszabo,bkovacs
+P00514,V001,Metro Kft,INV-40123,2026-01-21,2026-02-18,10573.98,kszabo,mtoth
+P00515,V002,Budapest Fresh Produce,INV-40319,2026-02-08,2026-02-18,1070.59,kszabo,bkovacs
+P00516,V002,Budapest Fresh Produce,INV-40463,2026-01-25,2026-02-18,464.42,kszabo,bkovacs
+P00517,V003,Fish Market Hungary,INV-40641,2026-01-20,2026-02-18,882.28,kszabo,bkovacs
+P00518,V006,Coffee Bean Ltd,INV-40868,2026-01-24,2026-02-18,2029.05,kszabo,bkovacs
+P00519,V008,Laundry Pro Kft,INV-41163,2026-01-25,2026-02-18,2841.88,bkovacs,kszabo
+P00520,V009,Cleaning Supplies Kft,INV-41262,2026-02-09,2026-02-18,611.85,kszabo,bkovacs
+P00521,V009,Cleaning Supplies Kft,INV-41289,2026-02-04,2026-02-18,380.14,bkovacs,kszabo
+P00522,V017,Marketing Partners Kft,INV-41546,2026-01-30,2026-02-18,8284.58,kszabo,bkovacs
+P00523,V002,Budapest Fresh Produce,INV-40386,2026-01-26,2026-02-19,2424.38,bkovacs,kszabo
+P00524,V003,Fish Market Hungary,INV-40635,2026-01-23,2026-02-19,1993.74,kszabo,bkovacs
+P00525,V006,Coffee Bean Ltd,INV-40857,2026-01-23,2026-02-19,285.76,kszabo,bkovacs
+P00526,V008,Laundry Pro Kft,INV-41071,2026-02-01,2026-02-19,1254.89,bkovacs,kszabo
+P00527,V015,Schindler Lifts,INV-41493,2026-01-25,2026-02-19,8225.58,kszabo,bkovacs
+P00528,V015,Schindler Lifts,INV-41510,2026-01-28,2026-02-19,3928.48,kszabo,bkovacs
+P00529,V001,Metro Kft,INV-40195,2026-01-27,2026-02-20,5427.34,kszabo,bkovacs
+P00530,V002,Budapest Fresh Produce,INV-40362,2026-02-10,2026-02-20,521.29,kszabo,bkovacs
+P00531,V002,Budapest Fresh Produce,INV-40394,2026-01-25,2026-02-20,1140.67,bkovacs,kszabo
+P00532,V002,Budapest Fresh Produce,INV-40341,2026-01-28,2026-02-20,3682.23,kszabo,bkovacs
+P00533,V006,Coffee Bean Ltd,INV-40867,2026-02-12,2026-02-20,2365.36,kszabo,bkovacs
+P00534,V008,Laundry Pro Kft,INV-41158,2026-02-07,2026-02-20,1087.45,bkovacs,kszabo
+P00535,V009,Cleaning Supplies Kft,INV-41183,2026-02-07,2026-02-20,158.22,kszabo,bkovacs
+P00536,V009,Cleaning Supplies Kft,INV-41270,2026-02-09,2026-02-20,663.51,kszabo,bkovacs
+P00537,V010,Florist Bp,INV-41367,2026-01-25,2026-02-20,553.45,bkovacs,kszabo
+P00538,V016,Securitas Hungary,INV-41511,2026-02-09,2026-02-20,8227.35,bkovacs,kszabo
+P00539,V019,Pest Plumbing Services,INV-41595,2026-01-24,2026-02-20,4509.42,bkovacs,kszabo
+P00540,V002,Budapest Fresh Produce,INV-40491,2026-01-15,2026-02-23,1259.24,bkovacs,kszabo
+P00541,V003,Fish Market Hungary,INV-40646,2026-02-07,2026-02-23,483.99,bkovacs,kszabo
+P00542,V004,Wine Cellar Tokaj,INV-40784,2026-02-02,2026-02-23,367.63,bkovacs,kszabo
+P00543,V007,Hungarian Linen Services,INV-41065,2026-02-12,2026-02-23,3885.76,bkovacs,kszabo
+P00544,V008,Laundry Pro Kft,INV-41073,2026-01-28,2026-02-23,4591.62,kszabo,bkovacs
+P00545,V011,Elektro Energia,INV-41419,2026-02-17,2026-02-23,21832.15,bkovacs,mtoth
+P00546,V016,Securitas Hungary,INV-41516,2026-01-27,2026-02-23,9506.48,kszabo,bkovacs
+P00547,V001,Metro Kft,INV-40127,2026-02-06,2026-02-24,2325.81,kszabo,bkovacs
+P00548,V001,Metro Kft,INV-40139,2026-01-30,2026-02-24,3678.72,bkovacs,kszabo
+P00549,V002,Budapest Fresh Produce,INV-40314,2026-01-26,2026-02-24,353.47,kszabo,bkovacs
+P00550,V002,Budapest Fresh Produce,INV-40509,2026-02-05,2026-02-24,590.55,bkovacs,kszabo
+P00551,V006,Coffee Bean Ltd,INV-40968,2026-02-02,2026-02-24,469.69,bkovacs,kszabo
+P00552,V007,Hungarian Linen Services,INV-40971,2026-01-30,2026-02-24,2139.47,kszabo,bkovacs
+P00553,V008,Laundry Pro Kft,INV-41114,2026-02-05,2026-02-24,9516.06,kszabo,bkovacs
+P00554,V010,Florist Bp,INV-41332,2026-02-07,2026-02-24,2356.57,kszabo,bkovacs
+P00555,V018,Uniform Factory,INV-41558,2026-02-12,2026-02-24,3890.01,bkovacs,kszabo
+P00556,V019,Pest Plumbing Services,INV-41600,2026-02-07,2026-02-24,333.63,bkovacs,kszabo
+P00557,V003,Fish Market Hungary,INV-40579,2026-02-14,2026-02-25,5153.46,bkovacs,kszabo
+P00558,V004,Wine Cellar Tokaj,INV-40754,2026-01-31,2026-02-25,1641.84,bkovacs,kszabo
+P00559,V005,Zwack Unicum,INV-40809,2026-02-12,2026-02-25,1249.51,bkovacs,kszabo
+P00560,V005,Zwack Unicum,INV-40846,2026-02-18,2026-02-25,1765.96,bkovacs,kszabo
+P00561,V008,Laundry Pro Kft,INV-41139,2026-01-28,2026-02-25,4878.54,bkovacs,kszabo
+P00562,V008,Laundry Pro Kft,INV-41176,2026-02-05,2026-02-25,2203.95,kszabo,bkovacs
+P00563,V009,Cleaning Supplies Kft,INV-41233,2026-01-27,2026-02-25,2498.12,kszabo,bkovacs
+P00564,V009,Cleaning Supplies Kft,INV-41253,2026-02-07,2026-02-25,1128.81,bkovacs,kszabo
+P00565,V001,Metro Kft,INV-40241,2026-02-06,2026-02-26,5202.27,kszabo,bkovacs
+P00566,V002,Budapest Fresh Produce,INV-40261,2026-01-25,2026-02-26,1376.13,kszabo,bkovacs
+P00567,V003,Fish Market Hungary,INV-40647,2026-01-30,2026-02-26,880.91,kszabo,bkovacs
+P00568,V007,Hungarian Linen Services,INV-40984,2026-02-17,2026-02-26,1780.6,kszabo,bkovacs
+P00569,V019,Pest Plumbing Services,INV-41596,2026-01-30,2026-02-26,836.23,kszabo,bkovacs
+P00570,V002,Budapest Fresh Produce,INV-40555,2026-01-31,2026-02-27,10508.06,kszabo,mtoth
+P00571,V003,Fish Market Hungary,INV-40596,2026-02-21,2026-02-27,1274.14,kszabo,bkovacs
+P00572,V005,Zwack Unicum,INV-40832,2026-02-13,2026-02-27,767.5,bkovacs,kszabo
+P00573,V006,Coffee Bean Ltd,INV-40965,2026-02-18,2026-02-27,583.34,kszabo,bkovacs
+P00574,V013,IT Systems Zrt,INV-41466,2026-02-04,2026-02-27,7013.39,kszabo,bkovacs
+P00575,V020,Spa Products Europe,INV-41640,2026-02-07,2026-02-27,12506.75,kszabo,mtoth
+P00576,V001,Metro Kft,INV-40079,2026-02-19,2026-03-02,2677.12,kszabo,bkovacs
+P00577,V001,Metro Kft,INV-40175,2026-02-13,2026-03-02,3520.22,kszabo,bkovacs
+P00578,V001,Metro Kft,INV-40197,2026-02-20,2026-03-02,1281.22,bkovacs,kszabo
+P00579,V002,Budapest Fresh Produce,INV-40378,2026-02-05,2026-03-02,1420.4,bkovacs,kszabo
+P00580,V002,Budapest Fresh Produce,INV-40407,2026-02-03,2026-03-02,1110.13,kszabo,bkovacs
+P00581,V002,Budapest Fresh Produce,INV-40456,2026-02-23,2026-03-02,569.57,bkovacs,kszabo
+P00582,V006,Coffee Bean Ltd,INV-40874,2026-02-02,2026-03-02,2012.09,kszabo,bkovacs
+P00583,V001,Metro Kft,INV-40193,2026-02-15,2026-03-03,948.74,kszabo,bkovacs
+P00584,V003,Fish Market Hungary,INV-40607,2026-02-16,2026-03-03,1349.21,kszabo,bkovacs
+P00585,V006,Coffee Bean Ltd,INV-40876,2026-02-12,2026-03-03,3264.39,kszabo,bkovacs
+P00586,V007,Hungarian Linen Services,INV-41048,2026-02-11,2026-03-03,426.6,kszabo,bkovacs
+P00587,V009,Cleaning Supplies Kft,INV-41223,2026-02-05,2026-03-03,221.57,kszabo,bkovacs
+P00588,V010,Florist Bp,INV-41335,2026-02-16,2026-03-03,542.23,kszabo,bkovacs
+P00589,V013,IT Systems Zrt,INV-41439,2026-02-22,2026-03-03,2284.78,kszabo,bkovacs
+P00590,V019,Pest Plumbing Services,INV-41598,2026-02-24,2026-03-03,196.08,kszabo,bkovacs
+P00591,V002,Budapest Fresh Produce,INV-40424,2026-02-23,2026-03-04,921.95,bkovacs,kszabo
+P00592,V003,Fish Market Hungary,INV-40657,2026-02-26,2026-03-04,3120.08,kszabo,bkovacs
+P00593,V004,Wine Cellar Tokaj,INV-40745,2026-02-24,2026-03-04,2573.18,kszabo,bkovacs
+P00594,V008,Laundry Pro Kft,INV-41101,2026-02-19,2026-03-04,2216.78,bkovacs,kszabo
+P00595,V008,Laundry Pro Kft,INV-41157,2026-02-20,2026-03-04,4299.32,kszabo,bkovacs
+P00596,V013,IT Systems Zrt,INV-41435,2026-02-03,2026-03-04,3106.79,kszabo,bkovacs
+P00597,V013,IT Systems Zrt,INV-41470,2026-02-16,2026-03-04,3306.76,kszabo,bkovacs
+P00598,V001,Metro Kft,INV-40004,2026-02-23,2026-03-05,2223.0,kszabo,bkovacs
+P00599,V001,Metro Kft,INV-40137,2026-02-20,2026-03-05,1385.07,kszabo,bkovacs
+P00600,V001,Metro Kft,INV-40248,2026-02-18,2026-03-05,1719.83,bkovacs,kszabo
+P00601,V008,Laundry Pro Kft,INV-41107,2026-02-23,2026-03-05,6527.59,kszabo,bkovacs
+P00602,V009,Cleaning Supplies Kft,INV-41300,2026-02-26,2026-03-06,1242.15,bkovacs,kszabo
+P00603,V002,Budapest Fresh Produce,INV-40353,2026-02-22,2026-03-09,262.76,bkovacs,kszabo
+P00604,V003,Fish Market Hungary,INV-40614,2026-02-15,2026-03-09,511.91,kszabo,bkovacs
+P00605,V004,Wine Cellar Tokaj,INV-40716,2026-02-18,2026-03-09,6543.54,bkovacs,kszabo
+P00606,V007,Hungarian Linen Services,INV-41034,2026-02-24,2026-03-09,2190.16,bkovacs,kszabo
+P00607,V008,Laundry Pro Kft,INV-41102,2026-02-28,2026-03-09,1244.07,kszabo,bkovacs
+P00608,V009,Cleaning Supplies Kft,INV-41189,2026-03-04,2026-03-09,265.93,kszabo,bkovacs
+P00609,V010,Florist Bp,INV-41344,2026-02-11,2026-03-09,2837.91,kszabo,bkovacs
+P00610,V001,Metro Kft,INV-40023,2026-02-27,2026-03-10,1029.86,kszabo,bkovacs
+P00611,V001,Metro Kft,INV-40244,2026-02-19,2026-03-10,1973.43,kszabo,bkovacs
+P00612,V002,Budapest Fresh Produce,INV-40380,2026-02-26,2026-03-10,403.15,bkovacs,kszabo
+P00613,V002,Budapest Fresh Produce,INV-40410,2026-02-19,2026-03-10,1504.44,kszabo,bkovacs
+P00614,V004,Wine Cellar Tokaj,INV-40730,2026-02-27,2026-03-10,2323.32,kszabo,bkovacs
+P00615,V007,Hungarian Linen Services,INV-41049,2026-02-20,2026-03-10,5782.45,kszabo,bkovacs
+P00616,V001,Metro Kft,INV-40046,2026-02-27,2026-03-11,926.57,bkovacs,kszabo
+P00617,V001,Metro Kft,INV-40218,2026-02-16,2026-03-11,741.13,kszabo,bkovacs
+P00618,V002,Budapest Fresh Produce,INV-40416,2026-03-04,2026-03-11,3837.12,kszabo,bkovacs
+P00619,V002,Budapest Fresh Produce,INV-40431,2026-02-18,2026-03-11,1430.67,bkovacs,kszabo
+P00620,V002,Budapest Fresh Produce,INV-40512,2026-02-11,2026-03-11,1313.13,bkovacs,kszabo
+P00621,V006,Coffee Bean Ltd,INV-40863,2026-02-12,2026-03-11,1031.16,bkovacs,kszabo
+P00622,V006,Coffee Bean Ltd,INV-40924,2026-02-28,2026-03-11,2859.67,kszabo,bkovacs
+P00623,V008,Laundry Pro Kft,INV-41167,2026-02-21,2026-03-11,13585.86,kszabo,mtoth
+P00624,V001,Metro Kft,INV-40024,2026-02-28,2026-03-12,689.56,bkovacs,kszabo
+P00625,V001,Metro Kft,INV-40057,2026-03-06,2026-03-12,3039.44,kszabo,bkovacs
+P00626,V002,Budapest Fresh Produce,INV-40293,2026-03-04,2026-03-12,1276.81,bkovacs,kszabo
+P00627,V002,Budapest Fresh Produce,INV-40432,2026-02-21,2026-03-12,1027.39,kszabo,bkovacs
+P00628,V010,Florist Bp,INV-41397,2026-03-07,2026-03-12,1208.63,bkovacs,kszabo
+P00629,V010,Florist Bp,INV-41335A,2026-02-16,2026-03-12,542.23,kszabo,bkovacs
+P00630,V013,IT Systems Zrt,INV-41437,2026-02-13,2026-03-12,5306.1,bkovacs,kszabo
+P00631,V001,Metro Kft,INV-40081,2026-02-27,2026-03-13,2582.48,kszabo,bkovacs
+P00632,V002,Budapest Fresh Produce,INV-40305,2026-02-24,2026-03-13,968.04,bkovacs,kszabo
+P00633,V002,Budapest Fresh Produce,INV-40532,2026-02-17,2026-03-13,1119.22,kszabo,bkovacs
+P00634,V005,Zwack Unicum,INV-40800,2026-02-20,2026-03-13,341.04,bkovacs,kszabo
+P00635,V009,Cleaning Supplies Kft,INV-41184,2026-03-08,2026-03-13,769.09,bkovacs,kszabo
+P00636,V020,Spa Products Europe,INV-41655,2026-03-02,2026-03-13,12471.27,bkovacs,mtoth
+P00637,V001,Metro Kft,INV-40056,2026-03-05,2026-03-16,698.4,bkovacs,kszabo
+P00638,V002,Budapest Fresh Produce,INV-40262,2026-03-05,2026-03-16,586.73,kszabo,bkovacs
+P00639,V002,Budapest Fresh Produce,INV-40358,2026-02-17,2026-03-16,208.27,kszabo,bkovacs
+P00640,V002,Budapest Fresh Produce,INV-40426,2026-03-04,2026-03-16,1219.17,kszabo,bkovacs
+P00641,V002,Budapest Fresh Produce,INV-40539,2026-03-11,2026-03-16,331.99,bkovacs,kszabo
+P00642,V004,Wine Cellar Tokaj,INV-40711,2026-03-09,2026-03-16,1841.75,bkovacs,kszabo
+P00643,V010,Florist Bp,INV-41356,2026-02-15,2026-03-16,2090.36,kszabo,bkovacs
+P00644,V015,Schindler Lifts,INV-41490,2026-02-16,2026-03-16,4252.03,bkovacs,kszabo
+P00645,V002,Budapest Fresh Produce,INV-40420,2026-03-07,2026-03-17,1093.87,bkovacs,kszabo
+P00646,V003,Fish Market Hungary,INV-40705,2026-03-01,2026-03-17,4361.69,bkovacs,kszabo
+P00647,V004,Wine Cellar Tokaj,INV-40718,2026-03-05,2026-03-17,2142.03,bkovacs,kszabo
+P00648,V004,Wine Cellar Tokaj,INV-40763,2026-03-02,2026-03-17,2220.64,kszabo,bkovacs
+P00649,V005,Zwack Unicum,INV-40826,2026-03-12,2026-03-17,2121.65,kszabo,bkovacs
+P00650,V002,Budapest Fresh Produce,INV-40373,2026-03-11,2026-03-18,10801.89,kszabo,mtoth
+P00651,V002,Budapest Fresh Produce,INV-40377,2026-03-09,2026-03-18,970.4,kszabo,bkovacs
+P00652,V003,Fish Market Hungary,INV-40627,2026-03-09,2026-03-18,366.98,bkovacs,kszabo
+P00653,V005,Zwack Unicum,INV-40845,2026-03-11,2026-03-18,3593.86,kszabo,bkovacs
+P00654,V007,Hungarian Linen Services,INV-41041,2026-03-07,2026-03-18,13826.52,kszabo,mtoth
+P00655,V009,Cleaning Supplies Kft,INV-41237,2026-03-07,2026-03-18,96.36,bkovacs,kszabo
+P00656,V019,Pest Plumbing Services,INV-41631,2026-03-04,2026-03-18,1449.99,kszabo,bkovacs
+P00657,V001,Metro Kft,INV-40152,2026-02-25,2026-03-19,2042.26,kszabo,bkovacs
+P00658,V002,Budapest Fresh Produce,INV-40466,2026-03-12,2026-03-19,723.75,kszabo,bkovacs
+P00659,V004,Wine Cellar Tokaj,INV-40734,2026-02-18,2026-03-19,938.73,bkovacs,kszabo
+P00660,V004,Wine Cellar Tokaj,INV-40753,2026-02-22,2026-03-19,1469.88,kszabo,bkovacs
+P00661,V007,Hungarian Linen Services,INV-41013,2026-03-13,2026-03-19,5661.94,kszabo,bkovacs
+P00662,V009,Cleaning Supplies Kft,INV-41228,2026-03-01,2026-03-19,599.88,kszabo,bkovacs
+P00663,V009,Cleaning Supplies Kft,INV-41235,2026-02-27,2026-03-19,615.24,bkovacs,kszabo
+P00664,V009,Cleaning Supplies Kft,INV-41244,2026-03-02,2026-03-19,777.19,bkovacs,kszabo
+P00665,V019,Pest Plumbing Services,INV-41583,2026-02-24,2026-03-19,163.8,kszabo,bkovacs
+P00666,V020,Spa Products Europe,INV-41636,2026-03-14,2026-03-19,1154.78,bkovacs,kszabo
+P00667,V021,Pannon Advisory Kft,PA-116,2026-03-17,2026-03-19,9705.22,kszabo,kszabo
+P00668,V001,Metro Kft,INV-40232,2026-03-14,2026-03-20,3671.58,kszabo,bkovacs
+P00669,V002,Budapest Fresh Produce,INV-40270,2026-02-20,2026-03-20,939.7,bkovacs,kszabo
+P00670,V002,Budapest Fresh Produce,INV-40468,2026-03-13,2026-03-20,651.43,kszabo,bkovacs
+P00671,V009,Cleaning Supplies Kft,INV-41202,2026-02-26,2026-03-20,1426.35,kszabo,bkovacs
+P00672,V015,Schindler Lifts,INV-41488,2026-02-19,2026-03-20,238.39,bkovacs,kszabo
+P00673,V015,Schindler Lifts,INV-41502,2026-03-09,2026-03-20,5732.73,bkovacs,kszabo
+P00674,V001,Metro Kft,INV-40153,2026-03-05,2026-03-23,3676.09,bkovacs,kszabo
+P00675,V003,Fish Market Hungary,INV-40561,2026-03-05,2026-03-23,1947.0,bkovacs,kszabo
+P00676,V004,Wine Cellar Tokaj,INV-40728,2026-03-03,2026-03-23,7436.03,bkovacs,kszabo
+P00677,V004,Wine Cellar Tokaj,INV-40744,2026-02-25,2026-03-23,6350.97,bkovacs,kszabo
+P00678,V004,Wine Cellar Tokaj,INV-40781,2026-03-13,2026-03-23,4686.14,kszabo,bkovacs
+P00679,V018,Uniform Factory,INV-41556,2026-03-01,2026-03-23,1626.79,bkovacs,kszabo
+P00680,V002,Budapest Fresh Produce,INV-40447,2026-03-17,2026-03-24,399.6,bkovacs,kszabo
+P00681,V002,Budapest Fresh Produce,INV-40525,2026-03-02,2026-03-24,1336.51,kszabo,bkovacs
+P00682,V005,Zwack Unicum,INV-40848,2026-03-07,2026-03-24,2502.0,kszabo,bkovacs
+P00683,V012,Fovarosi Vizmuvek,INV-41429,2026-03-13,2026-03-24,1884.23,bkovacs,kszabo
+P00684,V019,Pest Plumbing Services,INV-41620,2026-03-02,2026-03-24,1306.37,bkovacs,kszabo
+P00685,V002,Budapest Fresh Produce,INV-40369,2026-03-18,2026-03-25,2659.01,kszabo,bkovacs
+P00686,V003,Fish Market Hungary,INV-40589,2026-03-06,2026-03-25,8305.44,bkovacs,kszabo
+P00687,V006,Coffee Bean Ltd,INV-40905,2026-03-11,2026-03-25,1156.01,bkovacs,kszabo
+P00688,V010,Florist Bp,INV-41355,2026-03-15,2026-03-25,3664.52,kszabo,bkovacs
+P00689,V010,Florist Bp,INV-41390,2026-02-24,2026-03-25,958.22,kszabo,bkovacs
+P00690,V017,Marketing Partners Kft,INV-41549,2026-03-15,2026-03-25,8354.86,kszabo,bkovacs
+P00691,V002,Budapest Fresh Produce,INV-40315,2026-03-12,2026-03-26,1694.21,kszabo,bkovacs
+P00692,V002,Budapest Fresh Produce,INV-40323,2026-02-28,2026-03-26,1643.39,kszabo,bkovacs
+P00693,V002,Budapest Fresh Produce,INV-40401,2026-03-05,2026-03-26,2912.41,kszabo,bkovacs
+P00694,V003,Fish Market Hungary,INV-40682,2026-03-18,2026-03-26,3043.25,bkovacs,kszabo
+P00695,V007,Hungarian Linen Services,INV-40981,2026-03-05,2026-03-26,19934.71,kszabo,mtoth
+P00696,V001,Metro Kft,INV-40182,2026-03-18,2026-03-27,1245.39,bkovacs,kszabo
+P00697,V002,Budapest Fresh Produce,INV-40363,2026-03-09,2026-03-27,1496.32,kszabo,bkovacs
+P00698,V003,Fish Market Hungary,INV-40664,2026-03-18,2026-03-27,4383.07,bkovacs,kszabo
+P00699,V005,Zwack Unicum,INV-40818,2026-03-19,2026-03-27,998.57,kszabo,bkovacs
+P00700,V008,Laundry Pro Kft,INV-41148,2026-03-05,2026-03-27,10499.24,bkovacs,mtoth
+P00701,V016,Securitas Hungary,INV-41517,2026-02-28,2026-03-27,12469.71,kszabo,mtoth
+P00702,V020,Spa Products Europe,INV-41660,2026-03-09,2026-03-27,1544.75,kszabo,bkovacs
+P00703,V005,Zwack Unicum,INV-40823,2026-03-01,2026-03-30,1246.17,kszabo,bkovacs
+P00704,V007,Hungarian Linen Services,INV-41042,2026-03-08,2026-03-30,17824.29,bkovacs,mtoth
+P00705,V009,Cleaning Supplies Kft,INV-41185,2026-03-03,2026-03-30,1246.68,bkovacs,kszabo
+P00706,V011,Elektro Energia,INV-41418,2026-03-05,2026-03-30,9001.62,bkovacs,kszabo
+P00707,V019,Pest Plumbing Services,INV-41625,2026-03-25,2026-03-30,96.01,kszabo,bkovacs
+P00708,V001,Metro Kft,INV-40179,2026-03-05,2026-03-31,2083.11,kszabo,bkovacs
+P00709,V002,Budapest Fresh Produce,INV-40267,2026-03-10,2026-03-31,482.57,bkovacs,kszabo
+P00710,V003,Fish Market Hungary,INV-40630,2026-03-25,2026-03-31,1811.86,kszabo,bkovacs
+P00711,V003,Fish Market Hungary,INV-40710,2026-03-20,2026-03-31,1700.51,bkovacs,kszabo
+P00712,V010,Florist Bp,INV-41337,2026-03-18,2026-03-31,3221.14,bkovacs,kszabo
+P00713,V010,Florist Bp,INV-41341,2026-03-25,2026-03-31,1631.86,bkovacs,kszabo
+P00714,V001,Metro Kft,INV-40013,2026-03-26,2026-04-01,3943.92,kszabo,bkovacs
+P00715,V001,Metro Kft,INV-40136,2026-03-11,2026-04-01,4538.55,kszabo,bkovacs
+P00716,V001,Metro Kft,INV-40198,2026-03-03,2026-04-01,1157.27,kszabo,bkovacs
+P00717,V003,Fish Market Hungary,INV-40581,2026-03-12,2026-04-01,973.6,kszabo,bkovacs
+P00718,V003,Fish Market Hungary,INV-40668,2026-03-26,2026-04-01,1286.53,kszabo,bkovacs
+P00719,V003,Fish Market Hungary,INV-40681,2026-03-22,2026-04-01,2013.65,bkovacs,kszabo
+P00720,V006,Coffee Bean Ltd,INV-40851,2026-03-22,2026-04-01,608.21,kszabo,bkovacs
+P00721,V009,Cleaning Supplies Kft,INV-41210,2026-03-27,2026-04-01,165.78,kszabo,bkovacs
+P00722,V009,Cleaning Supplies Kft,INV-41309,2026-03-08,2026-04-01,296.34,kszabo,bkovacs
+P00723,V017,Marketing Partners Kft,INV-41533,2026-03-07,2026-04-01,9410.46,bkovacs,kszabo
+P00724,V017,Marketing Partners Kft,INV-41550,2026-03-22,2026-04-01,8772.34,kszabo,bkovacs
+P00725,V001,Metro Kft,INV-40020,2026-03-09,2026-04-02,2451.76,kszabo,bkovacs
+P00726,V002,Budapest Fresh Produce,INV-40284,2026-03-12,2026-04-02,1917.56,bkovacs,kszabo
+P00727,V002,Budapest Fresh Produce,INV-40289,2026-03-04,2026-04-02,1431.18,bkovacs,kszabo
+P00728,V003,Fish Market Hungary,INV-40704,2026-03-07,2026-04-02,2255.5,bkovacs,kszabo
+P00729,V007,Hungarian Linen Services,INV-41066,2026-03-20,2026-04-02,6665.67,bkovacs,kszabo
+P00730,V010,Florist Bp,INV-41353,2026-03-21,2026-04-02,438.68,kszabo,bkovacs
+P00731,V011,Elektro Energia,INV-41411,2026-03-13,2026-04-02,9559.48,bkovacs,kszabo
+P00732,V015,Schindler Lifts,INV-41487,2026-03-10,2026-04-02,1276.07,bkovacs,kszabo
+P00733,V015,Schindler Lifts,INV-41507,2026-03-18,2026-04-02,3326.21,bkovacs,kszabo
+P00734,V020,Spa Products Europe,INV-41670,2026-03-15,2026-04-02,4859.3,bkovacs,kszabo
+P00735,V001,Metro Kft,INV-40018,2026-03-18,2026-04-03,10728.06,bkovacs,mtoth
+P00736,V001,Metro Kft,INV-40043,2026-03-06,2026-04-03,3876.49,kszabo,bkovacs
+P00737,V001,Metro Kft,INV-40060,2026-03-11,2026-04-03,2016.04,bkovacs,kszabo
+P00738,V003,Fish Market Hungary,INV-40672,2026-03-27,2026-04-03,2404.15,kszabo,bkovacs
+P00739,V003,Fish Market Hungary,INV-40675,2026-03-29,2026-04-03,6396.33,bkovacs,kszabo
+P00740,V006,Coffee Bean Ltd,INV-40898,2026-03-09,2026-04-03,1092.8,kszabo,bkovacs
+P00741,V008,Laundry Pro Kft,INV-41084,2026-03-24,2026-04-03,771.26,bkovacs,kszabo
+P00742,V008,Laundry Pro Kft,INV-41130,2026-03-20,2026-04-03,138.89,bkovacs,kszabo
+P00743,V009,Cleaning Supplies Kft,INV-41188,2026-03-22,2026-04-03,1115.88,kszabo,bkovacs
+P00744,V001,Metro Kft,INV-40209,2026-03-24,2026-04-06,7060.77,bkovacs,kszabo
+P00745,V009,Cleaning Supplies Kft,INV-41214,2026-03-10,2026-04-06,666.76,kszabo,bkovacs
+P00746,V009,Cleaning Supplies Kft,INV-41287,2026-03-19,2026-04-06,848.68,bkovacs,kszabo
+P00747,V013,IT Systems Zrt,INV-41438,2026-03-09,2026-04-06,12800.79,bkovacs,mtoth
+P00748,V002,Budapest Fresh Produce,INV-40268,2026-03-20,2026-04-07,1041.93,bkovacs,kszabo
+P00749,V003,Fish Market Hungary,INV-40582,2026-03-31,2026-04-07,1049.32,kszabo,bkovacs
+P00750,V005,Zwack Unicum,INV-40792,2026-03-27,2026-04-07,1041.07,kszabo,bkovacs
+P00751,V007,Hungarian Linen Services,INV-41032,2026-03-21,2026-04-07,11816.49,bkovacs,mtoth
+P00752,V009,Cleaning Supplies Kft,INV-41222,2026-03-22,2026-04-07,1285.79,bkovacs,kszabo
+P00753,V010,Florist Bp,INV-41381,2026-03-30,2026-04-07,1116.59,kszabo,bkovacs
+P00754,V015,Schindler Lifts,INV-41494,2026-03-21,2026-04-07,15998.71,kszabo,mtoth
+P00755,V019,Pest Plumbing Services,INV-41589,2026-04-02,2026-04-07,959.92,kszabo,bkovacs
+P00756,V001,Metro Kft,INV-40012,2026-03-27,2026-04-08,1567.02,kszabo,bkovacs
+P00757,V001,Metro Kft,INV-40141,2026-03-27,2026-04-08,314.6,kszabo,bkovacs
+P00758,V001,Metro Kft,INV-40235,2026-04-03,2026-04-08,2276.64,bkovacs,kszabo
+P00759,V002,Budapest Fresh Produce,INV-40312,2026-03-13,2026-04-08,395.0,bkovacs,kszabo
+P00760,V002,Budapest Fresh Produce,INV-40422,2026-04-02,2026-04-08,2054.16,kszabo,bkovacs
+P00761,V005,Zwack Unicum,INV-40811,2026-03-22,2026-04-08,1157.89,bkovacs,kszabo
+P00762,V008,Laundry Pro Kft,INV-41118,2026-03-27,2026-04-08,1135.45,kszabo,bkovacs
+P00763,V012,Fovarosi Vizmuvek,INV-41426,2026-03-29,2026-04-08,3542.92,kszabo,bkovacs
+P00764,V014,Opera Hospitality Software,INV-41486,2026-03-21,2026-04-08,16348.53,bkovacs,mtoth
+P00765,V019,Pest Plumbing Services,INV-41587,2026-03-21,2026-04-08,401.1,bkovacs,kszabo
+P00766,V021,Pannon Advisory Kft,PA-114,2026-04-06,2026-04-08,9516.6,kszabo,kszabo
+P00767,V021,Pannon Advisory Kft,PA-118,2026-04-06,2026-04-08,9864.19,kszabo,kszabo
+P00768,V002,Budapest Fresh Produce,INV-40277,2026-03-17,2026-04-09,3312.39,kszabo,bkovacs
+P00769,V002,Budapest Fresh Produce,INV-40421,2026-03-21,2026-04-09,883.24,bkovacs,kszabo
+P00770,V003,Fish Market Hungary,INV-40595,2026-03-13,2026-04-09,784.59,kszabo,bkovacs
+P00771,V003,Fish Market Hungary,INV-40660,2026-03-29,2026-04-09,3126.7,kszabo,bkovacs
+P00772,V007,Hungarian Linen Services,INV-40994,2026-04-02,2026-04-09,9711.37,kszabo,bkovacs
+P00773,V008,Laundry Pro Kft,INV-41098,2026-03-17,2026-04-09,2675.93,bkovacs,kszabo
+P00774,V020,Spa Products Europe,INV-41667,2026-03-25,2026-04-09,2148.26,kszabo,bkovacs
+P00775,V001,Metro Kft,INV-40100,2026-03-20,2026-04-10,2235.96,kszabo,bkovacs
+P00776,V009,Cleaning Supplies Kft,INV-41268,2026-03-22,2026-04-10,742.59,kszabo,bkovacs
+P00777,V002,Budapest Fresh Produce,INV-40273,2026-03-23,2026-04-13,1643.33,kszabo,bkovacs
+P00778,V003,Fish Market Hungary,INV-40565,2026-04-08,2026-04-13,430.41,bkovacs,kszabo
+P00779,V003,Fish Market Hungary,INV-40624,2026-03-21,2026-04-13,6060.08,kszabo,bkovacs
+P00780,V020,Spa Products Europe,INV-41661,2026-04-08,2026-04-13,12076.16,bkovacs,mtoth
+P00781,V021,Pannon Advisory Kft,PA-106,2026-04-11,2026-04-13,9903.48,kszabo,kszabo
+P00782,V004,Wine Cellar Tokaj,INV-40750,2026-03-31,2026-04-14,1648.3,kszabo,bkovacs
+P00783,V004,Wine Cellar Tokaj,INV-40755,2026-03-23,2026-04-14,2352.01,kszabo,bkovacs
+P00784,V005,Zwack Unicum,INV-40838,2026-03-30,2026-04-14,11161.41,kszabo,mtoth
+P00785,V006,Coffee Bean Ltd,INV-40872,2026-04-09,2026-04-14,1426.95,bkovacs,kszabo
+P00786,V007,Hungarian Linen Services,INV-41045,2026-03-26,2026-04-14,1285.92,kszabo,bkovacs
+P00787,V008,Laundry Pro Kft,INV-41155,2026-03-26,2026-04-14,1042.33,bkovacs,kszabo
+P00788,V009,Cleaning Supplies Kft,INV-41312,2026-04-07,2026-04-14,560.98,kszabo,bkovacs
+P00789,V002,Budapest Fresh Produce,INV-40346,2026-04-01,2026-04-15,645.67,kszabo,bkovacs
+P00790,V002,Budapest Fresh Produce,INV-40528,2026-04-05,2026-04-15,913.86,bkovacs,kszabo
+P00791,V006,Coffee Bean Ltd,INV-40879,2026-03-17,2026-04-15,3195.4,kszabo,bkovacs
+P00792,V006,Coffee Bean Ltd,INV-40886,2026-03-31,2026-04-15,794.38,kszabo,bkovacs
+P00793,V008,Laundry Pro Kft,INV-41087,2026-04-03,2026-04-15,8788.0,bkovacs,kszabo
+P00794,V008,Laundry Pro Kft,INV-41103,2026-04-08,2026-04-15,2058.22,kszabo,bkovacs
+P00795,V013,IT Systems Zrt,INV-41465,2026-04-10,2026-04-15,3066.85,kszabo,bkovacs
+P00796,V019,Pest Plumbing Services,INV-41622,2026-04-02,2026-04-15,1149.98,kszabo,bkovacs
+P00797,V001,Metro Kft,INV-40047,2026-04-04,2026-04-16,5856.61,bkovacs,kszabo
+P00798,V002,Budapest Fresh Produce,INV-40342,2026-03-21,2026-04-16,3691.61,bkovacs,kszabo
+P00799,V002,Budapest Fresh Produce,INV-40395,2026-04-02,2026-04-16,1412.61,bkovacs,kszabo
+P00800,V003,Fish Market Hungary,INV-40571,2026-04-05,2026-04-16,3681.1,kszabo,bkovacs
+P00801,V006,Coffee Bean Ltd,INV-40936,2026-03-20,2026-04-16,2717.1,bkovacs,kszabo
+P00802,V009,Cleaning Supplies Kft,INV-41320,2026-03-24,2026-04-16,2977.37,kszabo,bkovacs
+P00803,V001,Metro Kft,INV-40118,2026-04-08,2026-04-17,3911.33,kszabo,bkovacs
+P00804,V002,Budapest Fresh Produce,INV-40275,2026-04-10,2026-04-17,1696.13,kszabo,bkovacs
+P00805,V002,Budapest Fresh Produce,INV-40370,2026-04-05,2026-04-17,1044.9,bkovacs,kszabo
+P00806,V002,Budapest Fresh Produce,INV-40427,2026-04-03,2026-04-17,1620.21,kszabo,bkovacs
+P00807,V002,Budapest Fresh Produce,INV-40470,2026-03-27,2026-04-17,283.06,bkovacs,kszabo
+P00808,V003,Fish Market Hungary,INV-40584,2026-03-31,2026-04-17,2910.7,kszabo,bkovacs
+P00809,V006,Coffee Bean Ltd,INV-40856,2026-03-27,2026-04-17,194.24,kszabo,bkovacs
+P00810,V008,Laundry Pro Kft,INV-41083,2026-04-09,2026-04-17,16821.01,kszabo,mtoth
+P00811,V009,Cleaning Supplies Kft,INV-41316,2026-04-02,2026-04-17,420.76,bkovacs,kszabo
+P00812,V001,Metro Kft,INV-40074,2026-03-30,2026-04-20,4934.1,bkovacs,kszabo
+P00813,V002,Budapest Fresh Produce,INV-40448,2026-04-07,2026-04-20,1015.98,bkovacs,kszabo
+P00814,V002,Budapest Fresh Produce,INV-40554,2026-04-11,2026-04-20,1089.87,bkovacs,kszabo
+P00815,V005,Zwack Unicum,INV-40849,2026-04-12,2026-04-20,9160.88,bkovacs,kszabo
+P00816,V006,Coffee Bean Ltd,INV-40895,2026-04-11,2026-04-20,2284.26,bkovacs,kszabo
+P00817,V009,Cleaning Supplies Kft,INV-41197,2026-03-28,2026-04-20,523.02,kszabo,bkovacs
+P00818,V009,Cleaning Supplies Kft,INV-41282,2026-03-25,2026-04-20,1215.27,bkovacs,kszabo
+P00819,V011,Elektro Energia,INV-41417,2026-03-22,2026-04-20,7373.99,kszabo,bkovacs
+P00820,V019,Pest Plumbing Services,INV-41591,2026-03-28,2026-04-20,907.07,kszabo,bkovacs
+P00821,V002,Budapest Fresh Produce,INV-40503,2026-04-07,2026-04-21,1670.58,kszabo,bkovacs
+P00822,V002,Budapest Fresh Produce,INV-40552,2026-04-11,2026-04-21,647.5,kszabo,bkovacs
+P00823,V006,Coffee Bean Ltd,INV-40925,2026-04-16,2026-04-21,706.53,kszabo,bkovacs
+P00824,V010,Florist Bp,INV-41393,2026-04-08,2026-04-21,1304.75,kszabo,bkovacs
+P00825,V017,Marketing Partners Kft,INV-41541,2026-03-26,2026-04-21,5119.34,kszabo,bkovacs
+P00826,V020,Spa Products Europe,INV-41677,2026-04-07,2026-04-21,5583.84,kszabo,bkovacs
+P00827,V021,Pannon Advisory Kft,PA-111,2026-04-19,2026-04-21,9408.9,kszabo,kszabo
+P00828,V001,Metro Kft,INV-40015,2026-04-02,2026-04-22,9172.19,bkovacs,kszabo
+P00829,V003,Fish Market Hungary,INV-40610,2026-04-12,2026-04-22,2526.14,kszabo,bkovacs
+P00830,V003,Fish Market Hungary,INV-40631,2026-04-07,2026-04-22,497.47,bkovacs,kszabo
+P00831,V005,Zwack Unicum,INV-40793,2026-04-05,2026-04-22,712.15,bkovacs,kszabo
+P00832,V006,Coffee Bean Ltd,INV-40855,2026-04-17,2026-04-22,69.98,bkovacs,kszabo
+P00833,V006,Coffee Bean Ltd,INV-40862,2026-03-28,2026-04-22,1025.98,kszabo,bkovacs
+P00834,V006,Coffee Bean Ltd,INV-40927,2026-03-28,2026-04-22,1095.49,bkovacs,kszabo
+P00835,V007,Hungarian Linen Services,INV-40990,2026-03-24,2026-04-22,6344.7,kszabo,bkovacs
+P00836,V008,Laundry Pro Kft,INV-41146,2026-03-27,2026-04-22,2921.73,kszabo,bkovacs
+P00837,V008,Laundry Pro Kft,INV-41165,2026-04-12,2026-04-22,320.12,bkovacs,kszabo
+P00838,V001,Metro Kft,INV-40037,2026-03-30,2026-04-23,788.9,kszabo,bkovacs
+P00839,V001,Metro Kft,INV-40071,2026-04-01,2026-04-23,2599.51,bkovacs,kszabo
+P00840,V001,Metro Kft,INV-40111,2026-04-10,2026-04-23,2208.41,kszabo,bkovacs
+P00841,V001,Metro Kft,INV-40115,2026-03-28,2026-04-23,20921.38,kszabo,mtoth
+P00842,V002,Budapest Fresh Produce,INV-40541,2026-03-29,2026-04-23,1468.0,kszabo,bkovacs
+P00843,V003,Fish Market Hungary,INV-40649,2026-04-16,2026-04-23,989.09,kszabo,bkovacs
+P00844,V004,Wine Cellar Tokaj,INV-40765,2026-04-10,2026-04-23,4459.04,kszabo,bkovacs
+P00845,V006,Coffee Bean Ltd,INV-40920,2026-04-17,2026-04-23,562.71,kszabo,bkovacs
+P00846,V009,Cleaning Supplies Kft,INV-41267,2026-04-05,2026-04-23,570.4,bkovacs,kszabo
+P00847,V019,Pest Plumbing Services,INV-41623,2026-04-08,2026-04-23,270.04,bkovacs,kszabo
+P00848,V020,Spa Products Europe,INV-41634,2026-04-03,2026-04-23,1032.17,bkovacs,kszabo
+P00849,V002,Budapest Fresh Produce,INV-40523,2026-03-31,2026-04-24,85.54,bkovacs,kszabo
+P00850,V003,Fish Market Hungary,INV-40654,2026-04-11,2026-04-24,3620.8,kszabo,bkovacs
+P00851,V006,Coffee Bean Ltd,INV-40861,2026-03-27,2026-04-24,2287.9,bkovacs,kszabo
+P00852,V006,Coffee Bean Ltd,INV-40962,2026-04-08,2026-04-24,786.54,kszabo,bkovacs
+P00853,V014,Opera Hospitality Software,INV-41482,2026-04-18,2026-04-24,36695.4,bkovacs,mtoth
+P00854,V006,Coffee Bean Ltd,INV-40859,2026-04-14,2026-04-27,852.14,bkovacs,kszabo
+P00855,V017,Marketing Partners Kft,INV-41539,2026-04-08,2026-04-27,5561.4,bkovacs,kszabo
+P00856,V021,Pannon Advisory Kft,PA-104,2026-04-25,2026-04-27,9454.16,kszabo,kszabo
+P00857,V001,Metro Kft,INV-40030,2026-04-23,2026-04-28,7960.64,kszabo,bkovacs
+P00858,V001,Metro Kft,INV-40144,2026-04-20,2026-04-28,927.17,bkovacs,kszabo
+P00859,V002,Budapest Fresh Produce,INV-40301,2026-04-10,2026-04-28,1479.91,bkovacs,kszabo
+P00860,V003,Fish Market Hungary,INV-40603,2026-04-21,2026-04-28,396.03,bkovacs,kszabo
+P00861,V004,Wine Cellar Tokaj,INV-40738,2026-04-12,2026-04-28,695.96,bkovacs,kszabo
+P00862,V004,Wine Cellar Tokaj,INV-40749,2026-04-08,2026-04-28,3075.96,bkovacs,kszabo
+P00863,V006,Coffee Bean Ltd,INV-40910,2026-03-30,2026-04-28,3414.99,bkovacs,kszabo
+P00864,V006,Coffee Bean Ltd,INV-40937,2026-04-18,2026-04-28,514.98,bkovacs,kszabo
+P00865,V007,Hungarian Linen Services,INV-41010,2026-04-06,2026-04-28,1649.74,kszabo,bkovacs
+P00866,V007,Hungarian Linen Services,INV-41024,2026-04-05,2026-04-28,12487.59,bkovacs,mtoth
+P00867,V008,Laundry Pro Kft,INV-41126,2026-04-01,2026-04-28,15759.48,bkovacs,mtoth
+P00868,V020,Spa Products Europe,INV-41638,2026-04-18,2026-04-28,606.68,bkovacs,kszabo
+P00869,V001,Metro Kft,INV-40089,2026-04-06,2026-04-29,626.61,kszabo,bkovacs
+P00870,V002,Budapest Fresh Produce,INV-40488,2026-04-15,2026-04-29,105.48,kszabo,bkovacs
+P00871,V004,Wine Cellar Tokaj,INV-40727,2026-04-08,2026-04-29,3329.59,bkovacs,kszabo
+P00872,V002,Budapest Fresh Produce,INV-40440,2026-04-09,2026-04-30,619.12,bkovacs,kszabo
+P00873,V003,Fish Market Hungary,INV-40577,2026-04-09,2026-04-30,11248.17,kszabo,mtoth
+P00874,V003,Fish Market Hungary,INV-40645,2026-04-11,2026-04-30,1421.29,bkovacs,kszabo
+P00875,V003,Fish Market Hungary,INV-40703,2026-04-10,2026-04-30,9725.64,bkovacs,kszabo
+P00876,V004,Wine Cellar Tokaj,INV-40715,2026-04-21,2026-04-30,1526.56,kszabo,bkovacs
+P00877,V005,Zwack Unicum,INV-40799,2026-04-15,2026-04-30,1148.09,kszabo,bkovacs
+P00878,V007,Hungarian Linen Services,INV-41036,2026-04-19,2026-04-30,1400.2,kszabo,bkovacs
+P00879,V001,Metro Kft,INV-40022,2026-04-04,2026-05-01,9417.74,kszabo,bkovacs
+P00880,V001,Metro Kft,INV-40185,2026-04-24,2026-05-01,2167.18,bkovacs,kszabo
+P00881,V002,Budapest Fresh Produce,INV-40485,2026-04-23,2026-05-01,11512.96,bkovacs,mtoth
+P00882,V008,Laundry Pro Kft,INV-41112,2026-04-18,2026-05-01,1234.97,kszabo,bkovacs
+P00883,V013,IT Systems Zrt,INV-41462,2026-04-16,2026-05-01,8041.32,kszabo,bkovacs
+P00884,V020,Spa Products Europe,INV-41675,2026-04-05,2026-05-01,11142.2,kszabo,mtoth
+P00885,V002,Budapest Fresh Produce,INV-40349,2026-04-28,2026-05-04,1134.91,bkovacs,kszabo
+P00886,V013,IT Systems Zrt,INV-41452,2026-04-11,2026-05-04,1451.39,kszabo,bkovacs
+P00887,V019,Pest Plumbing Services,INV-41573,2026-04-24,2026-05-04,354.36,kszabo,bkovacs
+P00888,V001,Metro Kft,INV-40234,2026-04-10,2026-05-05,1891.88,kszabo,bkovacs
+P00889,V002,Budapest Fresh Produce,INV-40276,2026-04-14,2026-05-05,1059.55,kszabo,bkovacs
+P00890,V002,Budapest Fresh Produce,INV-40389,2026-04-24,2026-05-05,3763.12,bkovacs,kszabo
+P00891,V003,Fish Market Hungary,INV-40678,2026-04-21,2026-05-05,1073.19,bkovacs,kszabo
+P00892,V004,Wine Cellar Tokaj,INV-40731,2026-04-30,2026-05-05,2207.18,kszabo,bkovacs
+P00893,V005,Zwack Unicum,INV-40804,2026-04-17,2026-05-05,946.79,bkovacs,kszabo
+P00894,V007,Hungarian Linen Services,INV-41004,2026-04-24,2026-05-05,2824.44,kszabo,bkovacs
+P00895,V013,IT Systems Zrt,INV-41444,2026-04-21,2026-05-05,7975.06,bkovacs,kszabo
+P00896,V018,Uniform Factory,INV-41562,2026-04-26,2026-05-05,89.19,kszabo,bkovacs
+P00897,V019,Pest Plumbing Services,INV-41594,2026-04-14,2026-05-05,1518.62,bkovacs,kszabo
+P00898,V002,Budapest Fresh Produce,INV-40429,2026-05-01,2026-05-06,1987.52,bkovacs,kszabo
+P00899,V002,Budapest Fresh Produce,INV-40524,2026-05-01,2026-05-06,1033.54,kszabo,bkovacs
+P00900,V007,Hungarian Linen Services,INV-41023,2026-04-22,2026-05-06,4397.35,bkovacs,kszabo
+P00901,V007,Hungarian Linen Services,INV-41030,2026-04-13,2026-05-06,9222.08,bkovacs,kszabo
+P00902,V009,Cleaning Supplies Kft,INV-41274,2026-04-11,2026-05-06,1823.54,bkovacs,kszabo
+P00903,V002,Budapest Fresh Produce,INV-40296,2026-04-09,2026-05-07,141.05,kszabo,bkovacs
+P00904,V002,Budapest Fresh Produce,INV-40340,2026-04-13,2026-05-07,1009.2,bkovacs,kszabo
+P00905,V002,Budapest Fresh Produce,INV-40484,2026-04-21,2026-05-07,1373.54,bkovacs,kszabo
+P00906,V002,Budapest Fresh Produce,INV-40492,2026-04-19,2026-05-07,3550.89,bkovacs,kszabo
+P00907,V002,Budapest Fresh Produce,INV-40553,2026-04-22,2026-05-07,6732.29,kszabo,bkovacs
+P00908,V003,Fish Market Hungary,INV-40587,2026-05-01,2026-05-07,2224.69,kszabo,bkovacs
+P00909,V007,Hungarian Linen Services,INV-41052,2026-04-25,2026-05-07,1221.63,kszabo,bkovacs
+P00910,V008,Laundry Pro Kft,INV-41113,2026-04-22,2026-05-07,6334.9,kszabo,bkovacs
+P00911,V008,Laundry Pro Kft,INV-41131,2026-04-12,2026-05-07,660.0,bkovacs,kszabo
+P00912,V009,Cleaning Supplies Kft,INV-41225,2026-04-16,2026-05-07,427.26,bkovacs,kszabo
+P00913,V009,Cleaning Supplies Kft,INV-41230,2026-04-15,2026-05-07,271.88,kszabo,bkovacs
+P00914,V017,Marketing Partners Kft,INV-41538,2026-05-01,2026-05-07,3476.79,kszabo,bkovacs
+P00915,V021,Pannon Advisory Kft,PA-117,2026-05-05,2026-05-07,9633.01,kszabo,kszabo
+P00916,V002,Budapest Fresh Produce,INV-40533,2026-04-25,2026-05-08,1451.29,bkovacs,kszabo
+P00917,V005,Zwack Unicum,INV-40840,2026-04-26,2026-05-08,1345.94,kszabo,bkovacs
+P00918,V006,Coffee Bean Ltd,INV-40966,2026-04-12,2026-05-08,1936.28,kszabo,bkovacs
+P00919,V009,Cleaning Supplies Kft,INV-41218,2026-04-25,2026-05-08,752.92,kszabo,bkovacs
+P00920,V001,Metro Kft,INV-40085,2026-05-04,2026-05-11,5440.48,bkovacs,kszabo
+P00921,V002,Budapest Fresh Produce,INV-40282,2026-04-21,2026-05-11,1778.43,kszabo,bkovacs
+P00922,V002,Budapest Fresh Produce,INV-40288,2026-05-04,2026-05-11,599.75,bkovacs,kszabo
+P00923,V009,Cleaning Supplies Kft,INV-41311,2026-04-28,2026-05-11,6971.93,bkovacs,kszabo
+P00924,V011,Elektro Energia,INV-41422,2026-04-30,2026-05-11,18571.66,kszabo,mtoth
+P00925,V001,Metro Kft,INV-40053,2026-05-04,2026-05-12,668.88,kszabo,bkovacs
+P00926,V006,Coffee Bean Ltd,INV-40964,2026-04-18,2026-05-12,217.73,bkovacs,kszabo
+P00927,V007,Hungarian Linen Services,INV-40977,2026-04-16,2026-05-12,2019.11,kszabo,bkovacs
+P00928,V002,Budapest Fresh Produce,INV-40397,2026-05-04,2026-05-13,879.59,kszabo,bkovacs
+P00929,V002,Budapest Fresh Produce,INV-40415,2026-04-18,2026-05-13,2914.14,bkovacs,kszabo
+P00930,V004,Wine Cellar Tokaj,INV-40723,2026-05-07,2026-05-13,20137.45,bkovacs,mtoth
+P00931,V006,Coffee Bean Ltd,INV-40953,2026-04-30,2026-05-13,308.38,kszabo,bkovacs
+P00932,V007,Hungarian Linen Services,INV-40975,2026-05-03,2026-05-13,2427.93,bkovacs,kszabo
+P00933,V007,Hungarian Linen Services,INV-41022,2026-05-03,2026-05-13,3507.62,kszabo,bkovacs
+P00934,V007,Hungarian Linen Services,INV-41051,2026-04-22,2026-05-13,4862.1,bkovacs,kszabo
+P00935,V009,Cleaning Supplies Kft,INV-41226,2026-04-14,2026-05-13,357.21,bkovacs,kszabo
+P00936,V010,Florist Bp,INV-41375,2026-04-25,2026-05-13,2136.28,bkovacs,kszabo
+P00937,V020,Spa Products Europe,INV-41642,2026-04-25,2026-05-13,4141.32,kszabo,bkovacs
+P00938,V001,Metro Kft,INV-40224,2026-05-05,2026-05-14,1271.53,bkovacs,kszabo
+P00939,V006,Coffee Bean Ltd,INV-40951,2026-04-26,2026-05-14,1962.07,kszabo,bkovacs
+P00940,V006,Coffee Bean Ltd,INV-40959,2026-04-24,2026-05-14,2167.16,kszabo,bkovacs
+P00941,V001,Metro Kft,INV-40223,2026-05-04,2026-05-15,1956.3,kszabo,bkovacs
+P00942,V007,Hungarian Linen Services,INV-41035,2026-04-21,2026-05-15,3026.85,bkovacs,kszabo
+P00943,V009,Cleaning Supplies Kft,INV-41318,2026-04-18,2026-05-15,2333.87,kszabo,bkovacs
+P00944,V012,Fovarosi Vizmuvek,INV-41432,2026-04-19,2026-05-15,4635.03,kszabo,bkovacs
+P00945,V001,Metro Kft,INV-40208,2026-04-25,2026-05-18,929.56,kszabo,bkovacs
+P00946,V010,Florist Bp,INV-41384,2026-05-05,2026-05-18,2136.8,kszabo,bkovacs
+P00947,V019,Pest Plumbing Services,INV-41586,2026-04-28,2026-05-18,118.57,kszabo,bkovacs
+P00948,V007,Hungarian Linen Services,INV-41040,2026-05-01,2026-05-19,4944.97,kszabo,bkovacs
+P00949,V020,Spa Products Europe,INV-41644,2026-04-26,2026-05-19,944.87,bkovacs,kszabo
+P00950,V020,Spa Products Europe,INV-41673,2026-05-09,2026-05-19,2431.3,bkovacs,kszabo
+P00951,V001,Metro Kft,INV-40063,2026-05-01,2026-05-20,3909.57,bkovacs,kszabo
+P00952,V002,Budapest Fresh Produce,INV-40445,2026-05-04,2026-05-20,689.73,kszabo,bkovacs
+P00953,V002,Budapest Fresh Produce,INV-40493,2026-05-02,2026-05-20,1495.59,bkovacs,kszabo
+P00954,V014,Opera Hospitality Software,INV-41476,2026-05-10,2026-05-20,52172.17,bkovacs,mtoth
+P00955,V019,Pest Plumbing Services,INV-41581,2026-05-07,2026-05-20,6997.64,kszabo,bkovacs
+P00956,V001,Metro Kft,INV-40080,2026-05-06,2026-05-21,2903.53,bkovacs,kszabo
+P00957,V001,Metro Kft,INV-40201,2026-05-06,2026-05-21,4464.71,kszabo,bkovacs
+P00958,V004,Wine Cellar Tokaj,INV-40768,2026-05-11,2026-05-21,6400.91,bkovacs,kszabo
+P00959,V005,Zwack Unicum,INV-40803,2026-05-15,2026-05-21,2341.82,bkovacs,kszabo
+P00960,V014,Opera Hospitality Software,INV-41475,2026-04-25,2026-05-21,5363.87,kszabo,bkovacs
+P00961,V018,Uniform Factory,INV-41553,2026-05-03,2026-05-21,7472.88,kszabo,bkovacs
+P00962,V001,Metro Kft,INV-40044,2026-05-05,2026-05-22,318.88,bkovacs,kszabo
+P00963,V001,Metro Kft,INV-40155,2026-04-25,2026-05-22,2451.42,kszabo,bkovacs
+P00964,V002,Budapest Fresh Produce,INV-40295,2026-05-02,2026-05-22,1263.53,bkovacs,kszabo
+P00965,V002,Budapest Fresh Produce,INV-40409,2026-04-29,2026-05-22,919.69,kszabo,bkovacs
+P00966,V002,Budapest Fresh Produce,INV-40547,2026-04-26,2026-05-22,248.56,bkovacs,kszabo
+P00967,V009,Cleaning Supplies Kft,INV-41201,2026-05-15,2026-05-22,1756.19,bkovacs,kszabo
+P00968,V009,Cleaning Supplies Kft,INV-41295,2026-04-23,2026-05-22,670.38,kszabo,bkovacs
+P00969,V009,Cleaning Supplies Kft,INV-41296,2026-04-25,2026-05-22,524.96,kszabo,bkovacs
+P00970,V002,Budapest Fresh Produce,INV-40411,2026-05-08,2026-05-25,644.74,kszabo,bkovacs
+P00971,V002,Budapest Fresh Produce,INV-40483,2026-05-06,2026-05-25,1443.0,kszabo,bkovacs
+P00972,V003,Fish Market Hungary,INV-40702,2026-05-11,2026-05-25,179.53,bkovacs,kszabo
+P00973,V005,Zwack Unicum,INV-40821,2026-05-14,2026-05-25,1269.48,bkovacs,kszabo
+P00974,V006,Coffee Bean Ltd,INV-40899,2026-05-19,2026-05-25,556.93,kszabo,bkovacs
+P00975,V007,Hungarian Linen Services,INV-41026,2026-05-09,2026-05-25,2766.65,bkovacs,kszabo
+P00976,V009,Cleaning Supplies Kft,INV-41220,2026-04-30,2026-05-25,384.96,kszabo,bkovacs
+P00977,V013,IT Systems Zrt,INV-41446,2026-05-18,2026-05-25,21390.97,kszabo,mtoth
+P00978,V002,Budapest Fresh Produce,INV-40300,2026-05-07,2026-05-26,91.44,bkovacs,kszabo
+P00979,V002,Budapest Fresh Produce,INV-40408,2026-04-28,2026-05-26,658.61,bkovacs,kszabo
+P00980,V002,Budapest Fresh Produce,INV-40453,2026-05-04,2026-05-26,2970.02,kszabo,bkovacs
+P00981,V002,Budapest Fresh Produce,INV-40499,2026-05-17,2026-05-26,465.65,bkovacs,kszabo
+P00982,V003,Fish Market Hungary,INV-40602,2026-05-16,2026-05-26,1010.05,bkovacs,kszabo
+P00983,V003,Fish Market Hungary,INV-40643,2026-04-28,2026-05-26,390.87,kszabo,bkovacs
+P00984,V007,Hungarian Linen Services,INV-40986,2026-05-12,2026-05-26,2184.88,bkovacs,kszabo
+P00985,V010,Florist Bp,INV-41388,2026-05-16,2026-05-26,2849.39,bkovacs,kszabo
+P00986,V019,Pest Plumbing Services,INV-41599,2026-05-19,2026-05-26,554.79,bkovacs,kszabo
+P00987,V001,Metro Kft,INV-40066,2026-04-29,2026-05-27,5084.29,kszabo,bkovacs
+P00988,V005,Zwack Unicum,INV-40820,2026-05-04,2026-05-27,1329.31,bkovacs,kszabo
+P00989,V006,Coffee Bean Ltd,INV-40931,2026-05-07,2026-05-27,620.22,kszabo,bkovacs
+P00990,V017,Marketing Partners Kft,INV-41529,2026-05-09,2026-05-27,5568.16,kszabo,bkovacs
+P00991,V001,Metro Kft,INV-40117,2026-05-01,2026-05-28,1391.22,kszabo,bkovacs
+P00992,V001,Metro Kft,INV-40133,2026-05-09,2026-05-28,1510.21,kszabo,bkovacs
+P00993,V002,Budapest Fresh Produce,INV-40406,2026-05-05,2026-05-28,1795.62,bkovacs,kszabo
+P00994,V010,Florist Bp,INV-41398,2026-05-04,2026-05-28,1321.4,kszabo,bkovacs
+P00995,V018,Uniform Factory,INV-41572,2026-05-18,2026-05-28,4159.23,bkovacs,kszabo
+P00996,V002,Budapest Fresh Produce,INV-40332,2026-05-06,2026-05-29,1047.76,kszabo,bkovacs
+P00997,V002,Budapest Fresh Produce,INV-40548,2026-05-08,2026-05-29,906.19,bkovacs,kszabo
+P00998,V005,Zwack Unicum,INV-40828,2026-05-14,2026-05-29,2638.97,bkovacs,kszabo
+P00999,V007,Hungarian Linen Services,INV-41069,2026-05-10,2026-05-29,3967.9,kszabo,bkovacs
+P01000,V008,Laundry Pro Kft,INV-41104,2026-05-02,2026-05-29,4909.93,kszabo,bkovacs
+P01001,V010,Florist Bp,INV-41385,2026-05-14,2026-05-29,791.49,kszabo,bkovacs
+P01002,V013,IT Systems Zrt,INV-41471,2026-05-21,2026-05-29,2264.75,kszabo,bkovacs
+P01003,V004,Wine Cellar Tokaj,INV-40758,2026-05-26,2026-06-01,944.51,bkovacs,kszabo
+P01004,V004,Wine Cellar Tokaj,INV-40760,2026-05-16,2026-06-01,6565.7,kszabo,bkovacs
+P01005,V005,Zwack Unicum,INV-40841,2026-05-27,2026-06-01,3115.69,bkovacs,kszabo
+P01006,V001,Metro Kft,INV-40044,2026-05-05,2026-06-02,318.88,bkovacs,kszabo
+P01007,V002,Budapest Fresh Produce,INV-40325,2026-05-10,2026-06-02,1044.98,bkovacs,kszabo
+P01008,V002,Budapest Fresh Produce,INV-40345,2026-05-16,2026-06-02,5668.15,bkovacs,kszabo
+P01009,V002,Budapest Fresh Produce,INV-40534,2026-05-07,2026-06-02,1888.4,bkovacs,kszabo
+P01010,V006,Coffee Bean Ltd,INV-40887,2026-05-23,2026-06-02,266.98,kszabo,bkovacs
+P01011,V016,Securitas Hungary,INV-41518,2026-05-13,2026-06-02,6103.9,kszabo,bkovacs
+P01012,V001,Metro Kft,INV-40058,2026-05-13,2026-06-03,10081.42,bkovacs,mtoth
+P01013,V002,Budapest Fresh Produce,INV-40287,2026-05-14,2026-06-03,2814.32,bkovacs,kszabo
+P01014,V002,Budapest Fresh Produce,INV-40326,2026-05-28,2026-06-03,608.63,kszabo,bkovacs
+P01015,V002,Budapest Fresh Produce,INV-40444,2026-05-16,2026-06-03,2201.14,bkovacs,kszabo
+P01016,V004,Wine Cellar Tokaj,INV-40777,2026-05-08,2026-06-03,1166.81,bkovacs,kszabo
+P01017,V009,Cleaning Supplies Kft,INV-41238,2026-05-14,2026-06-03,181.91,kszabo,bkovacs
+P01018,V019,Pest Plumbing Services,INV-41601,2026-05-05,2026-06-03,284.27,bkovacs,kszabo
+P01019,V001,Metro Kft,INV-40259,2026-05-22,2026-06-04,2990.28,bkovacs,kszabo
+P01020,V002,Budapest Fresh Produce,INV-40264,2026-05-11,2026-06-04,2151.85,bkovacs,kszabo
+P01021,V002,Budapest Fresh Produce,INV-40320,2026-05-14,2026-06-04,1994.82,bkovacs,kszabo
+P01022,V004,Wine Cellar Tokaj,INV-40722,2026-05-21,2026-06-04,901.14,kszabo,bkovacs
+P01023,V006,Coffee Bean Ltd,INV-40919,2026-05-27,2026-06-04,1593.86,kszabo,bkovacs
+P01024,V007,Hungarian Linen Services,INV-41012,2026-05-30,2026-06-04,1930.72,kszabo,bkovacs
+P01025,V008,Laundry Pro Kft,INV-41134,2026-05-24,2026-06-04,6026.34,kszabo,bkovacs
+P01026,V001,Metro Kft,INV-40008,2026-05-24,2026-06-05,826.36,bkovacs,kszabo
+P01027,V003,Fish Market Hungary,INV-40578,2026-05-08,2026-06-05,146.84,kszabo,bkovacs
+P01028,V009,Cleaning Supplies Kft,INV-41279,2026-05-28,2026-06-05,734.55,kszabo,bkovacs
+P01029,V013,IT Systems Zrt,INV-41467,2026-05-09,2026-06-05,3844.76,bkovacs,kszabo
+P01030,V021,Pannon Advisory Kft,PA-107,2026-06-03,2026-06-05,9614.29,kszabo,kszabo
+P01031,V001,Metro Kft,INV-40150,2026-05-16,2026-06-08,1691.12,bkovacs,kszabo
+P01032,V001,Metro Kft,INV-40190,2026-05-16,2026-06-08,2838.45,kszabo,bkovacs
+P01033,V001,Metro Kft,INV-40216,2026-05-22,2026-06-08,1719.87,bkovacs,kszabo
+P01034,V001,Metro Kft,INV-40247,2026-05-23,2026-06-08,2111.82,kszabo,bkovacs
+P01035,V002,Budapest Fresh Produce,INV-40330,2026-05-24,2026-06-08,3364.8,kszabo,bkovacs
+P01036,V002,Budapest Fresh Produce,INV-40507,2026-05-25,2026-06-08,2157.8,bkovacs,kszabo
+P01037,V003,Fish Market Hungary,INV-40618,2026-05-26,2026-06-08,2281.38,kszabo,bkovacs
+P01038,V003,Fish Market Hungary,INV-40633,2026-05-17,2026-06-08,1202.74,bkovacs,kszabo
+P01039,V006,Coffee Bean Ltd,INV-40958,2026-05-19,2026-06-08,294.14,kszabo,bkovacs
+P01040,V007,Hungarian Linen Services,INV-41059,2026-05-16,2026-06-08,4725.35,kszabo,bkovacs
+P01041,V014,Opera Hospitality Software,INV-41481,2026-05-15,2026-06-08,6138.7,kszabo,bkovacs
+P01042,V001,Metro Kft,INV-40032,2026-05-13,2026-06-09,1416.77,bkovacs,kszabo
+P01043,V001,Metro Kft,INV-40041,2026-05-21,2026-06-09,1813.48,kszabo,bkovacs
+P01044,V003,Fish Market Hungary,INV-40677,2026-05-23,2026-06-09,1582.79,bkovacs,kszabo
+P01045,V006,Coffee Bean Ltd,INV-40885,2026-05-20,2026-06-09,382.24,bkovacs,kszabo
+P01046,V007,Hungarian Linen Services,INV-41044,2026-05-25,2026-06-09,818.4,kszabo,bkovacs
+P01047,V001,Metro Kft,INV-40025,2026-06-01,2026-06-10,8006.31,kszabo,bkovacs
+P01048,V002,Budapest Fresh Produce,INV-40266,2026-06-04,2026-06-10,1952.62,kszabo,bkovacs
+P01049,V002,Budapest Fresh Produce,INV-40402,2026-05-20,2026-06-10,1863.03,kszabo,bkovacs
+P01050,V003,Fish Market Hungary,INV-40670,2026-05-22,2026-06-10,1587.55,bkovacs,kszabo
+P01051,V006,Coffee Bean Ltd,INV-40893,2026-05-28,2026-06-10,3606.64,kszabo,bkovacs
+P01052,V008,Laundry Pro Kft,INV-41156,2026-05-21,2026-06-10,1099.26,bkovacs,kszabo
+P01053,V008,Laundry Pro Kft,INV-41173,2026-05-16,2026-06-10,3306.48,kszabo,bkovacs
+P01054,V015,Schindler Lifts,INV-41500,2026-06-03,2026-06-10,3352.36,kszabo,bkovacs
+P01055,V017,Marketing Partners Kft,INV-41543,2026-05-14,2026-06-10,10320.38,kszabo,mtoth
+P01056,V020,Spa Products Europe,INV-41635,2026-05-24,2026-06-10,2493.34,kszabo,bkovacs
+P01057,V002,Budapest Fresh Produce,INV-40355,2026-05-22,2026-06-11,1431.92,kszabo,bkovacs
+P01058,V002,Budapest Fresh Produce,INV-40388,2026-05-31,2026-06-11,1081.06,bkovacs,kszabo
+P01059,V002,Budapest Fresh Produce,INV-40457,2026-05-23,2026-06-11,366.67,bkovacs,kszabo
+P01060,V005,Zwack Unicum,INV-40816,2026-05-25,2026-06-11,686.89,bkovacs,kszabo
+P01061,V006,Coffee Bean Ltd,INV-40940,2026-05-17,2026-06-11,301.88,bkovacs,kszabo
+P01062,V019,Pest Plumbing Services,INV-41575,2026-05-13,2026-06-11,862.75,kszabo,bkovacs
+P01063,V007,Hungarian Linen Services,INV-40998,2026-05-17,2026-06-12,709.15,kszabo,bkovacs
+P01064,V008,Laundry Pro Kft,INV-41116,2026-05-29,2026-06-12,2938.01,kszabo,bkovacs
+P01065,V009,Cleaning Supplies Kft,INV-41284,2026-05-25,2026-06-12,857.71,bkovacs,kszabo
+P01066,V020,Spa Products Europe,INV-41663,2026-05-30,2026-06-12,2233.87,kszabo,bkovacs
+P01067,V001,Metro Kft,INV-40038,2026-05-22,2026-06-15,1772.11,kszabo,bkovacs
+P01068,V001,Metro Kft,INV-40154,2026-06-05,2026-06-15,1008.96,bkovacs,kszabo
+P01069,V002,Budapest Fresh Produce,INV-40396,2026-05-24,2026-06-15,1053.27,kszabo,bkovacs
+P01070,V006,Coffee Bean Ltd,INV-40967,2026-06-04,2026-06-15,1019.52,kszabo,bkovacs
+P01071,V008,Laundry Pro Kft,INV-41179,2026-05-31,2026-06-15,2915.73,bkovacs,kszabo
+P01072,V019,Pest Plumbing Services,INV-41602,2026-05-27,2026-06-15,707.01,kszabo,bkovacs
+P01073,V001,Metro Kft,INV-40083,2026-06-09,2026-06-16,5073.58,kszabo,bkovacs
+P01074,V002,Budapest Fresh Produce,INV-40291,2026-05-19,2026-06-16,401.56,kszabo,bkovacs
+P01075,V003,Fish Market Hungary,INV-40698,2026-05-27,2026-06-16,121.57,bkovacs,kszabo
+P01076,V004,Wine Cellar Tokaj,INV-40785,2026-06-01,2026-06-16,13931.45,kszabo,mtoth
+P01077,V007,Hungarian Linen Services,INV-41062,2026-06-10,2026-06-16,2326.46,bkovacs,kszabo
+P01078,V009,Cleaning Supplies Kft,INV-41290,2026-06-10,2026-06-16,1615.29,bkovacs,kszabo
+P01079,V003,Fish Market Hungary,INV-40620,2026-05-22,2026-06-17,3015.92,bkovacs,kszabo
+P01080,V003,Fish Market Hungary,INV-40656,2026-06-08,2026-06-17,3128.52,kszabo,bkovacs
+P01081,V003,Fish Market Hungary,INV-40679,2026-05-31,2026-06-17,2416.61,kszabo,bkovacs
+P01082,V006,Coffee Bean Ltd,INV-40892,2026-05-29,2026-06-17,199.43,bkovacs,kszabo
+P01083,V012,Fovarosi Vizmuvek,INV-41427,2026-06-01,2026-06-17,3960.41,bkovacs,kszabo
+P01084,V018,Uniform Factory,INV-41569,2026-05-29,2026-06-17,2093.5,kszabo,bkovacs
+P01085,V021,Pannon Advisory Kft,PA-103,2026-06-15,2026-06-17,9458.34,kszabo,kszabo
+P01086,V004,Wine Cellar Tokaj,INV-40769,2026-06-06,2026-06-18,9917.44,bkovacs,kszabo
+P01087,V006,Coffee Bean Ltd,INV-40922,2026-06-03,2026-06-18,100.99,bkovacs,kszabo
+P01088,V006,Coffee Bean Ltd,INV-40952,2026-05-29,2026-06-18,528.27,bkovacs,kszabo
+P01089,V009,Cleaning Supplies Kft,INV-41191,2026-06-03,2026-06-18,959.33,bkovacs,kszabo
+P01090,V009,Cleaning Supplies Kft,INV-41217,2026-06-04,2026-06-18,1334.49,bkovacs,kszabo
+P01091,V009,Cleaning Supplies Kft,INV-41243,2026-05-28,2026-06-18,2089.39,bkovacs,kszabo
+P01092,V013,IT Systems Zrt,INV-41468,2026-06-11,2026-06-18,2852.86,bkovacs,kszabo
+P01093,V017,Marketing Partners Kft,INV-41548,2026-06-07,2026-06-18,4298.2,kszabo,bkovacs
+P01094,V018,Uniform Factory,INV-41566,2026-06-01,2026-06-18,2597.14,kszabo,bkovacs
+P01095,V021,Pannon Advisory Kft,PA-112,2026-06-16,2026-06-18,9790.94,kszabo,kszabo
+P01096,V002,Budapest Fresh Produce,INV-40350,2026-06-04,2026-06-19,2785.67,bkovacs,kszabo
+P01097,V002,Budapest Fresh Produce,INV-40549,2026-06-07,2026-06-19,1802.91,bkovacs,kszabo
+P01098,V004,Wine Cellar Tokaj,INV-40713,2026-05-29,2026-06-19,16614.98,bkovacs,mtoth
+P01099,V006,Coffee Bean Ltd,INV-40932,2026-06-01,2026-06-19,1206.71,kszabo,bkovacs
+P01100,V007,Hungarian Linen Services,INV-41057,2026-05-22,2026-06-19,3748.23,bkovacs,kszabo
+P01101,V010,Florist Bp,INV-41342,2026-05-30,2026-06-19,229.44,kszabo,bkovacs
+P01102,V019,Pest Plumbing Services,INV-41577,2026-06-09,2026-06-19,6226.59,kszabo,bkovacs
+P01103,V020,Spa Products Europe,INV-41653,2026-05-22,2026-06-19,1775.28,bkovacs,kszabo
+P01104,V020,Spa Products Europe,INV-41654,2026-05-28,2026-06-19,1510.02,bkovacs,kszabo
+P01105,V021,Pannon Advisory Kft,PA-113,2026-06-17,2026-06-19,9658.66,kszabo,kszabo
+P01106,V001,Metro Kft,INV-40002,2026-06-05,2026-06-22,2314.89,kszabo,bkovacs
+P01107,V001,Metro Kft,INV-40084,2026-06-07,2026-06-22,1630.18,bkovacs,kszabo
+P01108,V002,Budapest Fresh Produce,INV-40334,2026-06-15,2026-06-22,1133.43,kszabo,bkovacs
+P01109,V002,Budapest Fresh Produce,INV-40375,2026-06-08,2026-06-22,668.42,bkovacs,kszabo
+P01110,V002,Budapest Fresh Produce,INV-40400,2026-05-24,2026-06-22,536.94,bkovacs,kszabo
+P01111,V002,Budapest Fresh Produce,INV-40458,2026-06-08,2026-06-22,387.45,bkovacs,kszabo
+P01112,V003,Fish Market Hungary,INV-40612,2026-05-31,2026-06-22,1154.24,kszabo,bkovacs
+P01113,V003,Fish Market Hungary,INV-40622,2026-06-10,2026-06-22,723.12,bkovacs,kszabo
+P01114,V004,Wine Cellar Tokaj,INV-40775,2026-05-28,2026-06-22,1837.08,kszabo,bkovacs
+P01115,V017,Marketing Partners Kft,INV-41528,2026-06-03,2026-06-22,2152.93,kszabo,bkovacs
+P01116,V019,Pest Plumbing Services,INV-41612,2026-06-06,2026-06-22,477.69,bkovacs,kszabo
+P01117,V002,Budapest Fresh Produce,INV-40302,2026-05-28,2026-06-23,499.75,kszabo,bkovacs
+P01118,V002,Budapest Fresh Produce,INV-40433,2026-05-30,2026-06-23,773.08,bkovacs,kszabo
+P01119,V002,Budapest Fresh Produce,INV-40502,2026-06-09,2026-06-23,1168.02,bkovacs,kszabo
+P01120,V009,Cleaning Supplies Kft,INV-41258,2026-06-03,2026-06-23,1875.15,bkovacs,kszabo
+P01121,V001,Metro Kft,INV-40205,2026-06-18,2026-06-24,4325.86,bkovacs,kszabo
+P01122,V002,Budapest Fresh Produce,INV-40366,2026-06-02,2026-06-24,218.74,kszabo,bkovacs
+P01123,V002,Budapest Fresh Produce,INV-40540,2026-06-12,2026-06-24,118.25,bkovacs,kszabo
+P01124,V008,Laundry Pro Kft,INV-41072,2026-06-14,2026-06-24,4417.67,kszabo,bkovacs
+P01125,V008,Laundry Pro Kft,INV-41097,2026-06-19,2026-06-24,464.09,kszabo,bkovacs
+P01126,V001,Metro Kft,INV-40132,2026-06-07,2026-06-25,940.9,bkovacs,kszabo
+P01127,V005,Zwack Unicum,INV-40842,2026-05-29,2026-06-25,4282.7,bkovacs,kszabo
+P01128,V013,IT Systems Zrt,INV-41458,2026-05-28,2026-06-25,2711.99,kszabo,bkovacs
+P01129,V001,Metro Kft,INV-40076,2026-06-03,2026-06-26,1792.65,bkovacs,kszabo
+P01130,V002,Budapest Fresh Produce,INV-40443,2026-06-14,2026-06-26,557.87,kszabo,bkovacs
+P01131,V003,Fish Market Hungary,INV-40568,2026-06-04,2026-06-26,420.26,kszabo,bkovacs
+P01132,V009,Cleaning Supplies Kft,INV-41291,2026-06-11,2026-06-26,289.05,bkovacs,kszabo
+P01133,V010,Florist Bp,INV-41400,2026-06-19,2026-06-26,281.63,bkovacs,kszabo
+P01134,V013,IT Systems Zrt,INV-41454,2026-06-08,2026-06-26,741.8,kszabo,bkovacs
+P01135,V019,Pest Plumbing Services,INV-41593,2026-06-19,2026-06-26,777.58,kszabo,bkovacs
+P01136,V001,Metro Kft,INV-40003,2026-06-13,2026-06-29,1438.61,kszabo,bkovacs
+P01137,V001,Metro Kft,INV-40077,2026-06-11,2026-06-29,3175.37,bkovacs,kszabo
+P01138,V017,Marketing Partners Kft,INV-41552,2026-06-15,2026-06-29,12222.17,kszabo,mtoth
+P01139,V002,Budapest Fresh Produce,INV-40393,2026-06-15,2026-06-30,942.68,bkovacs,kszabo
+P01140,V003,Fish Market Hungary,INV-40566,2026-06-01,2026-06-30,2001.11,kszabo,bkovacs
+P01141,V003,Fish Market Hungary,INV-40709,2026-06-04,2026-06-30,7077.62,kszabo,bkovacs
+P01142,V006,Coffee Bean Ltd,INV-40935,2026-06-05,2026-06-30,297.53,bkovacs,kszabo
+P01143,V007,Hungarian Linen Services,INV-41037,2026-06-15,2026-06-30,3732.83,bkovacs,kszabo
+P01144,V007,Hungarian Linen Services,INV-41046,2026-06-12,2026-06-30,9360.8,bkovacs,kszabo
+P01145,V001,Metro Kft,INV-40006,2026-06-15,2026-07-01,2186.78,kszabo,bkovacs
+P01146,V002,Budapest Fresh Produce,INV-40365,2026-06-22,2026-07-01,939.74,kszabo,bkovacs
+P01147,V002,Budapest Fresh Produce,INV-40412,2026-06-23,2026-07-01,406.77,bkovacs,kszabo
+P01148,V003,Fish Market Hungary,INV-40613,2026-06-25,2026-07-01,3097.46,bkovacs,kszabo
+P01149,V005,Zwack Unicum,INV-40830,2026-06-07,2026-07-01,707.14,bkovacs,kszabo
+P01150,V009,Cleaning Supplies Kft,INV-41278,2026-06-21,2026-07-01,205.33,bkovacs,kszabo
+P01151,V001,Metro Kft,INV-40042,2026-06-21,2026-07-02,2419.4,kszabo,bkovacs
+P01152,V003,Fish Market Hungary,INV-40707,2026-06-10,2026-07-02,5568.78,bkovacs,kszabo
+P01153,V008,Laundry Pro Kft,INV-41177,2026-06-05,2026-07-02,3681.28,bkovacs,kszabo
+P01154,V010,Florist Bp,INV-41410,2026-06-11,2026-07-02,3667.36,bkovacs,kszabo
+P01155,V019,Pest Plumbing Services,INV-41619,2026-06-11,2026-07-02,2738.12,bkovacs,kszabo
+P01156,V004,Wine Cellar Tokaj,INV-40712,2026-06-11,2026-07-03,504.45,kszabo,bkovacs
+P01157,V001,Metro Kft,INV-40157,2026-06-15,2026-07-06,4133.62,bkovacs,kszabo
+P01158,V001,Metro Kft,INV-40204,2026-06-07,2026-07-06,7808.16,kszabo,bkovacs
+P01159,V002,Budapest Fresh Produce,INV-40285,2026-06-28,2026-07-06,2343.92,kszabo,bkovacs
+P01160,V020,Spa Products Europe,INV-41646,2026-06-11,2026-07-06,3076.57,bkovacs,kszabo
+P01161,V001,Metro Kft,INV-40090,2026-06-22,2026-07-07,1535.93,kszabo,bkovacs
+P01162,V002,Budapest Fresh Produce,INV-40450,2026-06-08,2026-07-07,589.8,kszabo,bkovacs
+P01163,V019,Pest Plumbing Services,INV-41576,2026-06-18,2026-07-07,1478.75,bkovacs,kszabo
+P01164,V020,Spa Products Europe,INV-41671,2026-06-29,2026-07-07,2278.37,kszabo,bkovacs
+P01165,V001,Metro Kft,INV-40128,2026-06-23,2026-07-08,1102.86,bkovacs,kszabo
+P01166,V002,Budapest Fresh Produce,INV-40321,2026-06-24,2026-07-08,1086.62,kszabo,bkovacs
+P01167,V002,Budapest Fresh Produce,INV-40360,2026-06-25,2026-07-08,3437.75,bkovacs,kszabo
+P01168,V002,Budapest Fresh Produce,INV-40455,2026-06-09,2026-07-08,2207.95,bkovacs,kszabo
+P01169,V002,Budapest Fresh Produce,INV-40494,2026-06-23,2026-07-08,1600.01,kszabo,bkovacs
+P01170,V003,Fish Market Hungary,INV-40591,2026-07-02,2026-07-08,1469.74,bkovacs,kszabo
+P01171,V004,Wine Cellar Tokaj,INV-40789,2026-06-30,2026-07-08,6560.25,kszabo,bkovacs
+P01172,V006,Coffee Bean Ltd,INV-40917,2026-06-16,2026-07-08,1269.43,bkovacs,kszabo
+P01173,V007,Hungarian Linen Services,INV-41031,2026-07-03,2026-07-08,930.92,kszabo,bkovacs
+P01174,V009,Cleaning Supplies Kft,INV-41241,2026-06-20,2026-07-08,661.51,bkovacs,kszabo
+P01175,V002,Budapest Fresh Produce,INV-40271,2026-06-30,2026-07-09,292.77,kszabo,bkovacs
+P01176,V008,Laundry Pro Kft,INV-41170,2026-07-01,2026-07-09,917.57,kszabo,bkovacs
+P01177,V009,Cleaning Supplies Kft,INV-41272,2026-06-30,2026-07-09,365.97,kszabo,bkovacs
+P01178,V010,Florist Bp,INV-41382,2026-07-01,2026-07-09,2188.65,kszabo,bkovacs
+P01179,V017,Marketing Partners Kft,INV-41535,2026-06-28,2026-07-09,6201.27,bkovacs,kszabo
+P01180,V019,Pest Plumbing Services,INV-41624,2026-07-03,2026-07-09,1070.94,kszabo,bkovacs
+P01181,V001,Metro Kft,INV-40160,2026-07-05,2026-07-10,1934.68,kszabo,bkovacs
+P01182,V002,Budapest Fresh Produce,INV-40357,2026-07-03,2026-07-10,3751.2,bkovacs,kszabo
+P01183,V002,Budapest Fresh Produce,INV-40371,2026-06-14,2026-07-10,2619.12,kszabo,bkovacs
+P01184,V019,Pest Plumbing Services,INV-41607,2026-07-02,2026-07-10,1310.44,kszabo,bkovacs
+P01185,V019,Pest Plumbing Services,INV-41615,2026-06-28,2026-07-10,646.58,kszabo,bkovacs
+P01186,V002,Budapest Fresh Produce,INV-40290,2026-06-17,2026-07-13,1829.64,bkovacs,kszabo
+P01187,V002,Budapest Fresh Produce,INV-40451,2026-06-18,2026-07-13,2912.27,kszabo,bkovacs
+P01188,V007,Hungarian Linen Services,INV-41007,2026-06-24,2026-07-13,1644.49,bkovacs,kszabo
+P01189,V009,Cleaning Supplies Kft,INV-41231,2026-07-07,2026-07-13,1150.65,kszabo,bkovacs
+P01190,V001,Metro Kft,INV-40199,2026-06-21,2026-07-14,5670.94,bkovacs,kszabo
+P01191,V008,Laundry Pro Kft,INV-41075,2026-06-20,2026-07-14,902.76,kszabo,bkovacs
+P01192,V008,Laundry Pro Kft,INV-41080,2026-06-24,2026-07-14,2232.59,bkovacs,kszabo
+P01193,V010,Florist Bp,INV-41387,2026-06-29,2026-07-14,733.05,kszabo,bkovacs
+P01194,V017,Marketing Partners Kft,INV-41523,2026-06-17,2026-07-14,97604.39,bkovacs,mtoth
+P01195,V001,Metro Kft,INV-40170,2026-06-20,2026-07-15,9270.37,bkovacs,kszabo
+P01196,V003,Fish Market Hungary,INV-40632,2026-06-16,2026-07-15,288.12,bkovacs,kszabo
+P01197,V004,Wine Cellar Tokaj,INV-40726,2026-06-22,2026-07-15,3851.78,kszabo,bkovacs
+P01198,V004,Wine Cellar Tokaj,INV-40776,2026-06-18,2026-07-15,2007.62,bkovacs,kszabo
+P01199,V007,Hungarian Linen Services,INV-41043,2026-07-02,2026-07-15,1763.09,kszabo,bkovacs
+P01200,V009,Cleaning Supplies Kft,INV-41236,2026-06-26,2026-07-15,796.73,bkovacs,kszabo
+P01201,V001,Metro Kft,INV-40051,2026-06-18,2026-07-16,1939.48,bkovacs,kszabo
+P01202,V001,Metro Kft,INV-40124,2026-06-23,2026-07-16,2259.72,kszabo,bkovacs
+P01203,V002,Budapest Fresh Produce,INV-40475,2026-07-07,2026-07-16,1490.5,kszabo,bkovacs
+P01204,V007,Hungarian Linen Services,INV-40991,2026-06-25,2026-07-16,8107.64,bkovacs,kszabo
+P01205,V009,Cleaning Supplies Kft,INV-41181,2026-07-07,2026-07-16,630.59,bkovacs,kszabo
+P01206,V010,Florist Bp,INV-41357,2026-06-22,2026-07-16,1825.36,kszabo,bkovacs
+P01207,V010,Florist Bp,INV-41368,2026-07-04,2026-07-16,1214.57,kszabo,bkovacs
+P01208,V017,Marketing Partners Kft,INV-41525,2026-07-09,2026-07-16,11861.68,kszabo,mtoth
+P01209,V002,Budapest Fresh Produce,INV-40504,2026-06-25,2026-07-17,1240.4,kszabo,bkovacs
+P01210,V003,Fish Market Hungary,INV-40617,2026-07-05,2026-07-17,527.21,kszabo,bkovacs
+P01211,V004,Wine Cellar Tokaj,INV-40778,2026-06-18,2026-07-17,1316.98,bkovacs,kszabo
+P01212,V005,Zwack Unicum,INV-40819,2026-06-19,2026-07-17,1814.01,bkovacs,kszabo
+P01213,V009,Cleaning Supplies Kft,INV-41232,2026-06-23,2026-07-17,923.33,bkovacs,kszabo
+P01214,V010,Florist Bp,INV-41343,2026-06-23,2026-07-17,2213.79,bkovacs,kszabo
+P01215,V019,Pest Plumbing Services,INV-41579,2026-06-28,2026-07-17,902.36,bkovacs,kszabo
+P01216,V020,Spa Products Europe,INV-41666,2026-06-20,2026-07-17,2606.96,kszabo,bkovacs
+P01217,V002,Budapest Fresh Produce,INV-40413,2026-07-04,2026-07-20,2922.73,bkovacs,kszabo
+P01218,V006,Coffee Bean Ltd,INV-40921,2026-07-04,2026-07-20,2293.76,kszabo,bkovacs
+P01219,V010,Florist Bp,INV-41405,2026-07-06,2026-07-20,4502.87,kszabo,bkovacs
+P01220,V019,Pest Plumbing Services,INV-41603,2026-06-30,2026-07-20,118.94,bkovacs,kszabo
+P01221,V001,Metro Kft,INV-40202,2026-06-23,2026-07-21,4719.98,bkovacs,kszabo
+P01222,V001,Metro Kft,INV-40219,2026-07-15,2026-07-21,5702.51,kszabo,bkovacs
+P01223,V002,Budapest Fresh Produce,INV-40364,2026-06-28,2026-07-21,4139.38,kszabo,bkovacs
+P01224,V002,Budapest Fresh Produce,INV-40542,2026-07-09,2026-07-21,1712.53,bkovacs,kszabo
+P01225,V006,Coffee Bean Ltd,INV-40900,2026-07-06,2026-07-21,194.9,kszabo,bkovacs
+P01226,V008,Laundry Pro Kft,INV-41144,2026-07-13,2026-07-21,4495.78,bkovacs,kszabo
+P01227,V010,Florist Bp,INV-41391,2026-07-14,2026-07-21,1359.4,bkovacs,kszabo
+P01228,V001,Metro Kft,INV-40165,2026-07-16,2026-07-22,1242.72,kszabo,bkovacs
+P01229,V002,Budapest Fresh Produce,INV-40441,2026-07-17,2026-07-22,356.79,bkovacs,kszabo
+P01230,V002,Budapest Fresh Produce,INV-40480,2026-06-29,2026-07-22,1158.3,kszabo,bkovacs
+P01231,V003,Fish Market Hungary,INV-40626,2026-07-10,2026-07-22,5636.48,kszabo,bkovacs
+P01232,V005,Zwack Unicum,INV-40810,2026-06-26,2026-07-22,953.86,kszabo,bkovacs
+P01233,V007,Hungarian Linen Services,INV-40997,2026-06-25,2026-07-22,731.11,bkovacs,kszabo
+P01234,V008,Laundry Pro Kft,INV-41111,2026-06-27,2026-07-22,810.17,bkovacs,kszabo
+P01235,V013,IT Systems Zrt,INV-41450,2026-07-04,2026-07-22,20783.31,kszabo,mtoth
+P01236,V017,Marketing Partners Kft,INV-41536,2026-06-23,2026-07-22,8086.6,bkovacs,kszabo
+P01237,V001,Metro Kft,INV-40125,2026-07-14,2026-07-23,1388.71,kszabo,bkovacs
+P01238,V002,Budapest Fresh Produce,INV-40376,2026-07-15,2026-07-23,1492.82,kszabo,bkovacs
+P01239,V003,Fish Market Hungary,INV-40573,2026-07-07,2026-07-23,5158.87,kszabo,bkovacs
+P01240,V008,Laundry Pro Kft,INV-41105,2026-07-11,2026-07-23,2288.86,kszabo,bkovacs
+P01241,V010,Florist Bp,INV-41365,2026-06-25,2026-07-23,650.76,kszabo,bkovacs
+P01242,V014,Opera Hospitality Software,INV-41483,2026-06-29,2026-07-23,1458.89,bkovacs,kszabo
+P01243,V019,Pest Plumbing Services,INV-41628,2026-07-14,2026-07-23,628.3,kszabo,bkovacs
+P01244,V001,Metro Kft,INV-40001,2026-07-12,2026-07-24,4779.58,bkovacs,kszabo
+P01245,V001,Metro Kft,INV-40206,2026-06-25,2026-07-24,46011.89,bkovacs,mtoth
+P01246,V009,Cleaning Supplies Kft,INV-41199,2026-07-14,2026-07-24,1080.54,kszabo,bkovacs
+P01247,V009,Cleaning Supplies Kft,INV-41213,2026-07-15,2026-07-24,712.42,bkovacs,kszabo
+P01248,V010,Florist Bp,INV-41395,2026-07-12,2026-07-24,959.82,bkovacs,kszabo
+P01249,V001,Metro Kft,INV-40242,2026-07-15,2026-07-27,8747.84,kszabo,bkovacs
+P01250,V002,Budapest Fresh Produce,INV-40423,2026-07-04,2026-07-27,662.92,bkovacs,kszabo
+P01251,V003,Fish Market Hungary,INV-40691,2026-07-12,2026-07-27,7520.96,kszabo,bkovacs
+P01252,V021,Pannon Advisory Kft,PA-105,2026-07-25,2026-07-27,9687.53,kszabo,kszabo
+P01253,V003,Fish Market Hungary,INV-40676,2026-07-12,2026-07-28,1532.68,bkovacs,kszabo
+P01254,V009,Cleaning Supplies Kft,INV-41194,2026-07-23,2026-07-28,270.8,kszabo,bkovacs
+P01255,V006,Coffee Bean Ltd,INV-40955,2026-07-12,2026-07-29,292.57,bkovacs,kszabo
+P01256,V006,Coffee Bean Ltd,INV-40970,2026-07-18,2026-07-29,759.07,kszabo,bkovacs
+P01257,V009,Cleaning Supplies Kft,INV-41196,2026-07-01,2026-07-29,6353.03,kszabo,bkovacs
+P01258,V010,Florist Bp,INV-41349,2026-07-14,2026-07-29,546.2,bkovacs,kszabo
+P01259,V010,Florist Bp,INV-41374,2026-07-05,2026-07-29,620.32,bkovacs,kszabo
+P01260,V010,Florist Bp,INV-41406,2026-07-14,2026-07-29,3286.06,kszabo,bkovacs
+P01261,V001,Metro Kft,INV-40050,2026-07-20,2026-07-30,3026.33,kszabo,bkovacs
+P01262,V002,Budapest Fresh Produce,INV-40308,2026-07-06,2026-07-30,1120.08,bkovacs,kszabo
+P01263,V002,Budapest Fresh Produce,INV-40403,2026-07-02,2026-07-30,171.51,bkovacs,kszabo
+P01264,V002,Budapest Fresh Produce,INV-40462,2026-07-12,2026-07-30,562.37,kszabo,bkovacs
+P01265,V009,Cleaning Supplies Kft,INV-41206,2026-07-16,2026-07-30,652.19,bkovacs,kszabo
+P01266,V013,IT Systems Zrt,INV-41440,2026-07-06,2026-07-30,1032.75,kszabo,bkovacs
+P01267,V013,IT Systems Zrt,INV-41453,2026-07-21,2026-07-30,8163.35,bkovacs,kszabo
+P01268,V005,Zwack Unicum,INV-40798,2026-07-13,2026-07-31,2596.69,bkovacs,kszabo
+P01269,V006,Coffee Bean Ltd,INV-40854,2026-07-15,2026-07-31,586.82,bkovacs,kszabo
+P01270,V007,Hungarian Linen Services,INV-41002,2026-07-17,2026-07-31,2441.13,kszabo,bkovacs
+P01271,V008,Laundry Pro Kft,INV-41093,2026-07-12,2026-07-31,2203.61,bkovacs,kszabo
+P01272,V009,Cleaning Supplies Kft,INV-41294,2026-07-08,2026-07-31,335.55,kszabo,bkovacs
+P01273,V019,Pest Plumbing Services,INV-41582,2026-07-04,2026-07-31,461.05,bkovacs,kszabo
+P01274,V001,Metro Kft,INV-40021,2026-07-11,2026-08-03,3227.6,kszabo,bkovacs
+P01275,V002,Budapest Fresh Produce,INV-40263,2026-07-13,2026-08-03,88.95,bkovacs,kszabo
+P01276,V002,Budapest Fresh Produce,INV-40426,2026-07-12,2026-08-03,562.37,kszabo,bkovacs
+P01277,V003,Fish Market Hungary,INV-40684,2026-07-09,2026-08-03,3109.77,kszabo,bkovacs
+P01278,V012,Fovarosi Vizmuvek,INV-41428,2026-07-07,2026-08-03,11982.67,bkovacs,mtoth
+P01279,V013,IT Systems Zrt,INV-41447,2026-07-20,2026-08-03,20402.83,kszabo,mtoth
+P01280,V020,Spa Products Europe,INV-41651,2026-07-12,2026-08-03,1850.37,bkovacs,kszabo
+P01281,V001,Metro Kft,INV-40171,2026-07-09,2026-08-04,1329.23,kszabo,bkovacs
+P01282,V002,Budapest Fresh Produce,INV-40307,2026-07-22,2026-08-04,478.47,bkovacs,kszabo
+P01283,V002,Budapest Fresh Produce,INV-40374,2026-07-29,2026-08-04,741.38,bkovacs,kszabo
+P01284,V002,Budapest Fresh Produce,INV-40538,2026-07-15,2026-08-04,419.21,bkovacs,kszabo
+P01285,V004,Wine Cellar Tokaj,INV-40764,2026-07-13,2026-08-04,2022.61,kszabo,bkovacs
+P01286,V005,Zwack Unicum,INV-40802,2026-07-21,2026-08-04,2175.16,kszabo,bkovacs
+P01287,V006,Coffee Bean Ltd,INV-40941,2026-07-17,2026-08-04,1798.66,bkovacs,kszabo
+P01288,V009,Cleaning Supplies Kft,INV-41207,2026-07-28,2026-08-04,1936.06,kszabo,bkovacs
+P01289,V001,Metro Kft,INV-40249,2026-07-19,2026-08-05,7467.18,kszabo,bkovacs
+P01290,V003,Fish Market Hungary,INV-40575,2026-07-23,2026-08-05,655.72,bkovacs,kszabo
+P01291,V005,Zwack Unicum,INV-40791,2026-07-14,2026-08-05,714.61,kszabo,bkovacs
+P01292,V006,Coffee Bean Ltd,INV-40928,2026-07-31,2026-08-05,3227.66,bkovacs,kszabo
+P01293,V020,Spa Products Europe,INV-41639,2026-07-22,2026-08-05,7757.28,kszabo,bkovacs
+P01294,V002,Budapest Fresh Produce,INV-40333,2026-07-28,2026-08-06,2800.89,kszabo,bkovacs
+P01295,V003,Fish Market Hungary,INV-40598,2026-07-25,2026-08-06,3402.91,bkovacs,kszabo
+P01296,V015,Schindler Lifts,INV-41506,2026-07-31,2026-08-06,4646.15,kszabo,bkovacs
+P01297,V017,Marketing Partners Kft,INV-41531,2026-07-31,2026-08-06,3682.54,bkovacs,kszabo
+P01298,V002,Budapest Fresh Produce,INV-40430,2026-07-12,2026-08-07,3973.85,kszabo,bkovacs
+P01299,V003,Fish Market Hungary,INV-40669,2026-07-31,2026-08-07,1030.35,kszabo,bkovacs
+P01300,V004,Wine Cellar Tokaj,INV-40746,2026-07-17,2026-08-07,7780.52,bkovacs,kszabo
+P01301,V005,Zwack Unicum,INV-40827,2026-07-20,2026-08-07,1698.32,kszabo,bkovacs
+P01302,V010,Florist Bp,INV-41351,2026-08-02,2026-08-07,1164.66,kszabo,bkovacs
+P01303,V004,Wine Cellar Tokaj,INV-40751,2026-07-17,2026-08-10,3477.53,bkovacs,kszabo
+P01304,V007,Hungarian Linen Services,INV-41008,2026-07-22,2026-08-10,4104.68,kszabo,bkovacs
+P01305,V008,Laundry Pro Kft,INV-41145,2026-07-24,2026-08-10,1168.58,bkovacs,kszabo
+P01306,V011,Elektro Energia,INV-41412,2026-07-20,2026-08-10,52388.42,bkovacs,mtoth
+P01307,V015,Schindler Lifts,INV-41501,2026-07-13,2026-08-10,6102.35,kszabo,bkovacs
+P01308,V017,Marketing Partners Kft,INV-41545,2026-07-22,2026-08-10,7386.73,kszabo,bkovacs
+P01309,V001,Metro Kft,INV-40026,2026-07-15,2026-08-11,836.18,bkovacs,kszabo
+P01310,V002,Budapest Fresh Produce,INV-40310,2026-07-18,2026-08-11,885.66,kszabo,bkovacs
+P01311,V015,Schindler Lifts,INV-41498,2026-07-18,2026-08-11,1884.05,kszabo,bkovacs
+P01312,V001,Metro Kft,INV-40101,2026-08-02,2026-08-12,5804.45,bkovacs,kszabo
+P01313,V003,Fish Market Hungary,INV-40697,2026-07-21,2026-08-12,2768.09,kszabo,bkovacs
+P01314,V006,Coffee Bean Ltd,INV-40926,2026-07-14,2026-08-12,328.06,bkovacs,kszabo
+P01315,V007,Hungarian Linen Services,INV-40976,2026-07-25,2026-08-12,1051.82,bkovacs,kszabo
+P01316,V010,Florist Bp,INV-41361,2026-07-28,2026-08-12,6779.99,bkovacs,kszabo
+P01317,V011,Elektro Energia,INV-41416,2026-08-04,2026-08-12,7276.19,kszabo,bkovacs
+P01318,V001,Metro Kft,INV-40140,2026-07-30,2026-08-13,5287.47,bkovacs,kszabo
+P01319,V002,Budapest Fresh Produce,INV-40338,2026-07-24,2026-08-13,132.13,kszabo,bkovacs
+P01320,V002,Budapest Fresh Produce,INV-40439,2026-07-28,2026-08-13,322.06,kszabo,bkovacs
+P01321,V002,Budapest Fresh Produce,INV-40497,2026-08-08,2026-08-13,1589.21,bkovacs,kszabo
+P01322,V018,Uniform Factory,INV-41570,2026-07-26,2026-08-13,6270.56,bkovacs,kszabo
+P01323,V021,Pannon Advisory Kft,PA-108,2026-08-11,2026-08-13,9737.58,kszabo,kszabo
+P01324,V001,Metro Kft,INV-40121,2026-07-27,2026-08-14,3181.37,bkovacs,kszabo
+P01325,V002,Budapest Fresh Produce,INV-40460,2026-08-07,2026-08-14,1889.78,bkovacs,kszabo
+P01326,V003,Fish Market Hungary,INV-40642,2026-08-04,2026-08-14,2606.58,bkovacs,kszabo
+P01327,V004,Wine Cellar Tokaj,INV-40762,2026-07-29,2026-08-14,3919.13,bkovacs,kszabo
+P01328,V004,Wine Cellar Tokaj,INV-40783,2026-07-23,2026-08-14,7760.37,kszabo,bkovacs
+P01329,V006,Coffee Bean Ltd,INV-40938,2026-07-19,2026-08-14,466.84,kszabo,bkovacs
+P01330,V007,Hungarian Linen Services,INV-40973,2026-08-06,2026-08-14,9965.48,kszabo,bkovacs
+P01331,V008,Laundry Pro Kft,INV-41152,2026-07-19,2026-08-14,8099.13,bkovacs,kszabo
+P01332,V010,Florist Bp,INV-41359,2026-07-21,2026-08-14,205.11,bkovacs,kszabo
+P01333,V010,Florist Bp,INV-41386,2026-07-30,2026-08-14,901.68,bkovacs,kszabo
+P01334,V002,Budapest Fresh Produce,INV-40449,2026-07-24,2026-08-17,590.53,kszabo,bkovacs
+P01335,V002,Budapest Fresh Produce,INV-40527,2026-07-26,2026-08-17,656.23,bkovacs,kszabo
+P01336,V005,Zwack Unicum,INV-40833,2026-08-08,2026-08-17,921.76,bkovacs,kszabo
+P01337,V007,Hungarian Linen Services,INV-41000,2026-07-31,2026-08-17,15320.17,kszabo,mtoth
+P01338,V007,Hungarian Linen Services,INV-41058,2026-08-05,2026-08-17,3514.56,bkovacs,kszabo
+P01339,V013,IT Systems Zrt,INV-41461,2026-07-25,2026-08-17,6527.25,kszabo,bkovacs
+P01340,V021,Pannon Advisory Kft,PA-101,2026-08-15,2026-08-17,9440.11,kszabo,kszabo
+P01341,V001,Metro Kft,INV-40011,2026-07-30,2026-08-18,6960.39,bkovacs,kszabo
+P01342,V001,Metro Kft,INV-40192,2026-08-05,2026-08-18,3708.15,kszabo,bkovacs
+P01343,V002,Budapest Fresh Produce,INV-40304,2026-07-20,2026-08-18,458.91,bkovacs,kszabo
+P01344,V002,Budapest Fresh Produce,INV-40348,2026-07-27,2026-08-18,186.31,bkovacs,kszabo
+P01345,V003,Fish Market Hungary,INV-40611,2026-08-09,2026-08-18,1685.28,kszabo,bkovacs
+P01346,V003,Fish Market Hungary,INV-40686,2026-07-22,2026-08-18,3006.44,kszabo,bkovacs
+P01347,V010,Florist Bp,INV-41360,2026-07-27,2026-08-18,1686.03,kszabo,bkovacs
+P01348,V013,IT Systems Zrt,INV-41457,2026-08-13,2026-08-18,9017.56,bkovacs,kszabo
+P01349,V001,Metro Kft,INV-40010,2026-08-06,2026-08-19,8436.8,kszabo,bkovacs
+P01350,V001,Metro Kft,INV-40019,2026-07-22,2026-08-19,1375.55,bkovacs,kszabo
+P01351,V001,Metro Kft,INV-40240,2026-08-13,2026-08-19,1815.27,bkovacs,kszabo
+P01352,V002,Budapest Fresh Produce,INV-40384,2026-07-22,2026-08-19,1039.21,bkovacs,kszabo
+P01353,V003,Fish Market Hungary,INV-40574,2026-08-14,2026-08-19,11126.05,kszabo,mtoth
+P01354,V003,Fish Market Hungary,INV-40588,2026-07-31,2026-08-19,442.38,bkovacs,kszabo
+P01355,V007,Hungarian Linen Services,INV-40999,2026-07-31,2026-08-19,3014.54,bkovacs,kszabo
+P01356,V016,Securitas Hungary,INV-41521,2026-07-28,2026-08-19,10520.45,bkovacs,mtoth
+P01357,V001,Metro Kft,INV-40109,2026-08-09,2026-08-20,2572.8,bkovacs,kszabo
+P01358,V001,Metro Kft,INV-40164,2026-08-10,2026-08-20,3824.99,bkovacs,kszabo
+P01359,V004,Wine Cellar Tokaj,INV-40736,2026-08-15,2026-08-20,892.52,kszabo,bkovacs
+P01360,V005,Zwack Unicum,INV-40843,2026-08-09,2026-08-20,5409.56,bkovacs,kszabo
+P01361,V009,Cleaning Supplies Kft,INV-41190,2026-07-25,2026-08-20,1585.13,kszabo,bkovacs
+P01362,V012,Fovarosi Vizmuvek,INV-41433,2026-08-11,2026-08-20,1948.12,kszabo,bkovacs
+P01363,V001,Metro Kft,INV-40238,2026-07-26,2026-08-21,1328.36,bkovacs,kszabo
+P01364,V002,Budapest Fresh Produce,INV-40280,2026-07-30,2026-08-21,2012.27,kszabo,bkovacs
+P01365,V002,Budapest Fresh Produce,INV-40496,2026-07-27,2026-08-21,1831.83,kszabo,bkovacs
+P01366,V003,Fish Market Hungary,INV-40674,2026-08-11,2026-08-21,2249.72,kszabo,bkovacs
+P01367,V003,Fish Market Hungary,INV-40690,2026-08-12,2026-08-21,414.52,kszabo,bkovacs
+P01368,V008,Laundry Pro Kft,INV-41100,2026-08-08,2026-08-21,6051.8,kszabo,bkovacs
+P01369,V010,Florist Bp,INV-41370,2026-07-28,2026-08-21,3363.63,bkovacs,kszabo
+P01370,V020,Spa Products Europe,INV-41658,2026-08-10,2026-08-21,1646.54,bkovacs,kszabo
+P01371,V001,Metro Kft,INV-40131,2026-08-16,2026-08-24,1533.54,kszabo,bkovacs
+P01372,V002,Budapest Fresh Produce,INV-40286,2026-08-01,2026-08-24,8835.91,kszabo,bkovacs
+P01373,V002,Budapest Fresh Produce,INV-40419,2026-07-26,2026-08-24,3179.95,kszabo,bkovacs
+P01374,V003,Fish Market Hungary,INV-40662,2026-08-14,2026-08-24,1545.43,kszabo,bkovacs
+P01375,V006,Coffee Bean Ltd,INV-40954,2026-08-02,2026-08-24,1051.76,kszabo,bkovacs
+P01376,V013,IT Systems Zrt,INV-41449,2026-08-03,2026-08-24,1374.8,kszabo,bkovacs
+P01377,V002,Budapest Fresh Produce,INV-40486,2026-08-08,2026-08-25,1033.61,kszabo,bkovacs
+P01378,V003,Fish Market Hungary,INV-40590,2026-08-01,2026-08-25,1226.62,bkovacs,kszabo
+P01379,V007,Hungarian Linen Services,INV-41068,2026-07-27,2026-08-25,8723.2,kszabo,bkovacs
+P01380,V008,Laundry Pro Kft,INV-41150,2026-08-10,2026-08-25,3559.8,bkovacs,kszabo
+P01381,V009,Cleaning Supplies Kft,INV-41224,2026-07-27,2026-08-25,1314.34,bkovacs,kszabo
+P01382,V009,Cleaning Supplies Kft,INV-41255,2026-08-15,2026-08-25,1494.07,bkovacs,kszabo
+P01383,V001,Metro Kft,INV-40187,2026-08-20,2026-08-26,459.5,kszabo,bkovacs
+P01384,V003,Fish Market Hungary,INV-40569,2026-08-20,2026-08-26,1040.91,kszabo,bkovacs
+P01385,V011,Elektro Energia,INV-41414,2026-08-11,2026-08-26,17588.48,kszabo,mtoth
+P01386,V001,Metro Kft,INV-40048,2026-08-09,2026-08-27,1654.94,kszabo,bkovacs
+P01387,V002,Budapest Fresh Produce,INV-40428,2026-08-02,2026-08-27,4405.93,bkovacs,kszabo
+P01388,V002,Budapest Fresh Produce,INV-40473,2026-08-09,2026-08-27,678.46,bkovacs,kszabo
+P01389,V003,Fish Market Hungary,INV-40629,2026-08-07,2026-08-27,2357.54,bkovacs,kszabo
+P01390,V004,Wine Cellar Tokaj,INV-40790,2026-08-03,2026-08-27,4313.55,kszabo,bkovacs
+P01391,V007,Hungarian Linen Services,INV-41029,2026-08-08,2026-08-27,1144.12,kszabo,bkovacs
+P01392,V013,IT Systems Zrt,INV-41472,2026-08-04,2026-08-27,22066.53,kszabo,mtoth
+P01393,V001,Metro Kft,INV-40184,2026-08-01,2026-08-28,1383.79,bkovacs,kszabo
+P01394,V001,Metro Kft,INV-40253,2026-08-11,2026-08-28,2547.05,kszabo,bkovacs
+P01395,V002,Budapest Fresh Produce,INV-40343,2026-08-01,2026-08-28,1674.81,kszabo,bkovacs
+P01396,V002,Budapest Fresh Produce,INV-40522,2026-08-07,2026-08-28,584.71,bkovacs,kszabo
+P01397,V003,Fish Market Hungary,INV-40671,2026-08-20,2026-08-28,22814.86,kszabo,mtoth
+P01398,V006,Coffee Bean Ltd,INV-40945,2026-07-30,2026-08-28,2372.38,kszabo,bkovacs
+P01399,V007,Hungarian Linen Services,INV-40993,2026-08-22,2026-08-28,1555.0,bkovacs,kszabo
+P01400,V009,Cleaning Supplies Kft,INV-41195,2026-08-22,2026-08-28,875.9,bkovacs,kszabo
+P01401,V019,Pest Plumbing Services,INV-41616,2026-08-06,2026-08-28,191.63,bkovacs,kszabo
+P01402,V001,Metro Kft,INV-40163,2026-08-19,2026-08-31,4436.04,bkovacs,kszabo
+P01403,V006,Coffee Bean Ltd,INV-40939,2026-08-10,2026-08-31,195.83,kszabo,bkovacs
+P01404,V007,Hungarian Linen Services,INV-41020,2026-08-10,2026-08-31,9553.07,kszabo,bkovacs
+P01405,V007,Hungarian Linen Services,INV-41063,2026-08-13,2026-08-31,772.31,kszabo,bkovacs
+P01406,V008,Laundry Pro Kft,INV-41169,2026-08-24,2026-08-31,12091.29,bkovacs,mtoth
+P01407,V009,Cleaning Supplies Kft,INV-41260,2026-08-09,2026-08-31,1938.36,bkovacs,kszabo
+P01408,V002,Budapest Fresh Produce,INV-40414,2026-08-07,2026-09-01,2217.5,bkovacs,kszabo
+P01409,V002,Budapest Fresh Produce,INV-40478,2026-08-19,2026-09-01,1099.47,bkovacs,kszabo
+P01410,V004,Wine Cellar Tokaj,INV-40733,2026-08-23,2026-09-01,6077.38,kszabo,bkovacs
+P01411,V004,Wine Cellar Tokaj,INV-40786,2026-08-03,2026-09-01,3876.39,bkovacs,kszabo
+P01412,V005,Zwack Unicum,INV-40835,2026-08-05,2026-09-01,1020.57,bkovacs,kszabo
+P01413,V008,Laundry Pro Kft,INV-41109,2026-08-12,2026-09-01,1555.05,bkovacs,kszabo
+P01414,V009,Cleaning Supplies Kft,INV-41204,2026-08-09,2026-09-01,977.95,kszabo,bkovacs
+P01415,V013,IT Systems Zrt,INV-41445,2026-08-10,2026-09-01,13264.5,kszabo,mtoth
+P01416,V002,Budapest Fresh Produce,INV-40461,2026-08-14,2026-09-02,625.79,kszabo,bkovacs
+P01417,V004,Wine Cellar Tokaj,INV-40759,2026-08-05,2026-09-02,22491.12,bkovacs,mtoth
+P01418,V005,Zwack Unicum,INV-40794,2026-08-22,2026-09-02,1813.4,kszabo,bkovacs
+P01419,V007,Hungarian Linen Services,INV-41015,2026-08-05,2026-09-02,861.88,bkovacs,kszabo
+P01420,V008,Laundry Pro Kft,INV-41086,2026-08-28,2026-09-02,2291.51,kszabo,bkovacs
+P01421,V009,Cleaning Supplies Kft,INV-41192,2026-08-20,2026-09-02,7679.59,bkovacs,kszabo
+P01422,V009,Cleaning Supplies Kft,INV-41285,2026-08-16,2026-09-02,460.73,kszabo,bkovacs
+P01423,V009,Cleaning Supplies Kft,INV-41308,2026-08-16,2026-09-02,1109.69,bkovacs,kszabo
+P01424,V001,Metro Kft,INV-40052,2026-08-12,2026-09-03,927.77,bkovacs,kszabo
+P01425,V002,Budapest Fresh Produce,INV-40418,2026-08-09,2026-09-03,453.95,bkovacs,kszabo
+P01426,V006,Coffee Bean Ltd,INV-40864,2026-08-29,2026-09-03,742.3,bkovacs,kszabo
+P01427,V006,Coffee Bean Ltd,INV-40946,2026-08-13,2026-09-03,736.09,bkovacs,kszabo
+P01428,V008,Laundry Pro Kft,INV-41120,2026-08-13,2026-09-03,4823.0,kszabo,bkovacs
+P01429,V001,Metro Kft,INV-40178,2026-08-07,2026-09-04,3825.39,bkovacs,kszabo
+P01430,V002,Budapest Fresh Produce,INV-40303,2026-08-18,2026-09-04,1728.7,kszabo,bkovacs
+P01431,V002,Budapest Fresh Produce,INV-40398,2026-08-17,2026-09-04,384.87,kszabo,bkovacs
+P01432,V004,Wine Cellar Tokaj,INV-40766,2026-08-27,2026-09-04,2982.34,kszabo,bkovacs
+P01433,V004,Wine Cellar Tokaj,INV-40767,2026-08-26,2026-09-04,6310.56,bkovacs,kszabo
+P01434,V007,Hungarian Linen Services,INV-40974,2026-08-12,2026-09-04,5645.19,bkovacs,kszabo
+P01435,V008,Laundry Pro Kft,INV-41108,2026-08-23,2026-09-04,3014.29,kszabo,bkovacs
+P01436,V010,Florist Bp,INV-41377,2026-08-30,2026-09-04,1833.24,kszabo,bkovacs
+P01437,V016,Securitas Hungary,INV-41515,2026-08-27,2026-09-04,8343.85,bkovacs,kszabo
+P01438,V001,Metro Kft,INV-40075,2026-08-15,2026-09-07,85.74,bkovacs,kszabo
+P01439,V001,Metro Kft,INV-40210,2026-08-31,2026-09-07,1782.64,kszabo,bkovacs
+P01440,V004,Wine Cellar Tokaj,INV-40773,2026-09-01,2026-09-07,3521.28,kszabo,bkovacs
+P01441,V010,Florist Bp,INV-41389,2026-08-20,2026-09-07,560.18,bkovacs,kszabo
+P01442,V010,Florist Bp,INV-41409,2026-08-19,2026-09-07,580.04,kszabo,bkovacs
+P01443,V014,Opera Hospitality Software,INV-41484,2026-08-29,2026-09-07,10470.11,kszabo,mtoth
+P01444,V001,Metro Kft,INV-40070,2026-08-28,2026-09-08,9015.14,bkovacs,kszabo
+P01445,V005,Zwack Unicum,INV-40844,2026-08-20,2026-09-08,358.1,kszabo,bkovacs
+P01446,V006,Coffee Bean Ltd,INV-40907,2026-08-29,2026-09-08,1235.25,kszabo,bkovacs
+P01447,V001,Metro Kft,INV-40040,2026-08-27,2026-09-09,2437.03,bkovacs,kszabo
+P01448,V002,Budapest Fresh Produce,INV-40560,2026-09-04,2026-09-09,996.22,kszabo,bkovacs
+P01449,V003,Fish Market Hungary,INV-40659,2026-08-16,2026-09-09,981.73,bkovacs,kszabo
+P01450,V003,Fish Market Hungary,INV-40673,2026-08-28,2026-09-09,557.52,bkovacs,kszabo
+P01451,V006,Coffee Bean Ltd,INV-40904,2026-08-31,2026-09-09,883.03,kszabo,bkovacs
+P01452,V006,Coffee Bean Ltd,INV-40934,2026-08-28,2026-09-09,2824.62,bkovacs,kszabo
+P01453,V019,Pest Plumbing Services,INV-41578,2026-08-12,2026-09-09,2358.3,bkovacs,kszabo
+P01454,V001,Metro Kft,INV-40099,2026-08-31,2026-09-10,4694.97,bkovacs,kszabo
+P01455,V002,Budapest Fresh Produce,INV-40559,2026-08-17,2026-09-10,1714.52,bkovacs,kszabo
+P01456,V008,Laundry Pro Kft,INV-41106,2026-09-03,2026-09-10,887.46,bkovacs,kszabo
+P01457,V010,Florist Bp,INV-41345,2026-08-19,2026-09-10,2096.97,kszabo,bkovacs
+P01458,V001,Metro Kft,INV-40088,2026-08-25,2026-09-11,618.94,bkovacs,kszabo
+P01459,V001,Metro Kft,INV-40228,2026-08-28,2026-09-11,2911.06,kszabo,bkovacs
+P01460,V002,Budapest Fresh Produce,INV-40278,2026-08-14,2026-09-11,1892.67,kszabo,bkovacs
+P01461,V002,Budapest Fresh Produce,INV-40556,2026-09-05,2026-09-11,1548.45,kszabo,bkovacs
+P01462,V008,Laundry Pro Kft,INV-41099,2026-08-18,2026-09-11,1739.86,kszabo,bkovacs
+P01463,V009,Cleaning Supplies Kft,INV-41288,2026-09-06,2026-09-11,1942.33,bkovacs,kszabo
+P01464,V013,IT Systems Zrt,INV-41443,2026-08-18,2026-09-11,7255.37,kszabo,bkovacs
+P01465,V017,Marketing Partners Kft,INV-41526,2026-08-25,2026-09-11,3686.09,bkovacs,kszabo
+P01466,V019,Pest Plumbing Services,INV-41621,2026-09-01,2026-09-11,350.44,kszabo,bkovacs
+P01467,V001,Metro Kft,INV-40067,2026-09-02,2026-09-14,1132.63,bkovacs,kszabo
+P01468,V002,Budapest Fresh Produce,INV-40309,2026-09-04,2026-09-14,6367.68,kszabo,bkovacs
+P01469,V002,Budapest Fresh Produce,INV-40465,2026-09-01,2026-09-14,1790.24,kszabo,bkovacs
+P01470,V004,Wine Cellar Tokaj,INV-40741,2026-08-27,2026-09-14,28508.31,kszabo,mtoth
+P01471,V007,Hungarian Linen Services,INV-40982,2026-08-17,2026-09-14,3156.31,bkovacs,kszabo
+P01472,V007,Hungarian Linen Services,INV-40985,2026-08-21,2026-09-14,572.14,bkovacs,kszabo
+P01473,V008,Laundry Pro Kft,INV-41164,2026-09-07,2026-09-14,2230.72,kszabo,bkovacs
+P01474,V010,Florist Bp,INV-41371,2026-09-07,2026-09-14,266.98,kszabo,bkovacs
+P01475,V010,Florist Bp,INV-41379,2026-09-04,2026-09-14,4409.94,kszabo,bkovacs
+P01476,V014,Opera Hospitality Software,INV-41480,2026-08-20,2026-09-14,7189.02,kszabo,bkovacs
+P01477,V015,Schindler Lifts,INV-41497,2026-08-25,2026-09-14,1288.97,bkovacs,kszabo
+P01478,V001,Metro Kft,INV-40177,2026-08-24,2026-09-15,1157.67,kszabo,bkovacs
+P01479,V001,Metro Kft,INV-40194,2026-08-19,2026-09-15,2912.96,bkovacs,kszabo
+P01480,V006,Coffee Bean Ltd,INV-40890,2026-08-31,2026-09-15,1000.75,kszabo,bkovacs
+P01481,V009,Cleaning Supplies Kft,INV-41209,2026-09-05,2026-09-15,689.71,bkovacs,kszabo
+P01482,V001,Metro Kft,INV-40227,2026-08-28,2026-09-16,434.25,kszabo,bkovacs
+P01483,V002,Budapest Fresh Produce,INV-40537,2026-09-08,2026-09-16,607.35,bkovacs,kszabo
+P01484,V002,Budapest Fresh Produce,INV-40558,2026-08-18,2026-09-16,1280.57,bkovacs,kszabo
+P01485,V003,Fish Market Hungary,INV-40689,2026-08-21,2026-09-16,4746.38,kszabo,bkovacs
+P01486,V008,Laundry Pro Kft,INV-41160,2026-08-23,2026-09-16,8678.64,kszabo,bkovacs
+P01487,V009,Cleaning Supplies Kft,INV-41216,2026-09-03,2026-09-16,2043.63,kszabo,bkovacs
+P01488,V009,Cleaning Supplies Kft,INV-41221,2026-09-11,2026-09-16,241.21,bkovacs,kszabo
+P01489,V009,Cleaning Supplies Kft,INV-41315,2026-08-22,2026-09-16,984.5,kszabo,bkovacs
+P01490,V017,Marketing Partners Kft,INV-41532,2026-08-23,2026-09-16,68706.51,bkovacs,mtoth
+P01491,V020,Spa Products Europe,INV-41647,2026-08-21,2026-09-16,3007.3,kszabo,bkovacs
+P01492,V002,Budapest Fresh Produce,INV-40434,2026-08-26,2026-09-17,289.49,bkovacs,kszabo
+P01493,V003,Fish Market Hungary,INV-40599,2026-09-07,2026-09-17,1338.9,bkovacs,kszabo
+P01494,V003,Fish Market Hungary,INV-40665,2026-08-28,2026-09-17,5070.0,kszabo,bkovacs
+P01495,V008,Laundry Pro Kft,INV-41078,2026-09-04,2026-09-17,2997.14,bkovacs,kszabo
+P01496,V002,Budapest Fresh Produce,INV-40317,2026-09-07,2026-09-18,1111.69,bkovacs,kszabo
+P01497,V002,Budapest Fresh Produce,INV-40477,2026-08-30,2026-09-18,634.18,kszabo,bkovacs
+P01498,V003,Fish Market Hungary,INV-40652,2026-09-13,2026-09-18,1083.72,kszabo,bkovacs
+P01499,V009,Cleaning Supplies Kft,INV-41297,2026-09-10,2026-09-18,193.92,bkovacs,kszabo
+P01500,V001,Metro Kft,INV-40120,2026-09-12,2026-09-21,35912.67,kszabo,mtoth
+P01501,V002,Budapest Fresh Produce,INV-40446,2026-09-13,2026-09-21,1120.79,bkovacs,kszabo
+P01502,V004,Wine Cellar Tokaj,INV-40721,2026-09-12,2026-09-21,7335.28,kszabo,bkovacs
+P01503,V012,Fovarosi Vizmuvek,INV-41425,2026-08-25,2026-09-21,7146.73,bkovacs,kszabo
+P01504,V021,Pannon Advisory Kft,PA-109,2026-09-19,2026-09-21,9957.54,kszabo,kszabo
+P01505,V001,Metro Kft,INV-40183,2026-08-29,2026-09-22,2514.26,kszabo,bkovacs
+P01506,V001,Metro Kft,INV-40256,2026-08-31,2026-09-22,3436.53,kszabo,bkovacs
+P01507,V002,Budapest Fresh Produce,INV-40328,2026-09-08,2026-09-22,3520.46,kszabo,bkovacs
+P01508,V002,Budapest Fresh Produce,INV-40347,2026-09-13,2026-09-22,3801.74,bkovacs,kszabo
+P01509,V009,Cleaning Supplies Kft,INV-41306,2026-08-25,2026-09-22,4188.89,kszabo,bkovacs
+P01510,V010,Florist Bp,INV-41334,2026-08-30,2026-09-22,371.63,kszabo,bkovacs
+P01511,V001,Metro Kft,INV-40126,2026-09-11,2026-09-23,4395.47,kszabo,bkovacs
+P01512,V002,Budapest Fresh Produce,INV-40294,2026-09-05,2026-09-23,1743.91,kszabo,bkovacs
+P01513,V002,Budapest Fresh Produce,INV-40487,2026-08-28,2026-09-23,1021.27,bkovacs,kszabo
+P01514,V004,Wine Cellar Tokaj,INV-40752,2026-08-27,2026-09-23,2398.58,bkovacs,kszabo
+P01515,V008,Laundry Pro Kft,INV-41082,2026-09-16,2026-09-23,1410.42,bkovacs,kszabo
+P01516,V008,Laundry Pro Kft,INV-41171,2026-09-13,2026-09-23,9918.84,bkovacs,kszabo
+P01517,V001,Metro Kft,INV-40107,2026-09-08,2026-09-24,2680.96,kszabo,bkovacs
+P01518,V002,Budapest Fresh Produce,INV-40515,2026-09-09,2026-09-24,631.5,bkovacs,kszabo
+P01519,V003,Fish Market Hungary,INV-40583,2026-09-16,2026-09-24,671.26,bkovacs,kszabo
+P01520,V003,Fish Market Hungary,INV-40706,2026-09-13,2026-09-24,5551.9,bkovacs,kszabo
+P01521,V008,Laundry Pro Kft,INV-41092,2026-09-08,2026-09-24,2884.93,bkovacs,kszabo
+P01522,V009,Cleaning Supplies Kft,INV-41254,2026-08-30,2026-09-24,1284.93,kszabo,bkovacs
+P01523,V002,Budapest Fresh Produce,INV-40382,2026-09-07,2026-09-25,1146.0,bkovacs,kszabo
+P01524,V002,Budapest Fresh Produce,INV-40531,2026-09-18,2026-09-25,1221.97,bkovacs,kszabo
+P01525,V003,Fish Market Hungary,INV-40616,2026-09-08,2026-09-25,4451.51,kszabo,bkovacs
+P01526,V004,Wine Cellar Tokaj,INV-40757,2026-09-20,2026-09-25,2229.69,kszabo,bkovacs
+P01527,V006,Coffee Bean Ltd,INV-40913,2026-09-11,2026-09-25,466.05,kszabo,bkovacs
+P01528,V006,Coffee Bean Ltd,INV-40944,2026-09-07,2026-09-25,323.3,bkovacs,kszabo
+P01529,V009,Cleaning Supplies Kft,INV-41240,2026-09-03,2026-09-25,308.24,kszabo,bkovacs
+P01530,V021,Pannon Advisory Kft,PA-110,2026-09-23,2026-09-25,9860.1,kszabo,kszabo
+P01531,V003,Fish Market Hungary,INV-40692,2026-09-20,2026-09-28,11730.45,bkovacs,mtoth
+P01532,V006,Coffee Bean Ltd,INV-40918,2026-09-08,2026-09-28,2875.21,kszabo,bkovacs
+P01533,V008,Laundry Pro Kft,INV-41166,2026-09-01,2026-09-28,2697.39,kszabo,bkovacs
+P01534,V010,Florist Bp,INV-41407,2026-09-09,2026-09-28,1596.99,bkovacs,kszabo
+P01535,V001,Metro Kft,INV-40112,2026-09-06,2026-09-29,5935.6,kszabo,bkovacs
+P01536,V001,Metro Kft,INV-40254,2026-09-01,2026-09-29,6159.92,bkovacs,kszabo
+P01537,V002,Budapest Fresh Produce,INV-40313,2026-09-15,2026-09-29,818.07,bkovacs,kszabo
+P01538,V002,Budapest Fresh Produce,INV-40518,2026-09-06,2026-09-29,557.53,bkovacs,kszabo
+P01539,V006,Coffee Bean Ltd,INV-40896,2026-09-24,2026-09-29,946.56,bkovacs,kszabo
+P01540,V007,Hungarian Linen Services,INV-41021,2026-09-01,2026-09-30,5725.15,kszabo,bkovacs
+P01541,V007,Hungarian Linen Services,INV-41055,2026-09-06,2026-09-30,1011.1,kszabo,bkovacs
+P01542,V009,Cleaning Supplies Kft,INV-41281,2026-09-15,2026-09-30,337.0,bkovacs,kszabo
+P01543,V010,Florist Bp,INV-41376,2026-09-25,2026-09-30,792.6,bkovacs,kszabo
+P01544,V001,Metro Kft,INV-40036,2026-09-12,2026-10-01,429.52,bkovacs,kszabo
+P01545,V001,Metro Kft,INV-40082,2026-09-22,2026-10-01,5770.5,bkovacs,kszabo
+P01546,V001,Metro Kft,INV-40229,2026-09-19,2026-10-01,1782.18,bkovacs,kszabo
+P01547,V002,Budapest Fresh Produce,INV-40417,2026-09-05,2026-10-01,2637.67,kszabo,bkovacs
+P01548,V002,Budapest Fresh Produce,INV-40511,2026-09-14,2026-10-01,715.34,bkovacs,kszabo
+P01549,V007,Hungarian Linen Services,INV-41061,2026-09-26,2026-10-01,5678.81,bkovacs,kszabo
+P01550,V008,Laundry Pro Kft,INV-41175,2026-09-10,2026-10-01,28018.45,kszabo,mtoth
+P01551,V012,Fovarosi Vizmuvek,INV-41423,2026-09-25,2026-10-01,2723.88,bkovacs,kszabo
+P01552,V003,Fish Market Hungary,INV-40688,2026-09-04,2026-10-02,1339.57,kszabo,bkovacs
+P01553,V001,Metro Kft,INV-40049,2026-09-17,2026-10-05,6368.57,bkovacs,kszabo
+P01554,V001,Metro Kft,INV-40161,2026-09-06,2026-10-05,2992.51,bkovacs,kszabo
+P01555,V002,Budapest Fresh Produce,INV-40269,2026-09-23,2026-10-05,262.54,bkovacs,kszabo
+P01556,V003,Fish Market Hungary,INV-40600,2026-09-08,2026-10-05,3442.13,kszabo,bkovacs
+P01557,V019,Pest Plumbing Services,INV-41606,2026-09-16,2026-10-05,116.64,bkovacs,kszabo
+P01558,V002,Budapest Fresh Produce,INV-40298,2026-09-16,2026-10-06,4336.19,bkovacs,kszabo
+P01559,V003,Fish Market Hungary,INV-40666,2026-10-01,2026-10-06,2240.89,bkovacs,kszabo
+P01560,V006,Coffee Bean Ltd,INV-40878,2026-09-27,2026-10-06,1406.01,kszabo,bkovacs
+P01561,V006,Coffee Bean Ltd,INV-40949,2026-09-10,2026-10-06,238.63,bkovacs,kszabo
+P01562,V008,Laundry Pro Kft,INV-41133,2026-09-11,2026-10-06,5092.0,kszabo,bkovacs
+P01563,V008,Laundry Pro Kft,INV-41178,2026-09-11,2026-10-06,13886.25,kszabo,mtoth
+P01564,V009,Cleaning Supplies Kft,INV-41250,2026-09-26,2026-10-06,99.4,bkovacs,kszabo
+P01565,V010,Florist Bp,INV-41322,2026-09-30,2026-10-06,151.76,bkovacs,kszabo
+P01566,V015,Schindler Lifts,INV-41504,2026-09-10,2026-10-06,7040.9,bkovacs,kszabo
+P01567,V017,Marketing Partners Kft,INV-41551,2026-09-15,2026-10-06,2141.37,bkovacs,kszabo
+P01568,V001,Metro Kft,INV-40031,2026-09-19,2026-10-07,9884.55,kszabo,bkovacs
+P01569,V001,Metro Kft,INV-40098,2026-09-19,2026-10-07,910.4,kszabo,bkovacs
+P01570,V001,Metro Kft,INV-40166,2026-09-17,2026-10-07,2292.61,bkovacs,kszabo
+P01571,V001,Metro Kft,INV-40168,2026-09-25,2026-10-07,3890.61,kszabo,bkovacs
+P01572,V002,Budapest Fresh Produce,INV-40337,2026-09-28,2026-10-07,930.57,bkovacs,kszabo
+P01573,V006,Coffee Bean Ltd,INV-40930,2026-09-09,2026-10-07,1973.08,kszabo,bkovacs
+P01574,V009,Cleaning Supplies Kft,INV-41286,2026-09-20,2026-10-07,768.72,kszabo,bkovacs
+P01575,V010,Florist Bp,INV-41323,2026-09-10,2026-10-07,5549.88,kszabo,bkovacs
+P01576,V010,Florist Bp,INV-41399,2026-09-19,2026-10-07,729.6,kszabo,bkovacs
+P01577,V019,Pest Plumbing Services,INV-41630,2026-09-13,2026-10-07,3158.25,bkovacs,kszabo
+P01578,V020,Spa Products Europe,INV-41662,2026-09-18,2026-10-07,2974.1,kszabo,bkovacs
+P01579,V001,Metro Kft,INV-40009,2026-09-10,2026-10-08,872.59,bkovacs,kszabo
+P01580,V001,Metro Kft,INV-40215,2026-09-26,2026-10-08,4725.27,bkovacs,kszabo
+P01581,V001,Metro Kft,INV-40237,2026-09-18,2026-10-08,2783.05,kszabo,bkovacs
+P01582,V002,Budapest Fresh Produce,INV-40437,2026-10-02,2026-10-08,2364.66,bkovacs,kszabo
+P01583,V003,Fish Market Hungary,INV-40687,2026-09-10,2026-10-08,661.64,kszabo,bkovacs
+P01584,V005,Zwack Unicum,INV-40837,2026-09-17,2026-10-08,3288.26,bkovacs,kszabo
+P01585,V005,Zwack Unicum,INV-40839,2026-09-18,2026-10-08,462.19,kszabo,bkovacs
+P01586,V008,Laundry Pro Kft,INV-41094,2026-09-11,2026-10-08,1939.52,kszabo,bkovacs
+P01587,V012,Fovarosi Vizmuvek,INV-41424,2026-09-10,2026-10-08,4928.1,kszabo,bkovacs
+P01588,V012,Fovarosi Vizmuvek,INV-41431,2026-09-28,2026-10-08,19293.91,kszabo,mtoth
+P01589,V001,Metro Kft,INV-40034,2026-09-19,2026-10-09,1375.25,bkovacs,kszabo
+P01590,V002,Budapest Fresh Produce,INV-40435,2026-10-04,2026-10-09,354.76,kszabo,bkovacs
+P01591,V002,Budapest Fresh Produce,INV-40469,2026-09-27,2026-10-09,476.85,kszabo,bkovacs
+P01592,V004,Wine Cellar Tokaj,INV-40780,2026-09-11,2026-10-09,2535.27,bkovacs,kszabo
+P01593,V005,Zwack Unicum,INV-40801,2026-09-13,2026-10-09,491.65,bkovacs,kszabo
+P01594,V006,Coffee Bean Ltd,INV-40929,2026-09-19,2026-10-09,864.0,bkovacs,kszabo
+P01595,V008,Laundry Pro Kft,INV-41124,2026-09-10,2026-10-09,3714.31,kszabo,bkovacs
+P01596,V010,Florist Bp,INV-41378,2026-09-23,2026-10-09,597.38,kszabo,bkovacs
+P01597,V010,Florist Bp,INV-41383,2026-09-11,2026-10-09,319.26,bkovacs,kszabo
+P01598,V016,Securitas Hungary,INV-41520,2026-09-24,2026-10-09,22521.28,kszabo,mtoth
+P01599,V002,Budapest Fresh Produce,INV-40352,2026-09-15,2026-10-12,357.33,kszabo,bkovacs
+P01600,V002,Budapest Fresh Produce,INV-40482,2026-09-18,2026-10-12,585.66,kszabo,bkovacs
+P01601,V003,Fish Market Hungary,INV-40685,2026-10-05,2026-10-12,3279.86,bkovacs,kszabo
+P01602,V005,Zwack Unicum,INV-40822,2026-09-18,2026-10-12,2538.28,kszabo,bkovacs
+P01603,V015,Schindler Lifts,INV-41505,2026-10-07,2026-10-12,2056.35,bkovacs,kszabo
+P01604,V001,Metro Kft,INV-40028,2026-10-01,2026-10-13,1479.37,kszabo,bkovacs
+P01605,V001,Metro Kft,INV-40143,2026-09-29,2026-10-13,4965.36,bkovacs,kszabo
+P01606,V002,Budapest Fresh Produce,INV-40442,2026-09-19,2026-10-13,431.51,bkovacs,kszabo
+P01607,V002,Budapest Fresh Produce,INV-40510,2026-09-16,2026-10-13,2117.11,bkovacs,kszabo
+P01608,V003,Fish Market Hungary,INV-40585,2026-10-01,2026-10-13,245.45,bkovacs,kszabo
+P01609,V004,Wine Cellar Tokaj,INV-40729,2026-09-23,2026-10-13,3712.58,bkovacs,kszabo
+P01610,V004,Wine Cellar Tokaj,INV-40788,2026-09-28,2026-10-13,2000.68,bkovacs,kszabo
+P01611,V006,Coffee Bean Ltd,INV-40906,2026-10-03,2026-10-13,753.93,kszabo,bkovacs
+P01612,V007,Hungarian Linen Services,INV-40995,2026-10-02,2026-10-13,4002.44,kszabo,bkovacs
+P01613,V007,Hungarian Linen Services,INV-41033,2026-09-29,2026-10-13,6771.91,kszabo,bkovacs
+P01614,V007,Hungarian Linen Services,INV-41050,2026-10-02,2026-10-13,6601.97,bkovacs,kszabo
+P01615,V019,Pest Plumbing Services,INV-41626,2026-10-01,2026-10-13,1146.54,bkovacs,kszabo
+P01616,V002,Budapest Fresh Produce,INV-40322,2026-09-30,2026-10-14,3408.75,bkovacs,kszabo
+P01617,V002,Budapest Fresh Produce,INV-40387,2026-09-20,2026-10-14,2499.44,kszabo,bkovacs
+P01618,V002,Budapest Fresh Produce,INV-40495,2026-09-16,2026-10-14,622.72,kszabo,bkovacs
+P01619,V003,Fish Market Hungary,INV-40601,2026-10-09,2026-10-14,516.79,kszabo,bkovacs
+P01620,V010,Florist Bp,INV-41338,2026-09-29,2026-10-14,1535.49,bkovacs,kszabo
+P01621,V017,Marketing Partners Kft,INV-41534,2026-09-23,2026-10-14,6537.72,bkovacs,kszabo
+P01622,V017,Marketing Partners Kft,INV-41547,2026-09-28,2026-10-14,2606.39,kszabo,bkovacs
+P01623,V020,Spa Products Europe,INV-41637,2026-10-08,2026-10-14,15195.71,kszabo,mtoth
+P01624,V020,Spa Products Europe,INV-41674,2026-09-19,2026-10-14,3911.7,kszabo,bkovacs
+P01625,V001,Metro Kft,INV-40188,2026-09-28,2026-10-15,2973.62,kszabo,bkovacs
+P01626,V001,Metro Kft,INV-40222,2026-09-26,2026-10-15,2387.29,bkovacs,kszabo
+P01627,V007,Hungarian Linen Services,INV-41018,2026-10-06,2026-10-15,5834.82,bkovacs,kszabo
+P01628,V018,Uniform Factory,INV-41568,2026-10-03,2026-10-15,2933.27,bkovacs,kszabo
+P01629,V001,Metro Kft,INV-40130,2026-09-19,2026-10-16,2201.55,kszabo,bkovacs
+P01630,V001,Metro Kft,INV-40147,2026-10-08,2026-10-16,3181.12,kszabo,bkovacs
+P01631,V002,Budapest Fresh Produce,INV-40543,2026-10-11,2026-10-16,512.5,bkovacs,kszabo
+P01632,V016,Securitas Hungary,INV-41522,2026-09-20,2026-10-16,6937.83,kszabo,bkovacs
+P01633,V001,Metro Kft,INV-40119,2026-10-02,2026-10-19,5597.15,bkovacs,kszabo
+P01634,V001,Metro Kft,INV-40174,2026-10-09,2026-10-19,4825.88,bkovacs,kszabo
+P01635,V002,Budapest Fresh Produce,INV-40392,2026-09-24,2026-10-19,1842.06,kszabo,bkovacs
+P01636,V004,Wine Cellar Tokaj,INV-40737,2026-09-21,2026-10-19,3767.15,bkovacs,kszabo
+P01637,V007,Hungarian Linen Services,INV-41028,2026-10-13,2026-10-19,2311.25,kszabo,bkovacs
+P01638,V009,Cleaning Supplies Kft,INV-41245,2026-09-20,2026-10-19,749.74,kszabo,bkovacs
+P01639,V010,Florist Bp,INV-41380,2026-09-27,2026-10-19,1217.55,bkovacs,kszabo
+P01640,V019,Pest Plumbing Services,INV-41604,2026-09-28,2026-10-19,1476.85,bkovacs,kszabo
+P01641,V006,Coffee Bean Ltd,INV-40865,2026-10-09,2026-10-20,1984.86,kszabo,bkovacs
+P01642,V007,Hungarian Linen Services,INV-41003,2026-10-12,2026-10-20,2152.59,kszabo,bkovacs
+P01643,V007,Hungarian Linen Services,INV-41053,2026-10-05,2026-10-20,5214.68,kszabo,bkovacs
+P01644,V008,Laundry Pro Kft,INV-41096,2026-10-04,2026-10-20,970.59,kszabo,bkovacs
+P01645,V001,Metro Kft,INV-40246,2026-09-29,2026-10-21,3476.78,bkovacs,kszabo
+P01646,V006,Coffee Bean Ltd,INV-40948,2026-10-06,2026-10-21,866.49,bkovacs,kszabo
+P01647,V010,Florist Bp,INV-41348,2026-09-23,2026-10-21,1079.3,kszabo,bkovacs
+P01648,V011,Elektro Energia,INV-41415,2026-09-29,2026-10-21,20434.81,kszabo,mtoth
+P01649,V017,Marketing Partners Kft,INV-41537,2026-10-04,2026-10-21,8028.02,kszabo,bkovacs
+P01650,V020,Spa Products Europe,INV-41665,2026-09-25,2026-10-21,3450.2,kszabo,bkovacs
+P01651,V001,Metro Kft,INV-40086,2026-09-25,2026-10-22,1352.28,kszabo,bkovacs
+P01652,V001,Metro Kft,INV-40220,2026-10-01,2026-10-22,6175.92,kszabo,bkovacs
+P01653,V001,Metro Kft,INV-40215,2026-09-26,2026-10-22,4725.27,bkovacs,kszabo
+P01654,V006,Coffee Bean Ltd,INV-40882,2026-10-09,2026-10-22,512.31,kszabo,bkovacs
+P01655,V006,Coffee Bean Ltd,INV-40891,2026-09-23,2026-10-22,1224.45,kszabo,bkovacs
+P01656,V006,Coffee Bean Ltd,INV-40901,2026-10-04,2026-10-22,269.81,bkovacs,kszabo
+P01657,V007,Hungarian Linen Services,INV-40980,2026-10-08,2026-10-22,2939.65,kszabo,bkovacs
+P01658,V008,Laundry Pro Kft,INV-41168,2026-10-06,2026-10-22,3357.11,bkovacs,kszabo
+P01659,V010,Florist Bp,INV-41408,2026-09-23,2026-10-22,512.13,kszabo,bkovacs
+P01660,V020,Spa Products Europe,INV-41676,2026-10-04,2026-10-22,1859.73,bkovacs,kszabo
+P01661,V001,Metro Kft,INV-40129,2026-09-27,2026-10-23,5481.74,kszabo,bkovacs
+P01662,V001,Metro Kft,INV-40230,2026-10-14,2026-10-23,6436.64,bkovacs,kszabo
+P01663,V003,Fish Market Hungary,INV-40636,2026-10-10,2026-10-23,797.5,kszabo,bkovacs
+P01664,V003,Fish Market Hungary,INV-40655,2026-10-07,2026-10-23,1225.71,kszabo,bkovacs
+P01665,V008,Laundry Pro Kft,INV-41159,2026-09-26,2026-10-23,6733.34,bkovacs,kszabo
+P01666,V001,Metro Kft,INV-40073,2026-10-21,2026-10-26,1298.92,bkovacs,kszabo
+P01667,V001,Metro Kft,INV-40110,2026-10-02,2026-10-26,1842.2,bkovacs,kszabo
+P01668,V001,Metro Kft,INV-40191,2026-10-19,2026-10-26,6566.54,bkovacs,kszabo
+P01669,V014,Opera Hospitality Software,INV-41478,2026-10-10,2026-10-26,5266.55,kszabo,bkovacs
+P01670,V018,Uniform Factory,INV-41565,2026-10-11,2026-10-26,21818.26,kszabo,mtoth
+P01671,V021,Pannon Advisory Kft,PA-102,2026-10-24,2026-10-26,9957.06,kszabo,kszabo
+P01672,V001,Metro Kft,INV-40200,2026-10-08,2026-10-27,1091.34,kszabo,bkovacs
+P01673,V001,Metro Kft,INV-40251,2026-10-10,2026-10-27,2122.95,bkovacs,kszabo
+P01674,V002,Budapest Fresh Produce,INV-40367,2026-10-22,2026-10-27,1637.42,kszabo,bkovacs
+P01675,V002,Budapest Fresh Produce,INV-40464,2026-10-06,2026-10-27,1251.94,kszabo,bkovacs
+P01676,V003,Fish Market Hungary,INV-40563,2026-09-30,2026-10-27,551.05,kszabo,bkovacs
+P01677,V003,Fish Market Hungary,INV-40615,2026-10-22,2026-10-27,1696.72,bkovacs,kszabo
+P01678,V003,Fish Market Hungary,INV-40648,2026-09-28,2026-10-27,814.7,bkovacs,kszabo
+P01679,V004,Wine Cellar Tokaj,INV-40717,2026-10-22,2026-10-27,7187.75,kszabo,bkovacs
+P01680,V005,Zwack Unicum,INV-40824,2026-10-18,2026-10-27,448.78,bkovacs,kszabo
+P01681,V008,Laundry Pro Kft,INV-41090,2026-10-07,2026-10-27,1451.96,kszabo,bkovacs
+P01682,V008,Laundry Pro Kft,INV-41121,2026-10-20,2026-10-27,11721.7,kszabo,mtoth
+P01683,V009,Cleaning Supplies Kft,INV-41275,2026-10-22,2026-10-27,1215.59,kszabo,bkovacs
+P01684,V019,Pest Plumbing Services,INV-41580,2026-10-08,2026-10-27,500.18,kszabo,bkovacs
+P01685,V001,Metro Kft,INV-40258,2026-10-17,2026-10-28,2112.62,bkovacs,kszabo
+P01686,V002,Budapest Fresh Produce,INV-40331,2026-10-05,2026-10-28,1335.3,kszabo,bkovacs
+P01687,V002,Budapest Fresh Produce,INV-40474,2026-10-22,2026-10-28,1714.76,bkovacs,kszabo
+P01688,V002,Budapest Fresh Produce,INV-40479,2026-10-14,2026-10-28,1257.91,bkovacs,kszabo
+P01689,V008,Laundry Pro Kft,INV-41138,2026-10-06,2026-10-28,7999.07,kszabo,bkovacs
+P01690,V009,Cleaning Supplies Kft,INV-41298,2026-10-11,2026-10-28,804.78,bkovacs,kszabo
+P01691,V010,Florist Bp,INV-41396,2026-10-09,2026-10-28,4426.28,kszabo,bkovacs
+P01692,V013,IT Systems Zrt,INV-41441,2026-09-30,2026-10-28,11041.11,bkovacs,mtoth
+P01693,V018,Uniform Factory,INV-41560,2026-10-12,2026-10-28,7485.65,bkovacs,kszabo
+P01694,V021,Pannon Advisory Kft,PA-115,2026-10-26,2026-10-28,9785.53,kszabo,kszabo
+P01695,V001,Metro Kft,INV-40045,2026-10-06,2026-10-29,1441.64,bkovacs,kszabo
+P01696,V001,Metro Kft,INV-40092,2026-10-21,2026-10-29,902.97,bkovacs,kszabo
+P01697,V001,Metro Kft,INV-40142,2026-10-15,2026-10-29,8619.7,bkovacs,kszabo
+P01698,V002,Budapest Fresh Produce,INV-40514,2026-10-17,2026-10-29,8528.19,bkovacs,kszabo
+P01699,V003,Fish Market Hungary,INV-40619,2026-10-06,2026-10-29,937.64,bkovacs,kszabo
+P01700,V006,Coffee Bean Ltd,INV-40923,2026-10-14,2026-10-29,804.47,kszabo,bkovacs
+P01701,V009,Cleaning Supplies Kft,INV-41264,2026-10-18,2026-10-29,990.36,kszabo,bkovacs
+P01702,V001,Metro Kft,INV-40104,2026-10-15,2026-10-30,8282.5,kszabo,bkovacs
+P01703,V008,Laundry Pro Kft,INV-41154,2026-10-17,2026-10-30,683.49,kszabo,bkovacs
+P01704,V009,Cleaning Supplies Kft,INV-41242,2026-10-12,2026-10-30,403.53,kszabo,bkovacs
+P01705,V020,Spa Products Europe,INV-41656,2026-10-05,2026-10-30,1875.96,bkovacs,kszabo
