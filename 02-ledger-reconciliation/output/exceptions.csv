@@ -1,0 +1,18 @@
+side,id,date,description,reference,amount,category,action
+Bank,BK0180,2026-10-31,MONTHLY ACCOUNT FEE,FEE-2610,-185.0,Bank fee not booked,Book bank charges expense in the GL
+Bank,BK0181,2026-10-31,CARD TERMINAL FEES OCT,FEE-POS-2610,-1742.36,Bank fee not booked,Book bank charges expense in the GL
+GL,GL0183,2026-10-30,Card takings AMEX 30/10,CARD-AMEX-1030,4744.95,Deposit in transit,Timing only: check it arrives in early November
+GL,GL0184,2026-10-30,Card takings VISA/MC 30/10,CARD-VISA-1030,25638.71,Deposit in transit,Timing only: check it arrives in early November
+GL,GL0186,2026-10-31,Card takings AMEX 31/10,CARD-AMEX-1031,5008.98,Deposit in transit,Timing only: check it arrives in early November
+GL,GL0187,2026-10-31,Card takings VISA/MC 31/10,CARD-VISA-1031,19285.96,Deposit in transit,Timing only: check it arrives in early November
+GL,GL0071,2026-10-12,Receipt Richter Gedeon INV-261019,INV-261019,16437.88,Duplicate GL posting,Reverse the second posting
+GL,GL0165,2026-10-26,Payment Cleaning Supplies Kft,PAY-5023,-624.14,Duplicate GL posting,Reverse the second posting
+Bank,BK0097,2026-10-18,TRANSFER IN RICHTER GEDEON,INV-261007,4380.0,GL amount error,Matches GL0109 once the GL is corrected
+Bank,BK0141,2026-10-23,TRANSFER OUT CLEANING SUPPLIES KFT,PAY-5011,-1250.0,GL amount error,Matches GL0145 once the GL is corrected
+GL,GL0109,2026-10-18,Receipt Richter Gedeon INV-261007,INV-261007,4830.0,GL amount error,"Correct GL by -450.00 (bank shows 4,380.00)"
+GL,GL0145,2026-10-23,Payment Cleaning Supplies Kft,PAY-5011,-1520.0,GL amount error,"Correct GL by +270.00 (bank shows -1,250.00)"
+Bank,BK0182,2026-10-31,INTEREST CREDIT,INT-2610,412.18,Interest not booked,Book interest income in the GL
+GL,GL0182,2026-10-29,Payment Metro Kft,PAY-5900,-4380.0,Outstanding payment,Timing only: check it clears in early November
+GL,GL0185,2026-10-30,Payment Hungarian Linen Services,PAY-5901,-2915.75,Outstanding payment,Timing only: check it clears in early November
+GL,GL0191,2026-10-31,Payment Zwack Unicum,PAY-5902,-7640.2,Outstanding payment,Timing only: check it clears in early November
+Bank,BK0125,2026-10-22,TRANSFER IN MR J SMITH,BOOKING 48211,2340.0,Unidentified receipt,Find the guest/booking and book the receipt
