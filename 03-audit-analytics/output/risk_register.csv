@@ -1,0 +1,59 @@
+rank,band,score,type,item,date,user,counterparty,amount,n_flags,flags
+1,High,10,Journal entry,JE01716,2026-10-31,kszabo,Consulting fees: Adjustment,49900.0,6,"after hours, just below review limit, linked to high-risk party, rare poster, self-approved entry, weekend"
+2,High,10,Payment,P01504,2026-09-21,kszabo,Pannon Advisory Kft,9957.54,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+3,High,10,Payment,P01671,2026-10-26,kszabo,Pannon Advisory Kft,9957.06,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+4,High,10,Payment,P00781,2026-04-13,kszabo,Pannon Advisory Kft,9903.48,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+5,High,10,Payment,P00767,2026-04-08,kszabo,Pannon Advisory Kft,9864.19,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+6,High,10,Payment,P01530,2026-09-25,kszabo,Pannon Advisory Kft,9860.1,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+7,High,10,Payment,P01095,2026-06-18,kszabo,Pannon Advisory Kft,9790.94,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+8,High,10,Payment,P01694,2026-10-28,kszabo,Pannon Advisory Kft,9785.53,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+9,High,10,Payment,P01323,2026-08-13,kszabo,Pannon Advisory Kft,9737.58,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+10,High,10,Payment,P00667,2026-03-19,kszabo,Pannon Advisory Kft,9705.22,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+11,High,10,Payment,P01252,2026-07-27,kszabo,Pannon Advisory Kft,9687.53,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+12,High,10,Payment,P01105,2026-06-19,kszabo,Pannon Advisory Kft,9658.66,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+13,High,10,Payment,P00915,2026-05-07,kszabo,Pannon Advisory Kft,9633.01,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+14,High,10,Payment,P01030,2026-06-05,kszabo,Pannon Advisory Kft,9614.29,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+15,High,10,Payment,P00766,2026-04-08,kszabo,Pannon Advisory Kft,9516.6,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+16,High,10,Payment,P01085,2026-06-17,kszabo,Pannon Advisory Kft,9458.34,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+17,High,10,Payment,P00856,2026-04-27,kszabo,Pannon Advisory Kft,9454.16,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+18,High,10,Payment,P01340,2026-08-17,kszabo,Pannon Advisory Kft,9440.11,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+19,High,10,Payment,P00827,2026-04-21,kszabo,Pannon Advisory Kft,9408.9,4,"just below payment limit, linked to high-risk party, new vendor created by payment clerk, self-approved payment"
+20,High,6,Journal entry,JE01178,2026-07-09,kszabo,Consulting fees: Pannon Advisory,26480.3,3,"linked to high-risk party, rare poster, self-approved entry"
+21,High,6,Journal entry,JE00441,2026-01-29,kszabo,Consulting fees: Pannon Advisory,18340.75,3,"linked to high-risk party, rare poster, self-approved entry"
+22,High,6,Journal entry,JE01511,2026-09-17,kszabo,Consulting fees: Pannon Advisory,12150.6,3,"linked to high-risk party, rare poster, self-approved entry"
+23,High,6,Journal entry,JE00794,2026-04-16,kszabo,Consulting fees: Pannon Advisory,7605.0,3,"linked to high-risk party, rare poster, self-approved entry"
+24,High,5,Payment,P00532,2026-02-20,kszabo,Budapest Fresh Produce,3682.23,2,"duplicate payment (exact), linked to high-risk party"
+25,High,5,Payment,P00431,2026-01-31,kszabo,Metro Kft,3582.68,2,"duplicate payment (exact), linked to high-risk party"
+26,High,5,Payment,P00566,2026-02-26,kszabo,Budapest Fresh Produce,1376.13,2,"duplicate payment (exact), linked to high-risk party"
+27,Medium,4,Journal entry,JE01421,2026-08-27,anagy,Consulting fees: Pannon Advisory,49975.1,2,"just below review limit, linked to high-risk party"
+28,Medium,4,Journal entry,JE00560,2026-02-26,anagy,Consulting fees: Pannon Advisory,49850.0,2,"just below review limit, linked to high-risk party"
+29,Medium,4,Journal entry,JE01704,2026-10-29,anagy,Consulting fees: Pannon Advisory,49700.0,2,"just below review limit, linked to high-risk party"
+30,Medium,4,Journal entry,JE00994,2026-05-28,anagy,Consulting fees: Pannon Advisory,49620.4,2,"just below review limit, linked to high-risk party"
+31,Medium,4,Payment,P01276,2026-08-03,kszabo,Budapest Fresh Produce,562.37,2,"duplicate payment (near), linked to high-risk party"
+32,Medium,4,Payment,P00629,2026-03-12,kszabo,Florist Bp,542.23,2,"duplicate payment (near), linked to high-risk party"
+33,Medium,4,Payment,P00083,2025-11-18,kszabo,Cleaning Supplies Kft,443.6,2,"duplicate payment (near), linked to high-risk party"
+34,Medium,3,Payment,P01653,2026-10-22,bkovacs,Metro Kft,4725.27,1,duplicate payment (exact)
+35,Medium,3,Payment,P00540,2026-02-23,bkovacs,Budapest Fresh Produce,1259.24,1,duplicate payment (exact)
+36,Medium,3,Payment,P01006,2026-06-02,bkovacs,Metro Kft,318.88,1,duplicate payment (exact)
+37,Low,2,Journal entry,JE00753,2026-04-07,anagy,VAT payable: VAT payment,46516.6,1,just below review limit
+38,Low,2,Journal entry,JE01313,2026-08-04,anagy,Utilities: Accrual: utilities estimate,45430.9,1,just below review limit
+39,Low,2,Payment,P00014,2025-11-05,bkovacs,Elektro Energia,9566.95,1,just below payment limit
+40,Low,2,Payment,P00731,2026-04-02,bkovacs,Elektro Energia,9559.48,1,just below payment limit
+41,Low,2,Payment,P00706,2026-03-30,bkovacs,Elektro Energia,9001.62,1,just below payment limit
+42,Low,2,Payment,P00183,2025-12-08,bkovacs,Spa Products Europe,960.82,1,duplicate payment (near)
+43,Low,1,Journal entry,JE00721,2026-03-31,bkovacs,Accrued expenses: Year-end provision,40000.0,1,round amount
+44,Low,1,Journal entry,JE01712,2026-10-30,bkovacs,Accrued expenses: Adjustment,35000.0,1,round amount
+45,Low,1,Journal entry,JE01137,2026-06-30,bkovacs,Accrued expenses: Adjustment per management,30000.0,1,round amount
+46,Low,1,Journal entry,JE00293,2025-12-30,bkovacs,Accrued expenses: Adjustment,25000.0,1,round amount
+47,Low,1,Journal entry,JE01570,2026-09-30,bkovacs,Accrued expenses: Reclass,20000.0,1,round amount
+48,Low,1,Journal entry,JE00741,2026-04-04,bkovacs,Repairs and maintenance: Accrual: marketing campaign,15230.0,1,weekend
+49,Low,1,Journal entry,JE00491,2026-02-10,anagy,Marketing: Accrual: marketing campaign,11905.35,1,after hours
+50,Low,1,Journal entry,JE01210,2026-07-15,anagy,Marketing: Accrual: marketing campaign,9031.15,1,after hours
+51,Low,1,Journal entry,JE01332,2026-08-08,bkovacs,Repairs and maintenance: Accrual: food deliveries not yet invoiced,8760.9,1,weekend
+52,Low,1,Journal entry,JE00214,2025-12-13,bkovacs,Repairs and maintenance: Accrual: utilities estimate,7412.6,1,weekend
+53,Low,1,Journal entry,JE00093,2025-11-19,anagy,Marketing: Accrual: marketing campaign,6340.0,1,after hours
+54,Low,1,Journal entry,JE01556,2026-09-27,bkovacs,Repairs and maintenance: Reclass: repairs booked to wrong account,4480.25,1,weekend
+55,Low,1,Journal entry,JE00883,2026-05-06,anagy,Marketing: Accrual: marketing campaign,4212.8,1,after hours
+56,Low,1,Journal entry,JE00385,2026-01-18,bkovacs,Repairs and maintenance: Reclass: repairs booked to wrong account,3905.1,1,weekend
+57,Low,1,Journal entry,JE01665,2026-10-21,anagy,Marketing: Accrual: marketing campaign,2786.4,1,after hours
+58,Low,1,Journal entry,JE01100,2026-06-21,bkovacs,Repairs and maintenance: Correction: room charge reversed,2118.45,1,weekend
