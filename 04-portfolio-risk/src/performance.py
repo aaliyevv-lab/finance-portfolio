@@ -52,7 +52,7 @@ print(f"\nAverage volatility of the four stocks: {avg_stock_vol:.1%}; portfolio 
       f"{summary.loc['Portfolio', 'annual_volatility']:.1%}  <- lower: diversification (Task 3)")
 print(f"Risk-free rate used for the Sharpe ratio: {RF_ANNUAL:.1%} a year")
 
-summary.round(4).to_csv(OUT / "performance_summary.csv", index_label="series")
+summary.round(6).to_csv(OUT / "performance_summary.csv", index_label="series")
 
 # Chart: growth of EUR 100. Log scale, so equal percentage moves look equally big
 # (Telekom's 8x rise would otherwise squash every other line).
