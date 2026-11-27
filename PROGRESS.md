@@ -150,8 +150,19 @@
    perks, non-refundable rates — but don't drop it: reach to foreign guests, fills Jan–Feb, billboard effect.
 - **Still to do:** answer all three out loud without notes; time each answer (≤ 60 seconds).
 
-### Project 2: ledger-reconciliation (questions only; answer them myself first, then ask Claude for feedback)
-1. **Your GL and bank differ by EUR 54,912 at month-end. Walk me through how you find out why.**
-2. **What is the difference between a timing difference and an error? Give one example of each from your project.**
-3. **IT suppliers are EUR 31,817 over budget. How do you investigate it before telling the GM?**
-- **Still to do:** answer all three out loud; time each answer (≤ 60 seconds).
+### Project 2: ledger-reconciliation (model answers given by Claude on request; practise saying them in my own words)
+1. **GL and bank differ by EUR 54,912. How do you find out why?** Match in passes from strict to loose:
+   reference + amount (178 matches), then date + amount for wrongly typed references (2 more). Classify
+   what's left: timing items (deposits in transit EUR 54,679, outstanding payments EUR 14,936) adjust the
+   bank side; errors and unbooked items (duplicates, wrong amounts, fees, interest, unidentified receipt)
+   adjust the GL side. Both adjusted balances = EUR 1,026,745.47, difference 0.00, checked with an assert.
+2. **Timing difference vs error?** Timing: both records are right, they just record it in different
+   months, and it clears by itself (card takings of Fri 30 Oct, paid by the bank on Mon 2 Nov). No entry,
+   but check it clears. Error: one record is wrong and needs a correcting entry (INV-261019 booked twice:
+   reverse EUR 16,437.88; PAY-5011 booked as 1,520 instead of 1,250, difference divisible by 9 = swapped digits).
+3. **IT suppliers EUR 31,817 over budget: how to investigate?** Drill down: total → supplier → invoice.
+   EUR 64.7k to IT Systems Zrt in 11 payments, EUR 27.1k to Florist Bp in 5. Ask: timing (annual licence
+   paid in Oct?), one-off (new system/project), miscoding (florist isn't IT: wrong category), or real
+   overspend? 11 payments to one supplier in a month → check for duplicate invoices/split payments.
+   Check contracts and POs, then tell the GM: amount, cause, one-off or recurring, action.
+- **Still to do:** answer all three out loud without notes; time each answer (≤ 60 seconds).
