@@ -7,7 +7,7 @@
 | 1 | hotel-kpis | Done (interview answers to practise) |
 | 2 | ledger-reconciliation | Done (code given by Claude step by step, run and committed by me; interview questions to practise) |
 | 3 | audit-analytics | Done (code by Claude, run, checked and committed by me task by task; interview questions to practise) |
-| 4 | portfolio-risk | Not started |
+| 4 | portfolio-risk | Done (code by Claude, run, checked and committed by me task by task; interview questions to practise) |
 | 5 | richter-dcf | Done (extra project, built outside the task-by-task format) |
 
 ## Log
@@ -144,6 +144,20 @@
 - **Struggled with:** running git commands from the wrong folder (`03-audit-analytics/03-audit-analytics`).
 - **To review:** explain the Pannon case in 60 seconds using five tests; explain why weights are a judgment.
 
+### 2026-11-27: portfolio-risk Tasks 1–7
+- **Done:** 5 years of daily prices (OTP, MOL, Richter, Telekom, STOXX Europe 600, EUR/HUF) from Yahoo
+  Finance, converted to EUR; performance (portfolio 29.7%/yr, 20.0% vol, Sharpe 1.39, max drawdown −38.4%);
+  correlations (0.25–0.43, diversification −28% risk, OTP 35.5% of risk); CAPM (beta 0.61, R² 0.18,
+  weekly-beta check); VaR (99% 1-day EUR 3,213, ES EUR 4,833, normal VaR 12% too low, backtest 8 vs ~10
+  exceptions, Kupiec pass, Basel green); one-page risk summary generated from the results. Merged into main.
+- **Learned:** returns vs prices; annualising with √252; CAGR, Sharpe, drawdown (cummax); w′Σw and risk
+  contributions; correlations rise in crises; currency as a common factor; OLS in statsmodels = lm() in R,
+  HAC standard errors; systematic vs idiosyncratic risk (R²); fat tails; VaR vs Expected Shortfall;
+  backtesting without look-ahead (shift); Kupiec test. Git: check the branch name when a file is missing.
+- **Struggled with:** being on `main` instead of the project branch, so the script "didn't exist".
+- **To review:** explain why a portfolio with beta 0.61 can be riskier than the market; explain what a
+  99% VaR does and doesn't promise.
+
 ## Review list (things to revisit before interviews)
 - Hotel KPI formulas: occupancy, ADR, RevPAR = occupancy × ADR, cancellation rate, net ADR.
 - Calendar range join (`date >= check_in AND date < check_out`) and why check-out is not a night.
@@ -153,6 +167,8 @@
 - Audit tests: duplicates (exact + near), approval limit, just below limit, self-approval, new vendors,
   split payments; JE tests on MANUAL entries (weekend, after hours, round, below limit, self-approved).
 - Reconciliation: timing items adjust the bank side, errors adjust the GL side; Dr bank = money in.
+- Risk: vol × √252; Sharpe = (return − rf) / vol; portfolio vol = √(w′Σw); beta = OLS slope, R² = systematic
+  share; 99% VaR = 1st percentile (threshold, not maximum); ES = average beyond VaR; backtest with shift(1).
 
 ## Interview Q&A practice
 ### Project 1: hotel-kpis (model answers given by Claude on request; practise saying them in my own words)
@@ -188,4 +204,10 @@
 1. **What is Benford's Law and how did you use it? What did it find?**
 2. **Your tests flagged 58 items. How do you decide which to look at first, and what do you do about false positives?**
 3. **You suspect an employee is paying a fake supplier. Which controls failed, and what would you recommend?**
+- **Still to do:** answer all three out loud; time each answer (≤ 60 seconds).
+
+### Project 4: portfolio-risk (questions only; answer them myself first, then ask Claude for feedback)
+1. **Walk me through how you measured the risk of this portfolio. Which number would you show a client first, and why?**
+2. **What is Value at Risk, how did you calculate it, and what are its limitations?**
+3. **Your portfolio has a beta of 0.61. Does that make it a defensive investment?**
 - **Still to do:** answer all three out loud; time each answer (≤ 60 seconds).
