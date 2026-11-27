@@ -1,0 +1,11 @@
+test,vendor_name,payment_id_1,payment_id_2,invoice_no_1,invoice_no_2,invoice_similarity,amount,payment_date_1,payment_date_2,days_apart
+A: exact duplicate,Metro Kft,P00962,P01006,INV-40044,INV-40044,1.0,318.88,2026-05-22,2026-06-02,11
+A: exact duplicate,Metro Kft,P00392,P00431,INV-40186,INV-40186,1.0,3582.68,2026-01-23,2026-01-31,8
+A: exact duplicate,Metro Kft,P01580,P01653,INV-40215,INV-40215,1.0,4725.27,2026-10-08,2026-10-22,14
+A: exact duplicate,Budapest Fresh Produce,P00472,P00566,INV-40261,INV-40261,1.0,1376.13,2026-02-10,2026-02-26,16
+A: exact duplicate,Budapest Fresh Produce,P00454,P00532,INV-40341,INV-40341,1.0,3682.23,2026-02-05,2026-02-20,15
+A: exact duplicate,Budapest Fresh Produce,P00473,P00540,INV-40491,INV-40491,1.0,1259.24,2026-02-10,2026-02-23,13
+B: near duplicate,Cleaning Supplies Kft,P00003,P00083,INV-41200,INV-41200A,0.95,443.6,2025-11-04,2025-11-18,14
+B: near duplicate,Spa Products Europe,P00140,P00183,INV-41641,INV-41614,0.89,960.82,2025-11-27,2025-12-08,11
+B: near duplicate,Florist Bp,P00588,P00629,INV-41335,INV-41335A,0.95,542.23,2026-03-03,2026-03-12,9
+B: near duplicate,Budapest Fresh Produce,P01264,P01276,INV-40462,INV-40426,0.89,562.37,2026-07-30,2026-08-03,4
