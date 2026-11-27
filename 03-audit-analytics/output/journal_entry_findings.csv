@@ -1,0 +1,28 @@
+je_id,posting_date,posting_time,posted_by,approved_by,debit_account,debit_name,credit_account,credit_name,amount,description,n_flags,flags
+JE01716,2026-10-31,23:41,kszabo,kszabo,6400,Consulting fees,2000,Trade payables,49900.0,Adjustment,5,"weekend, after_hours, below_limit, self_approved, rare_poster"
+JE01178,2026-07-09,12:12,kszabo,kszabo,6400,Consulting fees,2000,Trade payables,26480.3,Consulting fees: Pannon Advisory,2,"self_approved, rare_poster"
+JE00441,2026-01-29,16:12,kszabo,kszabo,6400,Consulting fees,2000,Trade payables,18340.75,Consulting fees: Pannon Advisory,2,"self_approved, rare_poster"
+JE01511,2026-09-17,12:10,kszabo,kszabo,6400,Consulting fees,2000,Trade payables,12150.6,Consulting fees: Pannon Advisory,2,"self_approved, rare_poster"
+JE00794,2026-04-16,14:03,kszabo,kszabo,6400,Consulting fees,2000,Trade payables,7605.0,Consulting fees: Pannon Advisory,2,"self_approved, rare_poster"
+JE01421,2026-08-27,16:09,anagy,bkovacs,6400,Consulting fees,2000,Trade payables,49975.1,Consulting fees: Pannon Advisory,1,below_limit
+JE00560,2026-02-26,11:46,anagy,bkovacs,6400,Consulting fees,2000,Trade payables,49850.0,Consulting fees: Pannon Advisory,1,below_limit
+JE01704,2026-10-29,11:58,anagy,bkovacs,6400,Consulting fees,2000,Trade payables,49700.0,Consulting fees: Pannon Advisory,1,below_limit
+JE00994,2026-05-28,14:19,anagy,bkovacs,6400,Consulting fees,2000,Trade payables,49620.4,Consulting fees: Pannon Advisory,1,below_limit
+JE00753,2026-04-07,15:02,anagy,bkovacs,2300,VAT payable,1100,Bank,46516.6,VAT payment,1,below_limit
+JE01313,2026-08-04,16:13,anagy,bkovacs,6100,Utilities,2100,Accrued expenses,45430.9,Accrual: utilities estimate,1,below_limit
+JE00721,2026-03-31,10:30,bkovacs,mtoth,2100,Accrued expenses,4000,Rooms revenue,40000.0,Year-end provision,1,round_amount
+JE01712,2026-10-30,17:37,bkovacs,mtoth,2100,Accrued expenses,4000,Rooms revenue,35000.0,Adjustment,1,round_amount
+JE01137,2026-06-30,16:08,bkovacs,mtoth,2100,Accrued expenses,4000,Rooms revenue,30000.0,Adjustment per management,1,round_amount
+JE00293,2025-12-30,16:08,bkovacs,mtoth,2100,Accrued expenses,4000,Rooms revenue,25000.0,Adjustment,1,round_amount
+JE01570,2026-09-30,12:15,bkovacs,mtoth,2100,Accrued expenses,4000,Rooms revenue,20000.0,Reclass,1,round_amount
+JE00741,2026-04-04,16:55,bkovacs,mtoth,6200,Repairs and maintenance,2100,Accrued expenses,15230.0,Accrual: marketing campaign,1,weekend
+JE00491,2026-02-10,22:47,anagy,mtoth,6300,Marketing,2100,Accrued expenses,11905.35,Accrual: marketing campaign,1,after_hours
+JE01210,2026-07-15,23:58,anagy,mtoth,6300,Marketing,2100,Accrued expenses,9031.15,Accrual: marketing campaign,1,after_hours
+JE01332,2026-08-08,17:49,bkovacs,mtoth,6200,Repairs and maintenance,2100,Accrued expenses,8760.9,Accrual: food deliveries not yet invoiced,1,weekend
+JE00214,2025-12-13,16:46,bkovacs,mtoth,6200,Repairs and maintenance,2100,Accrued expenses,7412.6,Accrual: utilities estimate,1,weekend
+JE00093,2025-11-19,23:12,anagy,mtoth,6300,Marketing,2100,Accrued expenses,6340.0,Accrual: marketing campaign,1,after_hours
+JE01556,2026-09-27,08:44,bkovacs,mtoth,6200,Repairs and maintenance,2100,Accrued expenses,4480.25,Reclass: repairs booked to wrong account,1,weekend
+JE00883,2026-05-06,01:30,anagy,mtoth,6300,Marketing,2100,Accrued expenses,4212.8,Accrual: marketing campaign,1,after_hours
+JE00385,2026-01-18,14:04,bkovacs,mtoth,6200,Repairs and maintenance,2100,Accrued expenses,3905.1,Reclass: repairs booked to wrong account,1,weekend
+JE01665,2026-10-21,04:05,anagy,mtoth,6300,Marketing,2100,Accrued expenses,2786.4,Accrual: marketing campaign,1,after_hours
+JE01100,2026-06-21,11:54,bkovacs,mtoth,6200,Repairs and maintenance,2100,Accrued expenses,2118.45,Correction: room charge reversed,1,weekend
